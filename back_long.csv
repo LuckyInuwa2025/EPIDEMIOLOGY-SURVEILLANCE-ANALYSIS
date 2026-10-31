@@ -1,0 +1,3457 @@
+"state","date","disease","cases"
+"Lagos",2019-01-01,"Malaria",71717
+"Lagos",2019-01-01,"Cholera",157
+"Lagos",2019-01-01,"Measles",2185
+"Lagos",2019-01-01,"Lassa Fever",6
+"Lagos",2019-02-01,"Malaria",103202
+"Lagos",2019-02-01,"Cholera",136
+"Lagos",2019-02-01,"Measles",2117
+"Lagos",2019-02-01,"Lassa Fever",8
+"Lagos",2019-03-01,"Malaria",81470
+"Lagos",2019-03-01,"Cholera",120
+"Lagos",2019-03-01,"Measles",2689
+"Lagos",2019-03-01,"Lassa Fever",4
+"Lagos",2019-04-01,"Malaria",92556
+"Lagos",2019-04-01,"Cholera",186
+"Lagos",2019-04-01,"Measles",1805
+"Lagos",2019-04-01,"Lassa Fever",2
+"Lagos",2019-05-01,"Malaria",114155
+"Lagos",2019-05-01,"Cholera",337
+"Lagos",2019-05-01,"Measles",1492
+"Lagos",2019-05-01,"Lassa Fever",0
+"Lagos",2019-06-01,"Malaria",176126
+"Lagos",2019-06-01,"Cholera",589
+"Lagos",2019-06-01,"Measles",1484
+"Lagos",2019-06-01,"Lassa Fever",1
+"Lagos",2019-07-01,"Malaria",148124
+"Lagos",2019-07-01,"Cholera",510
+"Lagos",2019-07-01,"Measles",1317
+"Lagos",2019-07-01,"Lassa Fever",1
+"Lagos",2019-08-01,"Malaria",140619
+"Lagos",2019-08-01,"Cholera",399
+"Lagos",2019-08-01,"Measles",1167
+"Lagos",2019-08-01,"Lassa Fever",0
+"Lagos",2019-09-01,"Malaria",177061
+"Lagos",2019-09-01,"Cholera",305
+"Lagos",2019-09-01,"Measles",1303
+"Lagos",2019-09-01,"Lassa Fever",2
+"Lagos",2019-10-01,"Malaria",153914
+"Lagos",2019-10-01,"Cholera",299
+"Lagos",2019-10-01,"Measles",1152
+"Lagos",2019-10-01,"Lassa Fever",0
+"Lagos",2019-11-01,"Malaria",130160
+"Lagos",2019-11-01,"Cholera",198
+"Lagos",2019-11-01,"Measles",1218
+"Lagos",2019-11-01,"Lassa Fever",0
+"Lagos",2019-12-01,"Malaria",113489
+"Lagos",2019-12-01,"Cholera",125
+"Lagos",2019-12-01,"Measles",1349
+"Lagos",2019-12-01,"Lassa Fever",4
+"Lagos",2020-01-01,"Malaria",78943
+"Lagos",2020-01-01,"Cholera",102
+"Lagos",2020-01-01,"Measles",2541
+"Lagos",2020-01-01,"Lassa Fever",10
+"Lagos",2020-02-01,"Malaria",76908
+"Lagos",2020-02-01,"Cholera",125
+"Lagos",2020-02-01,"Measles",2768
+"Lagos",2020-02-01,"Lassa Fever",10
+"Lagos",2020-03-01,"Malaria",96005
+"Lagos",2020-03-01,"Cholera",208
+"Lagos",2020-03-01,"Measles",2448
+"Lagos",2020-03-01,"Lassa Fever",1
+"Lagos",2020-04-01,"Malaria",84876
+"Lagos",2020-04-01,"Cholera",266
+"Lagos",2020-04-01,"Measles",1772
+"Lagos",2020-04-01,"Lassa Fever",2
+"Lagos",2020-05-01,"Malaria",88624
+"Lagos",2020-05-01,"Cholera",267
+"Lagos",2020-05-01,"Measles",1396
+"Lagos",2020-05-01,"Lassa Fever",0
+"Lagos",2020-06-01,"Malaria",142079
+"Lagos",2020-06-01,"Cholera",548
+"Lagos",2020-06-01,"Measles",1180
+"Lagos",2020-06-01,"Lassa Fever",0
+"Lagos",2020-07-01,"Malaria",188701
+"Lagos",2020-07-01,"Cholera",474
+"Lagos",2020-07-01,"Measles",1267
+"Lagos",2020-07-01,"Lassa Fever",1
+"Lagos",2020-08-01,"Malaria",188502
+"Lagos",2020-08-01,"Cholera",517
+"Lagos",2020-08-01,"Measles",1635
+"Lagos",2020-08-01,"Lassa Fever",1
+"Lagos",2020-09-01,"Malaria",175320
+"Lagos",2020-09-01,"Cholera",401
+"Lagos",2020-09-01,"Measles",1687
+"Lagos",2020-09-01,"Lassa Fever",2
+"Lagos",2020-10-01,"Malaria",141610
+"Lagos",2020-10-01,"Cholera",316
+"Lagos",2020-10-01,"Measles",2117
+"Lagos",2020-10-01,"Lassa Fever",5
+"Lagos",2020-11-01,"Malaria",126076
+"Lagos",2020-11-01,"Cholera",138
+"Lagos",2020-11-01,"Measles",1667
+"Lagos",2020-11-01,"Lassa Fever",3
+"Lagos",2020-12-01,"Malaria",85904
+"Lagos",2020-12-01,"Cholera",175
+"Lagos",2020-12-01,"Measles",1828
+"Lagos",2020-12-01,"Lassa Fever",4
+"Lagos",2021-01-01,"Malaria",75878
+"Lagos",2021-01-01,"Cholera",153
+"Lagos",2021-01-01,"Measles",2404
+"Lagos",2021-01-01,"Lassa Fever",10
+"Lagos",2021-02-01,"Malaria",120318
+"Lagos",2021-02-01,"Cholera",128
+"Lagos",2021-02-01,"Measles",2573
+"Lagos",2021-02-01,"Lassa Fever",16
+"Lagos",2021-03-01,"Malaria",78494
+"Lagos",2021-03-01,"Cholera",131
+"Lagos",2021-03-01,"Measles",2483
+"Lagos",2021-03-01,"Lassa Fever",4
+"Lagos",2021-04-01,"Malaria",121899
+"Lagos",2021-04-01,"Cholera",199
+"Lagos",2021-04-01,"Measles",1504
+"Lagos",2021-04-01,"Lassa Fever",1
+"Lagos",2021-05-01,"Malaria",103345
+"Lagos",2021-05-01,"Cholera",280
+"Lagos",2021-05-01,"Measles",1536
+"Lagos",2021-05-01,"Lassa Fever",2
+"Lagos",2021-06-01,"Malaria",139705
+"Lagos",2021-06-01,"Cholera",551
+"Lagos",2021-06-01,"Measles",1217
+"Lagos",2021-06-01,"Lassa Fever",1
+"Lagos",2021-07-01,"Malaria",149734
+"Lagos",2021-07-01,"Cholera",465
+"Lagos",2021-07-01,"Measles",1197
+"Lagos",2021-07-01,"Lassa Fever",0
+"Lagos",2021-08-01,"Malaria",173910
+"Lagos",2021-08-01,"Cholera",397
+"Lagos",2021-08-01,"Measles",1006
+"Lagos",2021-08-01,"Lassa Fever",0
+"Lagos",2021-09-01,"Malaria",163145
+"Lagos",2021-09-01,"Cholera",330
+"Lagos",2021-09-01,"Measles",1593
+"Lagos",2021-09-01,"Lassa Fever",0
+"Lagos",2021-10-01,"Malaria",133626
+"Lagos",2021-10-01,"Cholera",407
+"Lagos",2021-10-01,"Measles",1508
+"Lagos",2021-10-01,"Lassa Fever",1
+"Lagos",2021-11-01,"Malaria",100655
+"Lagos",2021-11-01,"Cholera",128
+"Lagos",2021-11-01,"Measles",1395
+"Lagos",2021-11-01,"Lassa Fever",1
+"Lagos",2021-12-01,"Malaria",98707
+"Lagos",2021-12-01,"Cholera",164
+"Lagos",2021-12-01,"Measles",1287
+"Lagos",2021-12-01,"Lassa Fever",5
+"Lagos",2022-01-01,"Malaria",76414
+"Lagos",2022-01-01,"Cholera",160
+"Lagos",2022-01-01,"Measles",1755
+"Lagos",2022-01-01,"Lassa Fever",9
+"Lagos",2022-02-01,"Malaria",76984
+"Lagos",2022-02-01,"Cholera",126
+"Lagos",2022-02-01,"Measles",2386
+"Lagos",2022-02-01,"Lassa Fever",13
+"Lagos",2022-03-01,"Malaria",76228
+"Lagos",2022-03-01,"Cholera",120
+"Lagos",2022-03-01,"Measles",1940
+"Lagos",2022-03-01,"Lassa Fever",4
+"Lagos",2022-04-01,"Malaria",80082
+"Lagos",2022-04-01,"Cholera",220
+"Lagos",2022-04-01,"Measles",1612
+"Lagos",2022-04-01,"Lassa Fever",1
+"Lagos",2022-05-01,"Malaria",86861
+"Lagos",2022-05-01,"Cholera",337
+"Lagos",2022-05-01,"Measles",2181
+"Lagos",2022-05-01,"Lassa Fever",2
+"Lagos",2022-06-01,"Malaria",135349
+"Lagos",2022-06-01,"Cholera",438
+"Lagos",2022-06-01,"Measles",1318
+"Lagos",2022-06-01,"Lassa Fever",0
+"Lagos",2022-07-01,"Malaria",160668
+"Lagos",2022-07-01,"Cholera",3147
+"Lagos",2022-07-01,"Measles",1314
+"Lagos",2022-07-01,"Lassa Fever",0
+"Lagos",2022-08-01,"Malaria",184129
+"Lagos",2022-08-01,"Cholera",3033
+"Lagos",2022-08-01,"Measles",1419
+"Lagos",2022-08-01,"Lassa Fever",0
+"Lagos",2022-09-01,"Malaria",159195
+"Lagos",2022-09-01,"Cholera",1980
+"Lagos",2022-09-01,"Measles",1610
+"Lagos",2022-09-01,"Lassa Fever",0
+"Lagos",2022-10-01,"Malaria",181191
+"Lagos",2022-10-01,"Cholera",1884
+"Lagos",2022-10-01,"Measles",1624
+"Lagos",2022-10-01,"Lassa Fever",0
+"Lagos",2022-11-01,"Malaria",126510
+"Lagos",2022-11-01,"Cholera",225
+"Lagos",2022-11-01,"Measles",1082
+"Lagos",2022-11-01,"Lassa Fever",2
+"Lagos",2022-12-01,"Malaria",93559
+"Lagos",2022-12-01,"Cholera",147
+"Lagos",2022-12-01,"Measles",1320
+"Lagos",2022-12-01,"Lassa Fever",5
+"Lagos",2023-01-01,"Malaria",86843
+"Lagos",2023-01-01,"Cholera",157
+"Lagos",2023-01-01,"Measles",1815
+"Lagos",2023-01-01,"Lassa Fever",7
+"Lagos",2023-02-01,"Malaria",74916
+"Lagos",2023-02-01,"Cholera",135
+"Lagos",2023-02-01,"Measles",2181
+"Lagos",2023-02-01,"Lassa Fever",8
+"Lagos",2023-03-01,"Malaria",98110
+"Lagos",2023-03-01,"Cholera",139
+"Lagos",2023-03-01,"Measles",2631
+"Lagos",2023-03-01,"Lassa Fever",3
+"Lagos",2023-04-01,"Malaria",99030
+"Lagos",2023-04-01,"Cholera",271
+"Lagos",2023-04-01,"Measles",1746
+"Lagos",2023-04-01,"Lassa Fever",3
+"Lagos",2023-05-01,"Malaria",98592
+"Lagos",2023-05-01,"Cholera",352
+"Lagos",2023-05-01,"Measles",1544
+"Lagos",2023-05-01,"Lassa Fever",3
+"Lagos",2023-06-01,"Malaria",152432
+"Lagos",2023-06-01,"Cholera",448
+"Lagos",2023-06-01,"Measles",1402
+"Lagos",2023-06-01,"Lassa Fever",1
+"Lagos",2023-07-01,"Malaria",131314
+"Lagos",2023-07-01,"Cholera",462
+"Lagos",2023-07-01,"Measles",1489
+"Lagos",2023-07-01,"Lassa Fever",0
+"Lagos",2023-08-01,"Malaria",156581
+"Lagos",2023-08-01,"Cholera",256
+"Lagos",2023-08-01,"Measles",1148
+"Lagos",2023-08-01,"Lassa Fever",1
+"Lagos",2023-09-01,"Malaria",158263
+"Lagos",2023-09-01,"Cholera",334
+"Lagos",2023-09-01,"Measles",1544
+"Lagos",2023-09-01,"Lassa Fever",0
+"Lagos",2023-10-01,"Malaria",132084
+"Lagos",2023-10-01,"Cholera",349
+"Lagos",2023-10-01,"Measles",1275
+"Lagos",2023-10-01,"Lassa Fever",0
+"Lagos",2023-11-01,"Malaria",142306
+"Lagos",2023-11-01,"Cholera",180
+"Lagos",2023-11-01,"Measles",1304
+"Lagos",2023-11-01,"Lassa Fever",0
+"Lagos",2023-12-01,"Malaria",99531
+"Lagos",2023-12-01,"Cholera",121
+"Lagos",2023-12-01,"Measles",1383
+"Lagos",2023-12-01,"Lassa Fever",9
+"Lagos",2024-01-01,"Malaria",88092
+"Lagos",2024-01-01,"Cholera",116
+"Lagos",2024-01-01,"Measles",1939
+"Lagos",2024-01-01,"Lassa Fever",7
+"Lagos",2024-02-01,"Malaria",73333
+"Lagos",2024-02-01,"Cholera",154
+"Lagos",2024-02-01,"Measles",2443
+"Lagos",2024-02-01,"Lassa Fever",10
+"Lagos",2024-03-01,"Malaria",91048
+"Lagos",2024-03-01,"Cholera",173
+"Lagos",2024-03-01,"Measles",2641
+"Lagos",2024-03-01,"Lassa Fever",4
+"Lagos",2024-04-01,"Malaria",100119
+"Lagos",2024-04-01,"Cholera",285
+"Lagos",2024-04-01,"Measles",1859
+"Lagos",2024-04-01,"Lassa Fever",2
+"Lagos",2024-05-01,"Malaria",116438
+"Lagos",2024-05-01,"Cholera",541
+"Lagos",2024-05-01,"Measles",1039
+"Lagos",2024-05-01,"Lassa Fever",1
+"Lagos",2024-06-01,"Malaria",151971
+"Lagos",2024-06-01,"Cholera",476
+"Lagos",2024-06-01,"Measles",1484
+"Lagos",2024-06-01,"Lassa Fever",0
+"Lagos",2024-07-01,"Malaria",159776
+"Lagos",2024-07-01,"Cholera",507
+"Lagos",2024-07-01,"Measles",1213
+"Lagos",2024-07-01,"Lassa Fever",0
+"Lagos",2024-08-01,"Malaria",138806
+"Lagos",2024-08-01,"Cholera",461
+"Lagos",2024-08-01,"Measles",1431
+"Lagos",2024-08-01,"Lassa Fever",0
+"Lagos",2024-09-01,"Malaria",203031
+"Lagos",2024-09-01,"Cholera",328
+"Lagos",2024-09-01,"Measles",1433
+"Lagos",2024-09-01,"Lassa Fever",2
+"Lagos",2024-10-01,"Malaria",130695
+"Lagos",2024-10-01,"Cholera",349
+"Lagos",2024-10-01,"Measles",1369
+"Lagos",2024-10-01,"Lassa Fever",1
+"Lagos",2024-11-01,"Malaria",139911
+"Lagos",2024-11-01,"Cholera",134
+"Lagos",2024-11-01,"Measles",1620
+"Lagos",2024-11-01,"Lassa Fever",0
+"Lagos",2024-12-01,"Malaria",99806
+"Lagos",2024-12-01,"Cholera",150
+"Lagos",2024-12-01,"Measles",1358
+"Lagos",2024-12-01,"Lassa Fever",4
+"Oyo",2019-01-01,"Malaria",41624
+"Oyo",2019-01-01,"Cholera",50
+"Oyo",2019-01-01,"Measles",1256
+"Oyo",2019-01-01,"Lassa Fever",3
+"Oyo",2019-02-01,"Malaria",41621
+"Oyo",2019-02-01,"Cholera",62
+"Oyo",2019-02-01,"Measles",1420
+"Oyo",2019-02-01,"Lassa Fever",2
+"Oyo",2019-03-01,"Malaria",51482
+"Oyo",2019-03-01,"Cholera",76
+"Oyo",2019-03-01,"Measles",1503
+"Oyo",2019-03-01,"Lassa Fever",3
+"Oyo",2019-04-01,"Malaria",61001
+"Oyo",2019-04-01,"Cholera",145
+"Oyo",2019-04-01,"Measles",1388
+"Oyo",2019-04-01,"Lassa Fever",1
+"Oyo",2019-05-01,"Malaria",68526
+"Oyo",2019-05-01,"Cholera",178
+"Oyo",2019-05-01,"Measles",967
+"Oyo",2019-05-01,"Lassa Fever",0
+"Oyo",2019-06-01,"Malaria",75976
+"Oyo",2019-06-01,"Cholera",187
+"Oyo",2019-06-01,"Measles",1009
+"Oyo",2019-06-01,"Lassa Fever",0
+"Oyo",2019-07-01,"Malaria",95390
+"Oyo",2019-07-01,"Cholera",170
+"Oyo",2019-07-01,"Measles",751
+"Oyo",2019-07-01,"Lassa Fever",0
+"Oyo",2019-08-01,"Malaria",103465
+"Oyo",2019-08-01,"Cholera",289
+"Oyo",2019-08-01,"Measles",933
+"Oyo",2019-08-01,"Lassa Fever",0
+"Oyo",2019-09-01,"Malaria",101094
+"Oyo",2019-09-01,"Cholera",154
+"Oyo",2019-09-01,"Measles",918
+"Oyo",2019-09-01,"Lassa Fever",0
+"Oyo",2019-10-01,"Malaria",69534
+"Oyo",2019-10-01,"Cholera",127
+"Oyo",2019-10-01,"Measles",1042
+"Oyo",2019-10-01,"Lassa Fever",2
+"Oyo",2019-11-01,"Malaria",71673
+"Oyo",2019-11-01,"Cholera",106
+"Oyo",2019-11-01,"Measles",916
+"Oyo",2019-11-01,"Lassa Fever",2
+"Oyo",2019-12-01,"Malaria",57144
+"Oyo",2019-12-01,"Cholera",71
+"Oyo",2019-12-01,"Measles",974
+"Oyo",2019-12-01,"Lassa Fever",2
+"Oyo",2020-01-01,"Malaria",52523
+"Oyo",2020-01-01,"Cholera",67
+"Oyo",2020-01-01,"Measles",1565
+"Oyo",2020-01-01,"Lassa Fever",3
+"Oyo",2020-02-01,"Malaria",49282
+"Oyo",2020-02-01,"Cholera",93
+"Oyo",2020-02-01,"Measles",1928
+"Oyo",2020-02-01,"Lassa Fever",5
+"Oyo",2020-03-01,"Malaria",48379
+"Oyo",2020-03-01,"Cholera",91
+"Oyo",2020-03-01,"Measles",2141
+"Oyo",2020-03-01,"Lassa Fever",2
+"Oyo",2020-04-01,"Malaria",32451
+"Oyo",2020-04-01,"Cholera",148
+"Oyo",2020-04-01,"Measles",1044
+"Oyo",2020-04-01,"Lassa Fever",1
+"Oyo",2020-05-01,"Malaria",52794
+"Oyo",2020-05-01,"Cholera",163
+"Oyo",2020-05-01,"Measles",794
+"Oyo",2020-05-01,"Lassa Fever",0
+"Oyo",2020-06-01,"Malaria",55829
+"Oyo",2020-06-01,"Cholera",184
+"Oyo",2020-06-01,"Measles",863
+"Oyo",2020-06-01,"Lassa Fever",1
+"Oyo",2020-07-01,"Malaria",114775
+"Oyo",2020-07-01,"Cholera",319
+"Oyo",2020-07-01,"Measles",930
+"Oyo",2020-07-01,"Lassa Fever",1
+"Oyo",2020-08-01,"Malaria",109499
+"Oyo",2020-08-01,"Cholera",188
+"Oyo",2020-08-01,"Measles",1255
+"Oyo",2020-08-01,"Lassa Fever",3
+"Oyo",2020-09-01,"Malaria",84127
+"Oyo",2020-09-01,"Cholera",164
+"Oyo",2020-09-01,"Measles",837
+"Oyo",2020-09-01,"Lassa Fever",0
+"Oyo",2020-10-01,"Malaria",91249
+"Oyo",2020-10-01,"Cholera",152
+"Oyo",2020-10-01,"Measles",1079
+"Oyo",2020-10-01,"Lassa Fever",0
+"Oyo",2020-11-01,"Malaria",64056
+"Oyo",2020-11-01,"Cholera",81
+"Oyo",2020-11-01,"Measles",853
+"Oyo",2020-11-01,"Lassa Fever",2
+"Oyo",2020-12-01,"Malaria",47864
+"Oyo",2020-12-01,"Cholera",61
+"Oyo",2020-12-01,"Measles",973
+"Oyo",2020-12-01,"Lassa Fever",3
+"Oyo",2021-01-01,"Malaria",53479
+"Oyo",2021-01-01,"Cholera",62
+"Oyo",2021-01-01,"Measles",1140
+"Oyo",2021-01-01,"Lassa Fever",2
+"Oyo",2021-02-01,"Malaria",42206
+"Oyo",2021-02-01,"Cholera",71
+"Oyo",2021-02-01,"Measles",1757
+"Oyo",2021-02-01,"Lassa Fever",7
+"Oyo",2021-03-01,"Malaria",49877
+"Oyo",2021-03-01,"Cholera",99
+"Oyo",2021-03-01,"Measles",1622
+"Oyo",2021-03-01,"Lassa Fever",3
+"Oyo",2021-04-01,"Malaria",69518
+"Oyo",2021-04-01,"Cholera",116
+"Oyo",2021-04-01,"Measles",1202
+"Oyo",2021-04-01,"Lassa Fever",1
+"Oyo",2021-05-01,"Malaria",70966
+"Oyo",2021-05-01,"Cholera",245
+"Oyo",2021-05-01,"Measles",987
+"Oyo",2021-05-01,"Lassa Fever",0
+"Oyo",2021-06-01,"Malaria",102174
+"Oyo",2021-06-01,"Cholera",337
+"Oyo",2021-06-01,"Measles",907
+"Oyo",2021-06-01,"Lassa Fever",0
+"Oyo",2021-07-01,"Malaria",102936
+"Oyo",2021-07-01,"Cholera",326
+"Oyo",2021-07-01,"Measles",856
+"Oyo",2021-07-01,"Lassa Fever",0
+"Oyo",2021-08-01,"Malaria",98037
+"Oyo",2021-08-01,"Cholera",228
+"Oyo",2021-08-01,"Measles",863
+"Oyo",2021-08-01,"Lassa Fever",1
+"Oyo",2021-09-01,"Malaria",79512
+"Oyo",2021-09-01,"Cholera",133
+"Oyo",2021-09-01,"Measles",809
+"Oyo",2021-09-01,"Lassa Fever",0
+"Oyo",2021-10-01,"Malaria",79167
+"Oyo",2021-10-01,"Cholera",143
+"Oyo",2021-10-01,"Measles",903
+"Oyo",2021-10-01,"Lassa Fever",2
+"Oyo",2021-11-01,"Malaria",72137
+"Oyo",2021-11-01,"Cholera",107
+"Oyo",2021-11-01,"Measles",886
+"Oyo",2021-11-01,"Lassa Fever",0
+"Oyo",2021-12-01,"Malaria",44364
+"Oyo",2021-12-01,"Cholera",70
+"Oyo",2021-12-01,"Measles",867
+"Oyo",2021-12-01,"Lassa Fever",5
+"Oyo",2022-01-01,"Malaria",51802
+"Oyo",2022-01-01,"Cholera",68
+"Oyo",2022-01-01,"Measles",1385
+"Oyo",2022-01-01,"Lassa Fever",8
+"Oyo",2022-02-01,"Malaria",56120
+"Oyo",2022-02-01,"Cholera",68
+"Oyo",2022-02-01,"Measles",2054
+"Oyo",2022-02-01,"Lassa Fever",6
+"Oyo",2022-03-01,"Malaria",59619
+"Oyo",2022-03-01,"Cholera",100
+"Oyo",2022-03-01,"Measles",1787
+"Oyo",2022-03-01,"Lassa Fever",2
+"Oyo",2022-04-01,"Malaria",48320
+"Oyo",2022-04-01,"Cholera",93
+"Oyo",2022-04-01,"Measles",1423
+"Oyo",2022-04-01,"Lassa Fever",2
+"Oyo",2022-05-01,"Malaria",60751
+"Oyo",2022-05-01,"Cholera",185
+"Oyo",2022-05-01,"Measles",1095
+"Oyo",2022-05-01,"Lassa Fever",0
+"Oyo",2022-06-01,"Malaria",69223
+"Oyo",2022-06-01,"Cholera",285
+"Oyo",2022-06-01,"Measles",868
+"Oyo",2022-06-01,"Lassa Fever",0
+"Oyo",2022-07-01,"Malaria",98033
+"Oyo",2022-07-01,"Cholera",447
+"Oyo",2022-07-01,"Measles",998
+"Oyo",2022-07-01,"Lassa Fever",0
+"Oyo",2022-08-01,"Malaria",81925
+"Oyo",2022-08-01,"Cholera",212
+"Oyo",2022-08-01,"Measles",945
+"Oyo",2022-08-01,"Lassa Fever",0
+"Oyo",2022-09-01,"Malaria",82218
+"Oyo",2022-09-01,"Cholera",163
+"Oyo",2022-09-01,"Measles",939
+"Oyo",2022-09-01,"Lassa Fever",0
+"Oyo",2022-10-01,"Malaria",76956
+"Oyo",2022-10-01,"Cholera",157
+"Oyo",2022-10-01,"Measles",967
+"Oyo",2022-10-01,"Lassa Fever",0
+"Oyo",2022-11-01,"Malaria",82872
+"Oyo",2022-11-01,"Cholera",85
+"Oyo",2022-11-01,"Measles",979
+"Oyo",2022-11-01,"Lassa Fever",0
+"Oyo",2022-12-01,"Malaria",50564
+"Oyo",2022-12-01,"Cholera",99
+"Oyo",2022-12-01,"Measles",887
+"Oyo",2022-12-01,"Lassa Fever",2
+"Oyo",2023-01-01,"Malaria",44698
+"Oyo",2023-01-01,"Cholera",57
+"Oyo",2023-01-01,"Measles",1505
+"Oyo",2023-01-01,"Lassa Fever",5
+"Oyo",2023-02-01,"Malaria",59896
+"Oyo",2023-02-01,"Cholera",93
+"Oyo",2023-02-01,"Measles",1689
+"Oyo",2023-02-01,"Lassa Fever",6
+"Oyo",2023-03-01,"Malaria",36997
+"Oyo",2023-03-01,"Cholera",88
+"Oyo",2023-03-01,"Measles",2037
+"Oyo",2023-03-01,"Lassa Fever",2
+"Oyo",2023-04-01,"Malaria",54349
+"Oyo",2023-04-01,"Cholera",121
+"Oyo",2023-04-01,"Measles",1715
+"Oyo",2023-04-01,"Lassa Fever",0
+"Oyo",2023-05-01,"Malaria",73030
+"Oyo",2023-05-01,"Cholera",290
+"Oyo",2023-05-01,"Measles",1278
+"Oyo",2023-05-01,"Lassa Fever",1
+"Oyo",2023-06-01,"Malaria",71659
+"Oyo",2023-06-01,"Cholera",297
+"Oyo",2023-06-01,"Measles",997
+"Oyo",2023-06-01,"Lassa Fever",2
+"Oyo",2023-07-01,"Malaria",120596
+"Oyo",2023-07-01,"Cholera",328
+"Oyo",2023-07-01,"Measles",1192
+"Oyo",2023-07-01,"Lassa Fever",1
+"Oyo",2023-08-01,"Malaria",117451
+"Oyo",2023-08-01,"Cholera",204
+"Oyo",2023-08-01,"Measles",1203
+"Oyo",2023-08-01,"Lassa Fever",1
+"Oyo",2023-09-01,"Malaria",92603
+"Oyo",2023-09-01,"Cholera",250
+"Oyo",2023-09-01,"Measles",1068
+"Oyo",2023-09-01,"Lassa Fever",1
+"Oyo",2023-10-01,"Malaria",81952
+"Oyo",2023-10-01,"Cholera",201
+"Oyo",2023-10-01,"Measles",972
+"Oyo",2023-10-01,"Lassa Fever",1
+"Oyo",2023-11-01,"Malaria",70785
+"Oyo",2023-11-01,"Cholera",155
+"Oyo",2023-11-01,"Measles",867
+"Oyo",2023-11-01,"Lassa Fever",3
+"Oyo",2023-12-01,"Malaria",58175
+"Oyo",2023-12-01,"Cholera",105
+"Oyo",2023-12-01,"Measles",1081
+"Oyo",2023-12-01,"Lassa Fever",3
+"Oyo",2024-01-01,"Malaria",47275
+"Oyo",2024-01-01,"Cholera",93
+"Oyo",2024-01-01,"Measles",1036
+"Oyo",2024-01-01,"Lassa Fever",9
+"Oyo",2024-02-01,"Malaria",44776
+"Oyo",2024-02-01,"Cholera",60
+"Oyo",2024-02-01,"Measles",1638
+"Oyo",2024-02-01,"Lassa Fever",5
+"Oyo",2024-03-01,"Malaria",44849
+"Oyo",2024-03-01,"Cholera",132
+"Oyo",2024-03-01,"Measles",1796
+"Oyo",2024-03-01,"Lassa Fever",4
+"Oyo",2024-04-01,"Malaria",46228
+"Oyo",2024-04-01,"Cholera",129
+"Oyo",2024-04-01,"Measles",1652
+"Oyo",2024-04-01,"Lassa Fever",0
+"Oyo",2024-05-01,"Malaria",71001
+"Oyo",2024-05-01,"Cholera",257
+"Oyo",2024-05-01,"Measles",1149
+"Oyo",2024-05-01,"Lassa Fever",2
+"Oyo",2024-06-01,"Malaria",88171
+"Oyo",2024-06-01,"Cholera",331
+"Oyo",2024-06-01,"Measles",968
+"Oyo",2024-06-01,"Lassa Fever",0
+"Oyo",2024-07-01,"Malaria",99323
+"Oyo",2024-07-01,"Cholera",295
+"Oyo",2024-07-01,"Measles",860
+"Oyo",2024-07-01,"Lassa Fever",1
+"Oyo",2024-08-01,"Malaria",100635
+"Oyo",2024-08-01,"Cholera",333
+"Oyo",2024-08-01,"Measles",920
+"Oyo",2024-08-01,"Lassa Fever",1
+"Oyo",2024-09-01,"Malaria",80667
+"Oyo",2024-09-01,"Cholera",232
+"Oyo",2024-09-01,"Measles",857
+"Oyo",2024-09-01,"Lassa Fever",0
+"Oyo",2024-10-01,"Malaria",86916
+"Oyo",2024-10-01,"Cholera",196
+"Oyo",2024-10-01,"Measles",823
+"Oyo",2024-10-01,"Lassa Fever",1
+"Oyo",2024-11-01,"Malaria",64991
+"Oyo",2024-11-01,"Cholera",101
+"Oyo",2024-11-01,"Measles",798
+"Oyo",2024-11-01,"Lassa Fever",2
+"Oyo",2024-12-01,"Malaria",48922
+"Oyo",2024-12-01,"Cholera",100
+"Oyo",2024-12-01,"Measles",1043
+"Oyo",2024-12-01,"Lassa Fever",2
+"Ondo",2019-01-01,"Malaria",24568
+"Ondo",2019-01-01,"Cholera",41
+"Ondo",2019-01-01,"Measles",1012
+"Ondo",2019-01-01,"Lassa Fever",102
+"Ondo",2019-02-01,"Malaria",35969
+"Ondo",2019-02-01,"Cholera",34
+"Ondo",2019-02-01,"Measles",851
+"Ondo",2019-02-01,"Lassa Fever",60
+"Ondo",2019-03-01,"Malaria",35654
+"Ondo",2019-03-01,"Cholera",65
+"Ondo",2019-03-01,"Measles",1242
+"Ondo",2019-03-01,"Lassa Fever",43
+"Ondo",2019-04-01,"Malaria",25427
+"Ondo",2019-04-01,"Cholera",77
+"Ondo",2019-04-01,"Measles",707
+"Ondo",2019-04-01,"Lassa Fever",21
+"Ondo",2019-05-01,"Malaria",31277
+"Ondo",2019-05-01,"Cholera",118
+"Ondo",2019-05-01,"Measles",677
+"Ondo",2019-05-01,"Lassa Fever",21
+"Ondo",2019-06-01,"Malaria",48659
+"Ondo",2019-06-01,"Cholera",175
+"Ondo",2019-06-01,"Measles",521
+"Ondo",2019-06-01,"Lassa Fever",12
+"Ondo",2019-07-01,"Malaria",55272
+"Ondo",2019-07-01,"Cholera",108
+"Ondo",2019-07-01,"Measles",668
+"Ondo",2019-07-01,"Lassa Fever",11
+"Ondo",2019-08-01,"Malaria",66956
+"Ondo",2019-08-01,"Cholera",73
+"Ondo",2019-08-01,"Measles",757
+"Ondo",2019-08-01,"Lassa Fever",11
+"Ondo",2019-09-01,"Malaria",55343
+"Ondo",2019-09-01,"Cholera",124
+"Ondo",2019-09-01,"Measles",514
+"Ondo",2019-09-01,"Lassa Fever",4
+"Ondo",2019-10-01,"Malaria",55932
+"Ondo",2019-10-01,"Cholera",89
+"Ondo",2019-10-01,"Measles",598
+"Ondo",2019-10-01,"Lassa Fever",12
+"Ondo",2019-11-01,"Malaria",34385
+"Ondo",2019-11-01,"Cholera",58
+"Ondo",2019-11-01,"Measles",698
+"Ondo",2019-11-01,"Lassa Fever",20
+"Ondo",2019-12-01,"Malaria",31652
+"Ondo",2019-12-01,"Cholera",31
+"Ondo",2019-12-01,"Measles",687
+"Ondo",2019-12-01,"Lassa Fever",35
+"Ondo",2020-01-01,"Malaria",28232
+"Ondo",2020-01-01,"Cholera",37
+"Ondo",2020-01-01,"Measles",1040
+"Ondo",2020-01-01,"Lassa Fever",78
+"Ondo",2020-02-01,"Malaria",28886
+"Ondo",2020-02-01,"Cholera",43
+"Ondo",2020-02-01,"Measles",1267
+"Ondo",2020-02-01,"Lassa Fever",82
+"Ondo",2020-03-01,"Malaria",30792
+"Ondo",2020-03-01,"Cholera",49
+"Ondo",2020-03-01,"Measles",1433
+"Ondo",2020-03-01,"Lassa Fever",60
+"Ondo",2020-04-01,"Malaria",22930
+"Ondo",2020-04-01,"Cholera",87
+"Ondo",2020-04-01,"Measles",933
+"Ondo",2020-04-01,"Lassa Fever",17
+"Ondo",2020-05-01,"Malaria",27424
+"Ondo",2020-05-01,"Cholera",71
+"Ondo",2020-05-01,"Measles",567
+"Ondo",2020-05-01,"Lassa Fever",7
+"Ondo",2020-06-01,"Malaria",42435
+"Ondo",2020-06-01,"Cholera",96
+"Ondo",2020-06-01,"Measles",555
+"Ondo",2020-06-01,"Lassa Fever",7
+"Ondo",2020-07-01,"Malaria",75075
+"Ondo",2020-07-01,"Cholera",159
+"Ondo",2020-07-01,"Measles",693
+"Ondo",2020-07-01,"Lassa Fever",11
+"Ondo",2020-08-01,"Malaria",53663
+"Ondo",2020-08-01,"Cholera",82
+"Ondo",2020-08-01,"Measles",640
+"Ondo",2020-08-01,"Lassa Fever",10
+"Ondo",2020-09-01,"Malaria",59210
+"Ondo",2020-09-01,"Cholera",160
+"Ondo",2020-09-01,"Measles",609
+"Ondo",2020-09-01,"Lassa Fever",10
+"Ondo",2020-10-01,"Malaria",46271
+"Ondo",2020-10-01,"Cholera",159
+"Ondo",2020-10-01,"Measles",625
+"Ondo",2020-10-01,"Lassa Fever",14
+"Ondo",2020-11-01,"Malaria",39910
+"Ondo",2020-11-01,"Cholera",59
+"Ondo",2020-11-01,"Measles",468
+"Ondo",2020-11-01,"Lassa Fever",19
+"Ondo",2020-12-01,"Malaria",32773
+"Ondo",2020-12-01,"Cholera",40
+"Ondo",2020-12-01,"Measles",714
+"Ondo",2020-12-01,"Lassa Fever",57
+"Ondo",2021-01-01,"Malaria",28849
+"Ondo",2021-01-01,"Cholera",44
+"Ondo",2021-01-01,"Measles",770
+"Ondo",2021-01-01,"Lassa Fever",99
+"Ondo",2021-02-01,"Malaria",27634
+"Ondo",2021-02-01,"Cholera",59
+"Ondo",2021-02-01,"Measles",899
+"Ondo",2021-02-01,"Lassa Fever",120
+"Ondo",2021-03-01,"Malaria",30587
+"Ondo",2021-03-01,"Cholera",45
+"Ondo",2021-03-01,"Measles",956
+"Ondo",2021-03-01,"Lassa Fever",51
+"Ondo",2021-04-01,"Malaria",31918
+"Ondo",2021-04-01,"Cholera",87
+"Ondo",2021-04-01,"Measles",884
+"Ondo",2021-04-01,"Lassa Fever",15
+"Ondo",2021-05-01,"Malaria",34593
+"Ondo",2021-05-01,"Cholera",94
+"Ondo",2021-05-01,"Measles",656
+"Ondo",2021-05-01,"Lassa Fever",11
+"Ondo",2021-06-01,"Malaria",42252
+"Ondo",2021-06-01,"Cholera",191
+"Ondo",2021-06-01,"Measles",833
+"Ondo",2021-06-01,"Lassa Fever",6
+"Ondo",2021-07-01,"Malaria",64325
+"Ondo",2021-07-01,"Cholera",184
+"Ondo",2021-07-01,"Measles",608
+"Ondo",2021-07-01,"Lassa Fever",7
+"Ondo",2021-08-01,"Malaria",60505
+"Ondo",2021-08-01,"Cholera",95
+"Ondo",2021-08-01,"Measles",702
+"Ondo",2021-08-01,"Lassa Fever",10
+"Ondo",2021-09-01,"Malaria",70444
+"Ondo",2021-09-01,"Cholera",113
+"Ondo",2021-09-01,"Measles",559
+"Ondo",2021-09-01,"Lassa Fever",12
+"Ondo",2021-10-01,"Malaria",51158
+"Ondo",2021-10-01,"Cholera",100
+"Ondo",2021-10-01,"Measles",634
+"Ondo",2021-10-01,"Lassa Fever",15
+"Ondo",2021-11-01,"Malaria",37003
+"Ondo",2021-11-01,"Cholera",73
+"Ondo",2021-11-01,"Measles",615
+"Ondo",2021-11-01,"Lassa Fever",22
+"Ondo",2021-12-01,"Malaria",27255
+"Ondo",2021-12-01,"Cholera",47
+"Ondo",2021-12-01,"Measles",584
+"Ondo",2021-12-01,"Lassa Fever",49
+"Ondo",2022-01-01,"Malaria",27231
+"Ondo",2022-01-01,"Cholera",38
+"Ondo",2022-01-01,"Measles",1116
+"Ondo",2022-01-01,"Lassa Fever",97
+"Ondo",2022-02-01,"Malaria",28430
+"Ondo",2022-02-01,"Cholera",54
+"Ondo",2022-02-01,"Measles",1334
+"Ondo",2022-02-01,"Lassa Fever",104
+"Ondo",2022-03-01,"Malaria",28392
+"Ondo",2022-03-01,"Cholera",83
+"Ondo",2022-03-01,"Measles",1063
+"Ondo",2022-03-01,"Lassa Fever",59
+"Ondo",2022-04-01,"Malaria",29628
+"Ondo",2022-04-01,"Cholera",95
+"Ondo",2022-04-01,"Measles",865
+"Ondo",2022-04-01,"Lassa Fever",19
+"Ondo",2022-05-01,"Malaria",38799
+"Ondo",2022-05-01,"Cholera",113
+"Ondo",2022-05-01,"Measles",647
+"Ondo",2022-05-01,"Lassa Fever",5
+"Ondo",2022-06-01,"Malaria",54712
+"Ondo",2022-06-01,"Cholera",141
+"Ondo",2022-06-01,"Measles",657
+"Ondo",2022-06-01,"Lassa Fever",6
+"Ondo",2022-07-01,"Malaria",65118
+"Ondo",2022-07-01,"Cholera",169
+"Ondo",2022-07-01,"Measles",650
+"Ondo",2022-07-01,"Lassa Fever",10
+"Ondo",2022-08-01,"Malaria",66400
+"Ondo",2022-08-01,"Cholera",178
+"Ondo",2022-08-01,"Measles",445
+"Ondo",2022-08-01,"Lassa Fever",9
+"Ondo",2022-09-01,"Malaria",45919
+"Ondo",2022-09-01,"Cholera",114
+"Ondo",2022-09-01,"Measles",625
+"Ondo",2022-09-01,"Lassa Fever",10
+"Ondo",2022-10-01,"Malaria",56153
+"Ondo",2022-10-01,"Cholera",115
+"Ondo",2022-10-01,"Measles",728
+"Ondo",2022-10-01,"Lassa Fever",13
+"Ondo",2022-11-01,"Malaria",49756
+"Ondo",2022-11-01,"Cholera",59
+"Ondo",2022-11-01,"Measles",683
+"Ondo",2022-11-01,"Lassa Fever",16
+"Ondo",2022-12-01,"Malaria",35890
+"Ondo",2022-12-01,"Cholera",65
+"Ondo",2022-12-01,"Measles",618
+"Ondo",2022-12-01,"Lassa Fever",49
+"Ondo",2023-01-01,"Malaria",36768
+"Ondo",2023-01-01,"Cholera",53
+"Ondo",2023-01-01,"Measles",1029
+"Ondo",2023-01-01,"Lassa Fever",82
+"Ondo",2023-02-01,"Malaria",29530
+"Ondo",2023-02-01,"Cholera",59
+"Ondo",2023-02-01,"Measles",1109
+"Ondo",2023-02-01,"Lassa Fever",104
+"Ondo",2023-03-01,"Malaria",29157
+"Ondo",2023-03-01,"Cholera",63
+"Ondo",2023-03-01,"Measles",1306
+"Ondo",2023-03-01,"Lassa Fever",78
+"Ondo",2023-04-01,"Malaria",24657
+"Ondo",2023-04-01,"Cholera",81
+"Ondo",2023-04-01,"Measles",792
+"Ondo",2023-04-01,"Lassa Fever",13
+"Ondo",2023-05-01,"Malaria",35798
+"Ondo",2023-05-01,"Cholera",175
+"Ondo",2023-05-01,"Measles",739
+"Ondo",2023-05-01,"Lassa Fever",9
+"Ondo",2023-06-01,"Malaria",53168
+"Ondo",2023-06-01,"Cholera",183
+"Ondo",2023-06-01,"Measles",715
+"Ondo",2023-06-01,"Lassa Fever",13
+"Ondo",2023-07-01,"Malaria",65731
+"Ondo",2023-07-01,"Cholera",182
+"Ondo",2023-07-01,"Measles",624
+"Ondo",2023-07-01,"Lassa Fever",13
+"Ondo",2023-08-01,"Malaria",54956
+"Ondo",2023-08-01,"Cholera",157
+"Ondo",2023-08-01,"Measles",667
+"Ondo",2023-08-01,"Lassa Fever",11
+"Ondo",2023-09-01,"Malaria",47108
+"Ondo",2023-09-01,"Cholera",112
+"Ondo",2023-09-01,"Measles",792
+"Ondo",2023-09-01,"Lassa Fever",11
+"Ondo",2023-10-01,"Malaria",55149
+"Ondo",2023-10-01,"Cholera",135
+"Ondo",2023-10-01,"Measles",569
+"Ondo",2023-10-01,"Lassa Fever",12
+"Ondo",2023-11-01,"Malaria",34442
+"Ondo",2023-11-01,"Cholera",60
+"Ondo",2023-11-01,"Measles",585
+"Ondo",2023-11-01,"Lassa Fever",34
+"Ondo",2023-12-01,"Malaria",37687
+"Ondo",2023-12-01,"Cholera",51
+"Ondo",2023-12-01,"Measles",549
+"Ondo",2023-12-01,"Lassa Fever",62
+"Ondo",2024-01-01,"Malaria",28876
+"Ondo",2024-01-01,"Cholera",40
+"Ondo",2024-01-01,"Measles",809
+"Ondo",2024-01-01,"Lassa Fever",122
+"Ondo",2024-02-01,"Malaria",29501
+"Ondo",2024-02-01,"Cholera",35
+"Ondo",2024-02-01,"Measles",1287
+"Ondo",2024-02-01,"Lassa Fever",142
+"Ondo",2024-03-01,"Malaria",31204
+"Ondo",2024-03-01,"Cholera",39
+"Ondo",2024-03-01,"Measles",1176
+"Ondo",2024-03-01,"Lassa Fever",72
+"Ondo",2024-04-01,"Malaria",34711
+"Ondo",2024-04-01,"Cholera",111
+"Ondo",2024-04-01,"Measles",851
+"Ondo",2024-04-01,"Lassa Fever",36
+"Ondo",2024-05-01,"Malaria",41255
+"Ondo",2024-05-01,"Cholera",173
+"Ondo",2024-05-01,"Measles",746
+"Ondo",2024-05-01,"Lassa Fever",14
+"Ondo",2024-06-01,"Malaria",51025
+"Ondo",2024-06-01,"Cholera",144
+"Ondo",2024-06-01,"Measles",638
+"Ondo",2024-06-01,"Lassa Fever",9
+"Ondo",2024-07-01,"Malaria",75306
+"Ondo",2024-07-01,"Cholera",172
+"Ondo",2024-07-01,"Measles",593
+"Ondo",2024-07-01,"Lassa Fever",8
+"Ondo",2024-08-01,"Malaria",61012
+"Ondo",2024-08-01,"Cholera",179
+"Ondo",2024-08-01,"Measles",602
+"Ondo",2024-08-01,"Lassa Fever",6
+"Ondo",2024-09-01,"Malaria",53925
+"Ondo",2024-09-01,"Cholera",132
+"Ondo",2024-09-01,"Measles",606
+"Ondo",2024-09-01,"Lassa Fever",6
+"Ondo",2024-10-01,"Malaria",59545
+"Ondo",2024-10-01,"Cholera",110
+"Ondo",2024-10-01,"Measles",662
+"Ondo",2024-10-01,"Lassa Fever",9
+"Ondo",2024-11-01,"Malaria",43990
+"Ondo",2024-11-01,"Cholera",62
+"Ondo",2024-11-01,"Measles",616
+"Ondo",2024-11-01,"Lassa Fever",23
+"Ondo",2024-12-01,"Malaria",26927
+"Ondo",2024-12-01,"Cholera",48
+"Ondo",2024-12-01,"Measles",599
+"Ondo",2024-12-01,"Lassa Fever",70
+"Rivers",2019-01-01,"Malaria",53392
+"Rivers",2019-01-01,"Cholera",54
+"Rivers",2019-01-01,"Measles",1411
+"Rivers",2019-01-01,"Lassa Fever",7
+"Rivers",2019-02-01,"Malaria",50047
+"Rivers",2019-02-01,"Cholera",51
+"Rivers",2019-02-01,"Measles",1786
+"Rivers",2019-02-01,"Lassa Fever",7
+"Rivers",2019-03-01,"Malaria",48394
+"Rivers",2019-03-01,"Cholera",84
+"Rivers",2019-03-01,"Measles",2159
+"Rivers",2019-03-01,"Lassa Fever",2
+"Rivers",2019-04-01,"Malaria",54242
+"Rivers",2019-04-01,"Cholera",131
+"Rivers",2019-04-01,"Measles",1587
+"Rivers",2019-04-01,"Lassa Fever",0
+"Rivers",2019-05-01,"Malaria",47573
+"Rivers",2019-05-01,"Cholera",208
+"Rivers",2019-05-01,"Measles",1093
+"Rivers",2019-05-01,"Lassa Fever",1
+"Rivers",2019-06-01,"Malaria",104455
+"Rivers",2019-06-01,"Cholera",275
+"Rivers",2019-06-01,"Measles",1073
+"Rivers",2019-06-01,"Lassa Fever",0
+"Rivers",2019-07-01,"Malaria",86218
+"Rivers",2019-07-01,"Cholera",204
+"Rivers",2019-07-01,"Measles",1030
+"Rivers",2019-07-01,"Lassa Fever",0
+"Rivers",2019-08-01,"Malaria",100064
+"Rivers",2019-08-01,"Cholera",203
+"Rivers",2019-08-01,"Measles",1354
+"Rivers",2019-08-01,"Lassa Fever",1
+"Rivers",2019-09-01,"Malaria",69039
+"Rivers",2019-09-01,"Cholera",228
+"Rivers",2019-09-01,"Measles",912
+"Rivers",2019-09-01,"Lassa Fever",0
+"Rivers",2019-10-01,"Malaria",79535
+"Rivers",2019-10-01,"Cholera",118
+"Rivers",2019-10-01,"Measles",1005
+"Rivers",2019-10-01,"Lassa Fever",0
+"Rivers",2019-11-01,"Malaria",79366
+"Rivers",2019-11-01,"Cholera",70
+"Rivers",2019-11-01,"Measles",1128
+"Rivers",2019-11-01,"Lassa Fever",0
+"Rivers",2019-12-01,"Malaria",46829
+"Rivers",2019-12-01,"Cholera",85
+"Rivers",2019-12-01,"Measles",1117
+"Rivers",2019-12-01,"Lassa Fever",0
+"Rivers",2020-01-01,"Malaria",50091
+"Rivers",2020-01-01,"Cholera",59
+"Rivers",2020-01-01,"Measles",1646
+"Rivers",2020-01-01,"Lassa Fever",3
+"Rivers",2020-02-01,"Malaria",56395
+"Rivers",2020-02-01,"Cholera",80
+"Rivers",2020-02-01,"Measles",1944
+"Rivers",2020-02-01,"Lassa Fever",4
+"Rivers",2020-03-01,"Malaria",47041
+"Rivers",2020-03-01,"Cholera",81
+"Rivers",2020-03-01,"Measles",2086
+"Rivers",2020-03-01,"Lassa Fever",2
+"Rivers",2020-04-01,"Malaria",45609
+"Rivers",2020-04-01,"Cholera",87
+"Rivers",2020-04-01,"Measles",1408
+"Rivers",2020-04-01,"Lassa Fever",0
+"Rivers",2020-05-01,"Malaria",48462
+"Rivers",2020-05-01,"Cholera",219
+"Rivers",2020-05-01,"Measles",1508
+"Rivers",2020-05-01,"Lassa Fever",0
+"Rivers",2020-06-01,"Malaria",66365
+"Rivers",2020-06-01,"Cholera",197
+"Rivers",2020-06-01,"Measles",829
+"Rivers",2020-06-01,"Lassa Fever",0
+"Rivers",2020-07-01,"Malaria",78864
+"Rivers",2020-07-01,"Cholera",168
+"Rivers",2020-07-01,"Measles",1203
+"Rivers",2020-07-01,"Lassa Fever",1
+"Rivers",2020-08-01,"Malaria",105855
+"Rivers",2020-08-01,"Cholera",205
+"Rivers",2020-08-01,"Measles",1367
+"Rivers",2020-08-01,"Lassa Fever",0
+"Rivers",2020-09-01,"Malaria",76662
+"Rivers",2020-09-01,"Cholera",203
+"Rivers",2020-09-01,"Measles",1392
+"Rivers",2020-09-01,"Lassa Fever",0
+"Rivers",2020-10-01,"Malaria",82926
+"Rivers",2020-10-01,"Cholera",173
+"Rivers",2020-10-01,"Measles",839
+"Rivers",2020-10-01,"Lassa Fever",0
+"Rivers",2020-11-01,"Malaria",74281
+"Rivers",2020-11-01,"Cholera",83
+"Rivers",2020-11-01,"Measles",1256
+"Rivers",2020-11-01,"Lassa Fever",1
+"Rivers",2020-12-01,"Malaria",46760
+"Rivers",2020-12-01,"Cholera",80
+"Rivers",2020-12-01,"Measles",1187
+"Rivers",2020-12-01,"Lassa Fever",2
+"Rivers",2021-01-01,"Malaria",44300
+"Rivers",2021-01-01,"Cholera",61
+"Rivers",2021-01-01,"Measles",1120
+"Rivers",2021-01-01,"Lassa Fever",2
+"Rivers",2021-02-01,"Malaria",45005
+"Rivers",2021-02-01,"Cholera",76
+"Rivers",2021-02-01,"Measles",1992
+"Rivers",2021-02-01,"Lassa Fever",7
+"Rivers",2021-03-01,"Malaria",47192
+"Rivers",2021-03-01,"Cholera",89
+"Rivers",2021-03-01,"Measles",1768
+"Rivers",2021-03-01,"Lassa Fever",2
+"Rivers",2021-04-01,"Malaria",51481
+"Rivers",2021-04-01,"Cholera",79
+"Rivers",2021-04-01,"Measles",1411
+"Rivers",2021-04-01,"Lassa Fever",1
+"Rivers",2021-05-01,"Malaria",61587
+"Rivers",2021-05-01,"Cholera",274
+"Rivers",2021-05-01,"Measles",1226
+"Rivers",2021-05-01,"Lassa Fever",0
+"Rivers",2021-06-01,"Malaria",79985
+"Rivers",2021-06-01,"Cholera",250
+"Rivers",2021-06-01,"Measles",1092
+"Rivers",2021-06-01,"Lassa Fever",0
+"Rivers",2021-07-01,"Malaria",92185
+"Rivers",2021-07-01,"Cholera",162
+"Rivers",2021-07-01,"Measles",1192
+"Rivers",2021-07-01,"Lassa Fever",1
+"Rivers",2021-08-01,"Malaria",95828
+"Rivers",2021-08-01,"Cholera",227
+"Rivers",2021-08-01,"Measles",1133
+"Rivers",2021-08-01,"Lassa Fever",2
+"Rivers",2021-09-01,"Malaria",90125
+"Rivers",2021-09-01,"Cholera",236
+"Rivers",2021-09-01,"Measles",745
+"Rivers",2021-09-01,"Lassa Fever",0
+"Rivers",2021-10-01,"Malaria",93220
+"Rivers",2021-10-01,"Cholera",156
+"Rivers",2021-10-01,"Measles",967
+"Rivers",2021-10-01,"Lassa Fever",1
+"Rivers",2021-11-01,"Malaria",61874
+"Rivers",2021-11-01,"Cholera",85
+"Rivers",2021-11-01,"Measles",1051
+"Rivers",2021-11-01,"Lassa Fever",2
+"Rivers",2021-12-01,"Malaria",54405
+"Rivers",2021-12-01,"Cholera",73
+"Rivers",2021-12-01,"Measles",1102
+"Rivers",2021-12-01,"Lassa Fever",3
+"Rivers",2022-01-01,"Malaria",41572
+"Rivers",2022-01-01,"Cholera",71
+"Rivers",2022-01-01,"Measles",1463
+"Rivers",2022-01-01,"Lassa Fever",4
+"Rivers",2022-02-01,"Malaria",42618
+"Rivers",2022-02-01,"Cholera",139
+"Rivers",2022-02-01,"Measles",2102
+"Rivers",2022-02-01,"Lassa Fever",2
+"Rivers",2022-03-01,"Malaria",46905
+"Rivers",2022-03-01,"Cholera",120
+"Rivers",2022-03-01,"Measles",2658
+"Rivers",2022-03-01,"Lassa Fever",1
+"Rivers",2022-04-01,"Malaria",51076
+"Rivers",2022-04-01,"Cholera",141
+"Rivers",2022-04-01,"Measles",1330
+"Rivers",2022-04-01,"Lassa Fever",0
+"Rivers",2022-05-01,"Malaria",50151
+"Rivers",2022-05-01,"Cholera",208
+"Rivers",2022-05-01,"Measles",1179
+"Rivers",2022-05-01,"Lassa Fever",1
+"Rivers",2022-06-01,"Malaria",94185
+"Rivers",2022-06-01,"Cholera",303
+"Rivers",2022-06-01,"Measles",800
+"Rivers",2022-06-01,"Lassa Fever",0
+"Rivers",2022-07-01,"Malaria",109851
+"Rivers",2022-07-01,"Cholera",256
+"Rivers",2022-07-01,"Measles",942
+"Rivers",2022-07-01,"Lassa Fever",0
+"Rivers",2022-08-01,"Malaria",84862
+"Rivers",2022-08-01,"Cholera",209
+"Rivers",2022-08-01,"Measles",1027
+"Rivers",2022-08-01,"Lassa Fever",1
+"Rivers",2022-09-01,"Malaria",71122
+"Rivers",2022-09-01,"Cholera",234
+"Rivers",2022-09-01,"Measles",890
+"Rivers",2022-09-01,"Lassa Fever",0
+"Rivers",2022-10-01,"Malaria",88653
+"Rivers",2022-10-01,"Cholera",173
+"Rivers",2022-10-01,"Measles",1006
+"Rivers",2022-10-01,"Lassa Fever",0
+"Rivers",2022-11-01,"Malaria",90572
+"Rivers",2022-11-01,"Cholera",112
+"Rivers",2022-11-01,"Measles",1167
+"Rivers",2022-11-01,"Lassa Fever",2
+"Rivers",2022-12-01,"Malaria",49286
+"Rivers",2022-12-01,"Cholera",80
+"Rivers",2022-12-01,"Measles",1007
+"Rivers",2022-12-01,"Lassa Fever",4
+"Rivers",2023-01-01,"Malaria",43848
+"Rivers",2023-01-01,"Cholera",48
+"Rivers",2023-01-01,"Measles",1510
+"Rivers",2023-01-01,"Lassa Fever",2
+"Rivers",2023-02-01,"Malaria",36448
+"Rivers",2023-02-01,"Cholera",69
+"Rivers",2023-02-01,"Measles",1897
+"Rivers",2023-02-01,"Lassa Fever",9
+"Rivers",2023-03-01,"Malaria",41771
+"Rivers",2023-03-01,"Cholera",98
+"Rivers",2023-03-01,"Measles",1501
+"Rivers",2023-03-01,"Lassa Fever",1
+"Rivers",2023-04-01,"Malaria",48521
+"Rivers",2023-04-01,"Cholera",126
+"Rivers",2023-04-01,"Measles",1483
+"Rivers",2023-04-01,"Lassa Fever",2
+"Rivers",2023-05-01,"Malaria",57623
+"Rivers",2023-05-01,"Cholera",202
+"Rivers",2023-05-01,"Measles",1163
+"Rivers",2023-05-01,"Lassa Fever",1
+"Rivers",2023-06-01,"Malaria",87457
+"Rivers",2023-06-01,"Cholera",186
+"Rivers",2023-06-01,"Measles",1168
+"Rivers",2023-06-01,"Lassa Fever",0
+"Rivers",2023-07-01,"Malaria",87308
+"Rivers",2023-07-01,"Cholera",2956
+"Rivers",2023-07-01,"Measles",1193
+"Rivers",2023-07-01,"Lassa Fever",0
+"Rivers",2023-08-01,"Malaria",97414
+"Rivers",2023-08-01,"Cholera",2170
+"Rivers",2023-08-01,"Measles",1264
+"Rivers",2023-08-01,"Lassa Fever",0
+"Rivers",2023-09-01,"Malaria",96215
+"Rivers",2023-09-01,"Cholera",1760
+"Rivers",2023-09-01,"Measles",1028
+"Rivers",2023-09-01,"Lassa Fever",0
+"Rivers",2023-10-01,"Malaria",83526
+"Rivers",2023-10-01,"Cholera",1700
+"Rivers",2023-10-01,"Measles",863
+"Rivers",2023-10-01,"Lassa Fever",0
+"Rivers",2023-11-01,"Malaria",66104
+"Rivers",2023-11-01,"Cholera",113
+"Rivers",2023-11-01,"Measles",1278
+"Rivers",2023-11-01,"Lassa Fever",1
+"Rivers",2023-12-01,"Malaria",56486
+"Rivers",2023-12-01,"Cholera",57
+"Rivers",2023-12-01,"Measles",1327
+"Rivers",2023-12-01,"Lassa Fever",2
+"Rivers",2024-01-01,"Malaria",49063
+"Rivers",2024-01-01,"Cholera",66
+"Rivers",2024-01-01,"Measles",1567
+"Rivers",2024-01-01,"Lassa Fever",6
+"Rivers",2024-02-01,"Malaria",31968
+"Rivers",2024-02-01,"Cholera",96
+"Rivers",2024-02-01,"Measles",2043
+"Rivers",2024-02-01,"Lassa Fever",3
+"Rivers",2024-03-01,"Malaria",46356
+"Rivers",2024-03-01,"Cholera",144
+"Rivers",2024-03-01,"Measles",1962
+"Rivers",2024-03-01,"Lassa Fever",2
+"Rivers",2024-04-01,"Malaria",42578
+"Rivers",2024-04-01,"Cholera",174
+"Rivers",2024-04-01,"Measles",1578
+"Rivers",2024-04-01,"Lassa Fever",3
+"Rivers",2024-05-01,"Malaria",65930
+"Rivers",2024-05-01,"Cholera",207
+"Rivers",2024-05-01,"Measles",1186
+"Rivers",2024-05-01,"Lassa Fever",0
+"Rivers",2024-06-01,"Malaria",79824
+"Rivers",2024-06-01,"Cholera",397
+"Rivers",2024-06-01,"Measles",1122
+"Rivers",2024-06-01,"Lassa Fever",1
+"Rivers",2024-07-01,"Malaria",86181
+"Rivers",2024-07-01,"Cholera",308
+"Rivers",2024-07-01,"Measles",1004
+"Rivers",2024-07-01,"Lassa Fever",0
+"Rivers",2024-08-01,"Malaria",96567
+"Rivers",2024-08-01,"Cholera",186
+"Rivers",2024-08-01,"Measles",1010
+"Rivers",2024-08-01,"Lassa Fever",1
+"Rivers",2024-09-01,"Malaria",93128
+"Rivers",2024-09-01,"Cholera",154
+"Rivers",2024-09-01,"Measles",1136
+"Rivers",2024-09-01,"Lassa Fever",0
+"Rivers",2024-10-01,"Malaria",83957
+"Rivers",2024-10-01,"Cholera",116
+"Rivers",2024-10-01,"Measles",1126
+"Rivers",2024-10-01,"Lassa Fever",1
+"Rivers",2024-11-01,"Malaria",70938
+"Rivers",2024-11-01,"Cholera",86
+"Rivers",2024-11-01,"Measles",1277
+"Rivers",2024-11-01,"Lassa Fever",0
+"Rivers",2024-12-01,"Malaria",51111
+"Rivers",2024-12-01,"Cholera",56
+"Rivers",2024-12-01,"Measles",875
+"Rivers",2024-12-01,"Lassa Fever",5
+"Edo",2019-01-01,"Malaria",26472
+"Edo",2019-01-01,"Cholera",35
+"Edo",2019-01-01,"Measles",782
+"Edo",2019-01-01,"Lassa Fever",70
+"Edo",2019-02-01,"Malaria",27638
+"Edo",2019-02-01,"Cholera",54
+"Edo",2019-02-01,"Measles",1124
+"Edo",2019-02-01,"Lassa Fever",79
+"Edo",2019-03-01,"Malaria",25828
+"Edo",2019-03-01,"Cholera",33
+"Edo",2019-03-01,"Measles",1422
+"Edo",2019-03-01,"Lassa Fever",46
+"Edo",2019-04-01,"Malaria",26478
+"Edo",2019-04-01,"Cholera",125
+"Edo",2019-04-01,"Measles",936
+"Edo",2019-04-01,"Lassa Fever",23
+"Edo",2019-05-01,"Malaria",30236
+"Edo",2019-05-01,"Cholera",88
+"Edo",2019-05-01,"Measles",796
+"Edo",2019-05-01,"Lassa Fever",6
+"Edo",2019-06-01,"Malaria",42503
+"Edo",2019-06-01,"Cholera",126
+"Edo",2019-06-01,"Measles",622
+"Edo",2019-06-01,"Lassa Fever",10
+"Edo",2019-07-01,"Malaria",56834
+"Edo",2019-07-01,"Cholera",211
+"Edo",2019-07-01,"Measles",620
+"Edo",2019-07-01,"Lassa Fever",6
+"Edo",2019-08-01,"Malaria",55941
+"Edo",2019-08-01,"Cholera",90
+"Edo",2019-08-01,"Measles",624
+"Edo",2019-08-01,"Lassa Fever",15
+"Edo",2019-09-01,"Malaria",44137
+"Edo",2019-09-01,"Cholera",84
+"Edo",2019-09-01,"Measles",720
+"Edo",2019-09-01,"Lassa Fever",13
+"Edo",2019-10-01,"Malaria",55036
+"Edo",2019-10-01,"Cholera",121
+"Edo",2019-10-01,"Measles",612
+"Edo",2019-10-01,"Lassa Fever",18
+"Edo",2019-11-01,"Malaria",40510
+"Edo",2019-11-01,"Cholera",48
+"Edo",2019-11-01,"Measles",676
+"Edo",2019-11-01,"Lassa Fever",26
+"Edo",2019-12-01,"Malaria",38053
+"Edo",2019-12-01,"Cholera",44
+"Edo",2019-12-01,"Measles",527
+"Edo",2019-12-01,"Lassa Fever",45
+"Edo",2020-01-01,"Malaria",29101
+"Edo",2020-01-01,"Cholera",47
+"Edo",2020-01-01,"Measles",995
+"Edo",2020-01-01,"Lassa Fever",75
+"Edo",2020-02-01,"Malaria",27981
+"Edo",2020-02-01,"Cholera",51
+"Edo",2020-02-01,"Measles",1021
+"Edo",2020-02-01,"Lassa Fever",108
+"Edo",2020-03-01,"Malaria",27900
+"Edo",2020-03-01,"Cholera",37
+"Edo",2020-03-01,"Measles",1107
+"Edo",2020-03-01,"Lassa Fever",52
+"Edo",2020-04-01,"Malaria",22172
+"Edo",2020-04-01,"Cholera",60
+"Edo",2020-04-01,"Measles",683
+"Edo",2020-04-01,"Lassa Fever",14
+"Edo",2020-05-01,"Malaria",34450
+"Edo",2020-05-01,"Cholera",83
+"Edo",2020-05-01,"Measles",571
+"Edo",2020-05-01,"Lassa Fever",10
+"Edo",2020-06-01,"Malaria",33199
+"Edo",2020-06-01,"Cholera",112
+"Edo",2020-06-01,"Measles",484
+"Edo",2020-06-01,"Lassa Fever",4
+"Edo",2020-07-01,"Malaria",44038
+"Edo",2020-07-01,"Cholera",170
+"Edo",2020-07-01,"Measles",769
+"Edo",2020-07-01,"Lassa Fever",8
+"Edo",2020-08-01,"Malaria",62572
+"Edo",2020-08-01,"Cholera",229
+"Edo",2020-08-01,"Measles",699
+"Edo",2020-08-01,"Lassa Fever",16
+"Edo",2020-09-01,"Malaria",46446
+"Edo",2020-09-01,"Cholera",107
+"Edo",2020-09-01,"Measles",613
+"Edo",2020-09-01,"Lassa Fever",11
+"Edo",2020-10-01,"Malaria",52068
+"Edo",2020-10-01,"Cholera",101
+"Edo",2020-10-01,"Measles",564
+"Edo",2020-10-01,"Lassa Fever",13
+"Edo",2020-11-01,"Malaria",34396
+"Edo",2020-11-01,"Cholera",62
+"Edo",2020-11-01,"Measles",524
+"Edo",2020-11-01,"Lassa Fever",28
+"Edo",2020-12-01,"Malaria",29303
+"Edo",2020-12-01,"Cholera",42
+"Edo",2020-12-01,"Measles",622
+"Edo",2020-12-01,"Lassa Fever",61
+"Edo",2021-01-01,"Malaria",29807
+"Edo",2021-01-01,"Cholera",42
+"Edo",2021-01-01,"Measles",863
+"Edo",2021-01-01,"Lassa Fever",79
+"Edo",2021-02-01,"Malaria",24349
+"Edo",2021-02-01,"Cholera",45
+"Edo",2021-02-01,"Measles",1264
+"Edo",2021-02-01,"Lassa Fever",109
+"Edo",2021-03-01,"Malaria",26850
+"Edo",2021-03-01,"Cholera",61
+"Edo",2021-03-01,"Measles",1116
+"Edo",2021-03-01,"Lassa Fever",38
+"Edo",2021-04-01,"Malaria",33346
+"Edo",2021-04-01,"Cholera",73
+"Edo",2021-04-01,"Measles",1027
+"Edo",2021-04-01,"Lassa Fever",18
+"Edo",2021-05-01,"Malaria",38901
+"Edo",2021-05-01,"Cholera",99
+"Edo",2021-05-01,"Measles",755
+"Edo",2021-05-01,"Lassa Fever",18
+"Edo",2021-06-01,"Malaria",45687
+"Edo",2021-06-01,"Cholera",212
+"Edo",2021-06-01,"Measles",633
+"Edo",2021-06-01,"Lassa Fever",10
+"Edo",2021-07-01,"Malaria",52305
+"Edo",2021-07-01,"Cholera",120
+"Edo",2021-07-01,"Measles",644
+"Edo",2021-07-01,"Lassa Fever",12
+"Edo",2021-08-01,"Malaria",59449
+"Edo",2021-08-01,"Cholera",112
+"Edo",2021-08-01,"Measles",657
+"Edo",2021-08-01,"Lassa Fever",5
+"Edo",2021-09-01,"Malaria",40825
+"Edo",2021-09-01,"Cholera",117
+"Edo",2021-09-01,"Measles",811
+"Edo",2021-09-01,"Lassa Fever",4
+"Edo",2021-10-01,"Malaria",48278
+"Edo",2021-10-01,"Cholera",102
+"Edo",2021-10-01,"Measles",500
+"Edo",2021-10-01,"Lassa Fever",14
+"Edo",2021-11-01,"Malaria",39257
+"Edo",2021-11-01,"Cholera",57
+"Edo",2021-11-01,"Measles",615
+"Edo",2021-11-01,"Lassa Fever",21
+"Edo",2021-12-01,"Malaria",22847
+"Edo",2021-12-01,"Cholera",45
+"Edo",2021-12-01,"Measles",633
+"Edo",2021-12-01,"Lassa Fever",58
+"Edo",2022-01-01,"Malaria",27229
+"Edo",2022-01-01,"Cholera",66
+"Edo",2022-01-01,"Measles",972
+"Edo",2022-01-01,"Lassa Fever",97
+"Edo",2022-02-01,"Malaria",31010
+"Edo",2022-02-01,"Cholera",44
+"Edo",2022-02-01,"Measles",1141
+"Edo",2022-02-01,"Lassa Fever",122
+"Edo",2022-03-01,"Malaria",26696
+"Edo",2022-03-01,"Cholera",68
+"Edo",2022-03-01,"Measles",1080
+"Edo",2022-03-01,"Lassa Fever",57
+"Edo",2022-04-01,"Malaria",38903
+"Edo",2022-04-01,"Cholera",70
+"Edo",2022-04-01,"Measles",867
+"Edo",2022-04-01,"Lassa Fever",21
+"Edo",2022-05-01,"Malaria",43997
+"Edo",2022-05-01,"Cholera",126
+"Edo",2022-05-01,"Measles",827
+"Edo",2022-05-01,"Lassa Fever",17
+"Edo",2022-06-01,"Malaria",57588
+"Edo",2022-06-01,"Cholera",183
+"Edo",2022-06-01,"Measles",587
+"Edo",2022-06-01,"Lassa Fever",15
+"Edo",2022-07-01,"Malaria",57204
+"Edo",2022-07-01,"Cholera",144
+"Edo",2022-07-01,"Measles",524
+"Edo",2022-07-01,"Lassa Fever",4
+"Edo",2022-08-01,"Malaria",63651
+"Edo",2022-08-01,"Cholera",174
+"Edo",2022-08-01,"Measles",638
+"Edo",2022-08-01,"Lassa Fever",9
+"Edo",2022-09-01,"Malaria",36943
+"Edo",2022-09-01,"Cholera",167
+"Edo",2022-09-01,"Measles",734
+"Edo",2022-09-01,"Lassa Fever",9
+"Edo",2022-10-01,"Malaria",48624
+"Edo",2022-10-01,"Cholera",82
+"Edo",2022-10-01,"Measles",563
+"Edo",2022-10-01,"Lassa Fever",8
+"Edo",2022-11-01,"Malaria",35614
+"Edo",2022-11-01,"Cholera",51
+"Edo",2022-11-01,"Measles",743
+"Edo",2022-11-01,"Lassa Fever",17
+"Edo",2022-12-01,"Malaria",28214
+"Edo",2022-12-01,"Cholera",35
+"Edo",2022-12-01,"Measles",630
+"Edo",2022-12-01,"Lassa Fever",50
+"Edo",2023-01-01,"Malaria",26987
+"Edo",2023-01-01,"Cholera",43
+"Edo",2023-01-01,"Measles",930
+"Edo",2023-01-01,"Lassa Fever",108
+"Edo",2023-02-01,"Malaria",28107
+"Edo",2023-02-01,"Cholera",35
+"Edo",2023-02-01,"Measles",1036
+"Edo",2023-02-01,"Lassa Fever",102
+"Edo",2023-03-01,"Malaria",26313
+"Edo",2023-03-01,"Cholera",55
+"Edo",2023-03-01,"Measles",932
+"Edo",2023-03-01,"Lassa Fever",60
+"Edo",2023-04-01,"Malaria",22696
+"Edo",2023-04-01,"Cholera",94
+"Edo",2023-04-01,"Measles",878
+"Edo",2023-04-01,"Lassa Fever",28
+"Edo",2023-05-01,"Malaria",37639
+"Edo",2023-05-01,"Cholera",155
+"Edo",2023-05-01,"Measles",856
+"Edo",2023-05-01,"Lassa Fever",6
+"Edo",2023-06-01,"Malaria",48628
+"Edo",2023-06-01,"Cholera",187
+"Edo",2023-06-01,"Measles",750
+"Edo",2023-06-01,"Lassa Fever",5
+"Edo",2023-07-01,"Malaria",54572
+"Edo",2023-07-01,"Cholera",198
+"Edo",2023-07-01,"Measles",603
+"Edo",2023-07-01,"Lassa Fever",10
+"Edo",2023-08-01,"Malaria",43238
+"Edo",2023-08-01,"Cholera",123
+"Edo",2023-08-01,"Measles",756
+"Edo",2023-08-01,"Lassa Fever",13
+"Edo",2023-09-01,"Malaria",38950
+"Edo",2023-09-01,"Cholera",88
+"Edo",2023-09-01,"Measles",751
+"Edo",2023-09-01,"Lassa Fever",13
+"Edo",2023-10-01,"Malaria",46874
+"Edo",2023-10-01,"Cholera",109
+"Edo",2023-10-01,"Measles",580
+"Edo",2023-10-01,"Lassa Fever",9
+"Edo",2023-11-01,"Malaria",42565
+"Edo",2023-11-01,"Cholera",48
+"Edo",2023-11-01,"Measles",803
+"Edo",2023-11-01,"Lassa Fever",13
+"Edo",2023-12-01,"Malaria",37000
+"Edo",2023-12-01,"Cholera",56
+"Edo",2023-12-01,"Measles",536
+"Edo",2023-12-01,"Lassa Fever",66
+"Edo",2024-01-01,"Malaria",19725
+"Edo",2024-01-01,"Cholera",29
+"Edo",2024-01-01,"Measles",1083
+"Edo",2024-01-01,"Lassa Fever",88
+"Edo",2024-02-01,"Malaria",37299
+"Edo",2024-02-01,"Cholera",54
+"Edo",2024-02-01,"Measles",1079
+"Edo",2024-02-01,"Lassa Fever",103
+"Edo",2024-03-01,"Malaria",26550
+"Edo",2024-03-01,"Cholera",37
+"Edo",2024-03-01,"Measles",1102
+"Edo",2024-03-01,"Lassa Fever",45
+"Edo",2024-04-01,"Malaria",31821
+"Edo",2024-04-01,"Cholera",79
+"Edo",2024-04-01,"Measles",926
+"Edo",2024-04-01,"Lassa Fever",22
+"Edo",2024-05-01,"Malaria",30746
+"Edo",2024-05-01,"Cholera",96
+"Edo",2024-05-01,"Measles",676
+"Edo",2024-05-01,"Lassa Fever",9
+"Edo",2024-06-01,"Malaria",43155
+"Edo",2024-06-01,"Cholera",209
+"Edo",2024-06-01,"Measles",710
+"Edo",2024-06-01,"Lassa Fever",16
+"Edo",2024-07-01,"Malaria",53192
+"Edo",2024-07-01,"Cholera",135
+"Edo",2024-07-01,"Measles",632
+"Edo",2024-07-01,"Lassa Fever",8
+"Edo",2024-08-01,"Malaria",55465
+"Edo",2024-08-01,"Cholera",118
+"Edo",2024-08-01,"Measles",710
+"Edo",2024-08-01,"Lassa Fever",12
+"Edo",2024-09-01,"Malaria",58885
+"Edo",2024-09-01,"Cholera",148
+"Edo",2024-09-01,"Measles",590
+"Edo",2024-09-01,"Lassa Fever",9
+"Edo",2024-10-01,"Malaria",49411
+"Edo",2024-10-01,"Cholera",101
+"Edo",2024-10-01,"Measles",722
+"Edo",2024-10-01,"Lassa Fever",13
+"Edo",2024-11-01,"Malaria",40778
+"Edo",2024-11-01,"Cholera",84
+"Edo",2024-11-01,"Measles",665
+"Edo",2024-11-01,"Lassa Fever",13
+"Edo",2024-12-01,"Malaria",38043
+"Edo",2024-12-01,"Cholera",28
+"Edo",2024-12-01,"Measles",615
+"Edo",2024-12-01,"Lassa Fever",43
+"Enugu",2019-01-01,"Malaria",35471
+"Enugu",2019-01-01,"Cholera",49
+"Enugu",2019-01-01,"Measles",676
+"Enugu",2019-01-01,"Lassa Fever",4
+"Enugu",2019-02-01,"Malaria",27685
+"Enugu",2019-02-01,"Cholera",40
+"Enugu",2019-02-01,"Measles",1085
+"Enugu",2019-02-01,"Lassa Fever",6
+"Enugu",2019-03-01,"Malaria",27874
+"Enugu",2019-03-01,"Cholera",43
+"Enugu",2019-03-01,"Measles",1046
+"Enugu",2019-03-01,"Lassa Fever",3
+"Enugu",2019-04-01,"Malaria",25593
+"Enugu",2019-04-01,"Cholera",69
+"Enugu",2019-04-01,"Measles",681
+"Enugu",2019-04-01,"Lassa Fever",0
+"Enugu",2019-05-01,"Malaria",39511
+"Enugu",2019-05-01,"Cholera",148
+"Enugu",2019-05-01,"Measles",629
+"Enugu",2019-05-01,"Lassa Fever",0
+"Enugu",2019-06-01,"Malaria",41745
+"Enugu",2019-06-01,"Cholera",145
+"Enugu",2019-06-01,"Measles",504
+"Enugu",2019-06-01,"Lassa Fever",0
+"Enugu",2019-07-01,"Malaria",70595
+"Enugu",2019-07-01,"Cholera",161
+"Enugu",2019-07-01,"Measles",557
+"Enugu",2019-07-01,"Lassa Fever",0
+"Enugu",2019-08-01,"Malaria",65325
+"Enugu",2019-08-01,"Cholera",109
+"Enugu",2019-08-01,"Measles",439
+"Enugu",2019-08-01,"Lassa Fever",1
+"Enugu",2019-09-01,"Malaria",57756
+"Enugu",2019-09-01,"Cholera",100
+"Enugu",2019-09-01,"Measles",508
+"Enugu",2019-09-01,"Lassa Fever",0
+"Enugu",2019-10-01,"Malaria",55743
+"Enugu",2019-10-01,"Cholera",113
+"Enugu",2019-10-01,"Measles",428
+"Enugu",2019-10-01,"Lassa Fever",2
+"Enugu",2019-11-01,"Malaria",44366
+"Enugu",2019-11-01,"Cholera",54
+"Enugu",2019-11-01,"Measles",479
+"Enugu",2019-11-01,"Lassa Fever",1
+"Enugu",2019-12-01,"Malaria",34453
+"Enugu",2019-12-01,"Cholera",47
+"Enugu",2019-12-01,"Measles",553
+"Enugu",2019-12-01,"Lassa Fever",2
+"Enugu",2020-01-01,"Malaria",27355
+"Enugu",2020-01-01,"Cholera",48
+"Enugu",2020-01-01,"Measles",918
+"Enugu",2020-01-01,"Lassa Fever",2
+"Enugu",2020-02-01,"Malaria",26797
+"Enugu",2020-02-01,"Cholera",42
+"Enugu",2020-02-01,"Measles",1199
+"Enugu",2020-02-01,"Lassa Fever",3
+"Enugu",2020-03-01,"Malaria",34395
+"Enugu",2020-03-01,"Cholera",75
+"Enugu",2020-03-01,"Measles",1099
+"Enugu",2020-03-01,"Lassa Fever",2
+"Enugu",2020-04-01,"Malaria",31538
+"Enugu",2020-04-01,"Cholera",57
+"Enugu",2020-04-01,"Measles",558
+"Enugu",2020-04-01,"Lassa Fever",0
+"Enugu",2020-05-01,"Malaria",28605
+"Enugu",2020-05-01,"Cholera",106
+"Enugu",2020-05-01,"Measles",464
+"Enugu",2020-05-01,"Lassa Fever",0
+"Enugu",2020-06-01,"Malaria",38391
+"Enugu",2020-06-01,"Cholera",99
+"Enugu",2020-06-01,"Measles",446
+"Enugu",2020-06-01,"Lassa Fever",0
+"Enugu",2020-07-01,"Malaria",55514
+"Enugu",2020-07-01,"Cholera",154
+"Enugu",2020-07-01,"Measles",636
+"Enugu",2020-07-01,"Lassa Fever",0
+"Enugu",2020-08-01,"Malaria",68994
+"Enugu",2020-08-01,"Cholera",114
+"Enugu",2020-08-01,"Measles",716
+"Enugu",2020-08-01,"Lassa Fever",0
+"Enugu",2020-09-01,"Malaria",45559
+"Enugu",2020-09-01,"Cholera",136
+"Enugu",2020-09-01,"Measles",491
+"Enugu",2020-09-01,"Lassa Fever",0
+"Enugu",2020-10-01,"Malaria",44719
+"Enugu",2020-10-01,"Cholera",96
+"Enugu",2020-10-01,"Measles",751
+"Enugu",2020-10-01,"Lassa Fever",1
+"Enugu",2020-11-01,"Malaria",41651
+"Enugu",2020-11-01,"Cholera",70
+"Enugu",2020-11-01,"Measles",681
+"Enugu",2020-11-01,"Lassa Fever",1
+"Enugu",2020-12-01,"Malaria",31496
+"Enugu",2020-12-01,"Cholera",36
+"Enugu",2020-12-01,"Measles",705
+"Enugu",2020-12-01,"Lassa Fever",2
+"Enugu",2021-01-01,"Malaria",24078
+"Enugu",2021-01-01,"Cholera",44
+"Enugu",2021-01-01,"Measles",744
+"Enugu",2021-01-01,"Lassa Fever",2
+"Enugu",2021-02-01,"Malaria",25053
+"Enugu",2021-02-01,"Cholera",53
+"Enugu",2021-02-01,"Measles",972
+"Enugu",2021-02-01,"Lassa Fever",3
+"Enugu",2021-03-01,"Malaria",31818
+"Enugu",2021-03-01,"Cholera",49
+"Enugu",2021-03-01,"Measles",821
+"Enugu",2021-03-01,"Lassa Fever",0
+"Enugu",2021-04-01,"Malaria",26869
+"Enugu",2021-04-01,"Cholera",72
+"Enugu",2021-04-01,"Measles",749
+"Enugu",2021-04-01,"Lassa Fever",0
+"Enugu",2021-05-01,"Malaria",32987
+"Enugu",2021-05-01,"Cholera",122
+"Enugu",2021-05-01,"Measles",542
+"Enugu",2021-05-01,"Lassa Fever",0
+"Enugu",2021-06-01,"Malaria",44111
+"Enugu",2021-06-01,"Cholera",203
+"Enugu",2021-06-01,"Measles",601
+"Enugu",2021-06-01,"Lassa Fever",0
+"Enugu",2021-07-01,"Malaria",58687
+"Enugu",2021-07-01,"Cholera",208
+"Enugu",2021-07-01,"Measles",651
+"Enugu",2021-07-01,"Lassa Fever",0
+"Enugu",2021-08-01,"Malaria",54248
+"Enugu",2021-08-01,"Cholera",155
+"Enugu",2021-08-01,"Measles",657
+"Enugu",2021-08-01,"Lassa Fever",0
+"Enugu",2021-09-01,"Malaria",49453
+"Enugu",2021-09-01,"Cholera",136
+"Enugu",2021-09-01,"Measles",587
+"Enugu",2021-09-01,"Lassa Fever",1
+"Enugu",2021-10-01,"Malaria",53403
+"Enugu",2021-10-01,"Cholera",91
+"Enugu",2021-10-01,"Measles",577
+"Enugu",2021-10-01,"Lassa Fever",0
+"Enugu",2021-11-01,"Malaria",41021
+"Enugu",2021-11-01,"Cholera",51
+"Enugu",2021-11-01,"Measles",529
+"Enugu",2021-11-01,"Lassa Fever",0
+"Enugu",2021-12-01,"Malaria",30781
+"Enugu",2021-12-01,"Cholera",47
+"Enugu",2021-12-01,"Measles",528
+"Enugu",2021-12-01,"Lassa Fever",2
+"Enugu",2022-01-01,"Malaria",25570
+"Enugu",2022-01-01,"Cholera",42
+"Enugu",2022-01-01,"Measles",638
+"Enugu",2022-01-01,"Lassa Fever",2
+"Enugu",2022-02-01,"Malaria",26798
+"Enugu",2022-02-01,"Cholera",62
+"Enugu",2022-02-01,"Measles",1209
+"Enugu",2022-02-01,"Lassa Fever",1
+"Enugu",2022-03-01,"Malaria",28583
+"Enugu",2022-03-01,"Cholera",44
+"Enugu",2022-03-01,"Measles",891
+"Enugu",2022-03-01,"Lassa Fever",1
+"Enugu",2022-04-01,"Malaria",33021
+"Enugu",2022-04-01,"Cholera",57
+"Enugu",2022-04-01,"Measles",780
+"Enugu",2022-04-01,"Lassa Fever",0
+"Enugu",2022-05-01,"Malaria",40118
+"Enugu",2022-05-01,"Cholera",102
+"Enugu",2022-05-01,"Measles",593
+"Enugu",2022-05-01,"Lassa Fever",0
+"Enugu",2022-06-01,"Malaria",55642
+"Enugu",2022-06-01,"Cholera",187
+"Enugu",2022-06-01,"Measles",415
+"Enugu",2022-06-01,"Lassa Fever",0
+"Enugu",2022-07-01,"Malaria",66789
+"Enugu",2022-07-01,"Cholera",221
+"Enugu",2022-07-01,"Measles",454
+"Enugu",2022-07-01,"Lassa Fever",0
+"Enugu",2022-08-01,"Malaria",47716
+"Enugu",2022-08-01,"Cholera",176
+"Enugu",2022-08-01,"Measles",505
+"Enugu",2022-08-01,"Lassa Fever",0
+"Enugu",2022-09-01,"Malaria",51617
+"Enugu",2022-09-01,"Cholera",143
+"Enugu",2022-09-01,"Measles",476
+"Enugu",2022-09-01,"Lassa Fever",0
+"Enugu",2022-10-01,"Malaria",51440
+"Enugu",2022-10-01,"Cholera",112
+"Enugu",2022-10-01,"Measles",438
+"Enugu",2022-10-01,"Lassa Fever",1
+"Enugu",2022-11-01,"Malaria",34944
+"Enugu",2022-11-01,"Cholera",47
+"Enugu",2022-11-01,"Measles",544
+"Enugu",2022-11-01,"Lassa Fever",1
+"Enugu",2022-12-01,"Malaria",32834
+"Enugu",2022-12-01,"Cholera",56
+"Enugu",2022-12-01,"Measles",565
+"Enugu",2022-12-01,"Lassa Fever",2
+"Enugu",2023-01-01,"Malaria",25057
+"Enugu",2023-01-01,"Cholera",67
+"Enugu",2023-01-01,"Measles",690
+"Enugu",2023-01-01,"Lassa Fever",2
+"Enugu",2023-02-01,"Malaria",28230
+"Enugu",2023-02-01,"Cholera",58
+"Enugu",2023-02-01,"Measles",1077
+"Enugu",2023-02-01,"Lassa Fever",1
+"Enugu",2023-03-01,"Malaria",35296
+"Enugu",2023-03-01,"Cholera",46
+"Enugu",2023-03-01,"Measles",715
+"Enugu",2023-03-01,"Lassa Fever",4
+"Enugu",2023-04-01,"Malaria",27228
+"Enugu",2023-04-01,"Cholera",76
+"Enugu",2023-04-01,"Measles",801
+"Enugu",2023-04-01,"Lassa Fever",0
+"Enugu",2023-05-01,"Malaria",33782
+"Enugu",2023-05-01,"Cholera",190
+"Enugu",2023-05-01,"Measles",618
+"Enugu",2023-05-01,"Lassa Fever",0
+"Enugu",2023-06-01,"Malaria",43784
+"Enugu",2023-06-01,"Cholera",283
+"Enugu",2023-06-01,"Measles",441
+"Enugu",2023-06-01,"Lassa Fever",1
+"Enugu",2023-07-01,"Malaria",56089
+"Enugu",2023-07-01,"Cholera",134
+"Enugu",2023-07-01,"Measles",589
+"Enugu",2023-07-01,"Lassa Fever",0
+"Enugu",2023-08-01,"Malaria",50850
+"Enugu",2023-08-01,"Cholera",149
+"Enugu",2023-08-01,"Measles",483
+"Enugu",2023-08-01,"Lassa Fever",1
+"Enugu",2023-09-01,"Malaria",55073
+"Enugu",2023-09-01,"Cholera",116
+"Enugu",2023-09-01,"Measles",390
+"Enugu",2023-09-01,"Lassa Fever",0
+"Enugu",2023-10-01,"Malaria",36194
+"Enugu",2023-10-01,"Cholera",109
+"Enugu",2023-10-01,"Measles",620
+"Enugu",2023-10-01,"Lassa Fever",1
+"Enugu",2023-11-01,"Malaria",42599
+"Enugu",2023-11-01,"Cholera",64
+"Enugu",2023-11-01,"Measles",634
+"Enugu",2023-11-01,"Lassa Fever",3
+"Enugu",2023-12-01,"Malaria",34536
+"Enugu",2023-12-01,"Cholera",38
+"Enugu",2023-12-01,"Measles",423
+"Enugu",2023-12-01,"Lassa Fever",2
+"Enugu",2024-01-01,"Malaria",23594
+"Enugu",2024-01-01,"Cholera",49
+"Enugu",2024-01-01,"Measles",712
+"Enugu",2024-01-01,"Lassa Fever",5
+"Enugu",2024-02-01,"Malaria",28628
+"Enugu",2024-02-01,"Cholera",51
+"Enugu",2024-02-01,"Measles",1219
+"Enugu",2024-02-01,"Lassa Fever",2
+"Enugu",2024-03-01,"Malaria",30718
+"Enugu",2024-03-01,"Cholera",63
+"Enugu",2024-03-01,"Measles",1023
+"Enugu",2024-03-01,"Lassa Fever",0
+"Enugu",2024-04-01,"Malaria",29066
+"Enugu",2024-04-01,"Cholera",85
+"Enugu",2024-04-01,"Measles",917
+"Enugu",2024-04-01,"Lassa Fever",1
+"Enugu",2024-05-01,"Malaria",40257
+"Enugu",2024-05-01,"Cholera",118
+"Enugu",2024-05-01,"Measles",622
+"Enugu",2024-05-01,"Lassa Fever",0
+"Enugu",2024-06-01,"Malaria",56031
+"Enugu",2024-06-01,"Cholera",301
+"Enugu",2024-06-01,"Measles",443
+"Enugu",2024-06-01,"Lassa Fever",1
+"Enugu",2024-07-01,"Malaria",63009
+"Enugu",2024-07-01,"Cholera",1129
+"Enugu",2024-07-01,"Measles",593
+"Enugu",2024-07-01,"Lassa Fever",0
+"Enugu",2024-08-01,"Malaria",50766
+"Enugu",2024-08-01,"Cholera",1444
+"Enugu",2024-08-01,"Measles",529
+"Enugu",2024-08-01,"Lassa Fever",0
+"Enugu",2024-09-01,"Malaria",47789
+"Enugu",2024-09-01,"Cholera",664
+"Enugu",2024-09-01,"Measles",564
+"Enugu",2024-09-01,"Lassa Fever",0
+"Enugu",2024-10-01,"Malaria",39939
+"Enugu",2024-10-01,"Cholera",1237
+"Enugu",2024-10-01,"Measles",590
+"Enugu",2024-10-01,"Lassa Fever",0
+"Enugu",2024-11-01,"Malaria",34876
+"Enugu",2024-11-01,"Cholera",72
+"Enugu",2024-11-01,"Measles",558
+"Enugu",2024-11-01,"Lassa Fever",0
+"Enugu",2024-12-01,"Malaria",32078
+"Enugu",2024-12-01,"Cholera",62
+"Enugu",2024-12-01,"Measles",632
+"Enugu",2024-12-01,"Lassa Fever",2
+"FCT",2019-01-01,"Malaria",19259
+"FCT",2019-01-01,"Cholera",16
+"FCT",2019-01-01,"Measles",604
+"FCT",2019-01-01,"Lassa Fever",1
+"FCT",2019-02-01,"Malaria",17924
+"FCT",2019-02-01,"Cholera",10
+"FCT",2019-02-01,"Measles",700
+"FCT",2019-02-01,"Lassa Fever",4
+"FCT",2019-03-01,"Malaria",17205
+"FCT",2019-03-01,"Cholera",13
+"FCT",2019-03-01,"Measles",796
+"FCT",2019-03-01,"Lassa Fever",2
+"FCT",2019-04-01,"Malaria",17754
+"FCT",2019-04-01,"Cholera",17
+"FCT",2019-04-01,"Measles",488
+"FCT",2019-04-01,"Lassa Fever",0
+"FCT",2019-05-01,"Malaria",20103
+"FCT",2019-05-01,"Cholera",29
+"FCT",2019-05-01,"Measles",403
+"FCT",2019-05-01,"Lassa Fever",0
+"FCT",2019-06-01,"Malaria",20779
+"FCT",2019-06-01,"Cholera",53
+"FCT",2019-06-01,"Measles",426
+"FCT",2019-06-01,"Lassa Fever",0
+"FCT",2019-07-01,"Malaria",23073
+"FCT",2019-07-01,"Cholera",92
+"FCT",2019-07-01,"Measles",402
+"FCT",2019-07-01,"Lassa Fever",0
+"FCT",2019-08-01,"Malaria",31722
+"FCT",2019-08-01,"Cholera",122
+"FCT",2019-08-01,"Measles",390
+"FCT",2019-08-01,"Lassa Fever",2
+"FCT",2019-09-01,"Malaria",41394
+"FCT",2019-09-01,"Cholera",78
+"FCT",2019-09-01,"Measles",352
+"FCT",2019-09-01,"Lassa Fever",0
+"FCT",2019-10-01,"Malaria",38145
+"FCT",2019-10-01,"Cholera",28
+"FCT",2019-10-01,"Measles",342
+"FCT",2019-10-01,"Lassa Fever",0
+"FCT",2019-11-01,"Malaria",25361
+"FCT",2019-11-01,"Cholera",23
+"FCT",2019-11-01,"Measles",310
+"FCT",2019-11-01,"Lassa Fever",0
+"FCT",2019-12-01,"Malaria",18516
+"FCT",2019-12-01,"Cholera",15
+"FCT",2019-12-01,"Measles",447
+"FCT",2019-12-01,"Lassa Fever",1
+"FCT",2020-01-01,"Malaria",16597
+"FCT",2020-01-01,"Cholera",25
+"FCT",2020-01-01,"Measles",644
+"FCT",2020-01-01,"Lassa Fever",3
+"FCT",2020-02-01,"Malaria",14571
+"FCT",2020-02-01,"Cholera",12
+"FCT",2020-02-01,"Measles",869
+"FCT",2020-02-01,"Lassa Fever",3
+"FCT",2020-03-01,"Malaria",21424
+"FCT",2020-03-01,"Cholera",14
+"FCT",2020-03-01,"Measles",842
+"FCT",2020-03-01,"Lassa Fever",1
+"FCT",2020-04-01,"Malaria",14775
+"FCT",2020-04-01,"Cholera",15
+"FCT",2020-04-01,"Measles",419
+"FCT",2020-04-01,"Lassa Fever",2
+"FCT",2020-05-01,"Malaria",16276
+"FCT",2020-05-01,"Cholera",25
+"FCT",2020-05-01,"Measles",420
+"FCT",2020-05-01,"Lassa Fever",0
+"FCT",2020-06-01,"Malaria",13588
+"FCT",2020-06-01,"Cholera",41
+"FCT",2020-06-01,"Measles",382
+"FCT",2020-06-01,"Lassa Fever",0
+"FCT",2020-07-01,"Malaria",21208
+"FCT",2020-07-01,"Cholera",74
+"FCT",2020-07-01,"Measles",342
+"FCT",2020-07-01,"Lassa Fever",0
+"FCT",2020-08-01,"Malaria",39629
+"FCT",2020-08-01,"Cholera",98
+"FCT",2020-08-01,"Measles",425
+"FCT",2020-08-01,"Lassa Fever",1
+"FCT",2020-09-01,"Malaria",42195
+"FCT",2020-09-01,"Cholera",66
+"FCT",2020-09-01,"Measles",444
+"FCT",2020-09-01,"Lassa Fever",0
+"FCT",2020-10-01,"Malaria",34317
+"FCT",2020-10-01,"Cholera",37
+"FCT",2020-10-01,"Measles",378
+"FCT",2020-10-01,"Lassa Fever",0
+"FCT",2020-11-01,"Malaria",31005
+"FCT",2020-11-01,"Cholera",21
+"FCT",2020-11-01,"Measles",373
+"FCT",2020-11-01,"Lassa Fever",1
+"FCT",2020-12-01,"Malaria",22885
+"FCT",2020-12-01,"Cholera",9
+"FCT",2020-12-01,"Measles",445
+"FCT",2020-12-01,"Lassa Fever",1
+"FCT",2021-01-01,"Malaria",17340
+"FCT",2021-01-01,"Cholera",18
+"FCT",2021-01-01,"Measles",516
+"FCT",2021-01-01,"Lassa Fever",2
+"FCT",2021-02-01,"Malaria",18738
+"FCT",2021-02-01,"Cholera",27
+"FCT",2021-02-01,"Measles",618
+"FCT",2021-02-01,"Lassa Fever",1
+"FCT",2021-03-01,"Malaria",17490
+"FCT",2021-03-01,"Cholera",19
+"FCT",2021-03-01,"Measles",811
+"FCT",2021-03-01,"Lassa Fever",1
+"FCT",2021-04-01,"Malaria",18360
+"FCT",2021-04-01,"Cholera",21
+"FCT",2021-04-01,"Measles",594
+"FCT",2021-04-01,"Lassa Fever",1
+"FCT",2021-05-01,"Malaria",23403
+"FCT",2021-05-01,"Cholera",28
+"FCT",2021-05-01,"Measles",377
+"FCT",2021-05-01,"Lassa Fever",0
+"FCT",2021-06-01,"Malaria",18505
+"FCT",2021-06-01,"Cholera",42
+"FCT",2021-06-01,"Measles",348
+"FCT",2021-06-01,"Lassa Fever",0
+"FCT",2021-07-01,"Malaria",25869
+"FCT",2021-07-01,"Cholera",122
+"FCT",2021-07-01,"Measles",315
+"FCT",2021-07-01,"Lassa Fever",0
+"FCT",2021-08-01,"Malaria",29222
+"FCT",2021-08-01,"Cholera",132
+"FCT",2021-08-01,"Measles",415
+"FCT",2021-08-01,"Lassa Fever",0
+"FCT",2021-09-01,"Malaria",41027
+"FCT",2021-09-01,"Cholera",87
+"FCT",2021-09-01,"Measles",428
+"FCT",2021-09-01,"Lassa Fever",0
+"FCT",2021-10-01,"Malaria",32244
+"FCT",2021-10-01,"Cholera",63
+"FCT",2021-10-01,"Measles",339
+"FCT",2021-10-01,"Lassa Fever",0
+"FCT",2021-11-01,"Malaria",25430
+"FCT",2021-11-01,"Cholera",28
+"FCT",2021-11-01,"Measles",289
+"FCT",2021-11-01,"Lassa Fever",0
+"FCT",2021-12-01,"Malaria",20846
+"FCT",2021-12-01,"Cholera",20
+"FCT",2021-12-01,"Measles",290
+"FCT",2021-12-01,"Lassa Fever",0
+"FCT",2022-01-01,"Malaria",19225
+"FCT",2022-01-01,"Cholera",15
+"FCT",2022-01-01,"Measles",598
+"FCT",2022-01-01,"Lassa Fever",3
+"FCT",2022-02-01,"Malaria",16598
+"FCT",2022-02-01,"Cholera",26
+"FCT",2022-02-01,"Measles",605
+"FCT",2022-02-01,"Lassa Fever",3
+"FCT",2022-03-01,"Malaria",18312
+"FCT",2022-03-01,"Cholera",25
+"FCT",2022-03-01,"Measles",635
+"FCT",2022-03-01,"Lassa Fever",3
+"FCT",2022-04-01,"Malaria",16980
+"FCT",2022-04-01,"Cholera",15
+"FCT",2022-04-01,"Measles",506
+"FCT",2022-04-01,"Lassa Fever",0
+"FCT",2022-05-01,"Malaria",17543
+"FCT",2022-05-01,"Cholera",20
+"FCT",2022-05-01,"Measles",369
+"FCT",2022-05-01,"Lassa Fever",0
+"FCT",2022-06-01,"Malaria",21921
+"FCT",2022-06-01,"Cholera",66
+"FCT",2022-06-01,"Measles",412
+"FCT",2022-06-01,"Lassa Fever",1
+"FCT",2022-07-01,"Malaria",33357
+"FCT",2022-07-01,"Cholera",90
+"FCT",2022-07-01,"Measles",300
+"FCT",2022-07-01,"Lassa Fever",0
+"FCT",2022-08-01,"Malaria",37870
+"FCT",2022-08-01,"Cholera",107
+"FCT",2022-08-01,"Measles",403
+"FCT",2022-08-01,"Lassa Fever",0
+"FCT",2022-09-01,"Malaria",39739
+"FCT",2022-09-01,"Cholera",97
+"FCT",2022-09-01,"Measles",285
+"FCT",2022-09-01,"Lassa Fever",0
+"FCT",2022-10-01,"Malaria",41246
+"FCT",2022-10-01,"Cholera",33
+"FCT",2022-10-01,"Measles",351
+"FCT",2022-10-01,"Lassa Fever",0
+"FCT",2022-11-01,"Malaria",20826
+"FCT",2022-11-01,"Cholera",26
+"FCT",2022-11-01,"Measles",375
+"FCT",2022-11-01,"Lassa Fever",0
+"FCT",2022-12-01,"Malaria",22499
+"FCT",2022-12-01,"Cholera",17
+"FCT",2022-12-01,"Measles",373
+"FCT",2022-12-01,"Lassa Fever",2
+"FCT",2023-01-01,"Malaria",19971
+"FCT",2023-01-01,"Cholera",13
+"FCT",2023-01-01,"Measles",424
+"FCT",2023-01-01,"Lassa Fever",4
+"FCT",2023-02-01,"Malaria",17424
+"FCT",2023-02-01,"Cholera",25
+"FCT",2023-02-01,"Measles",703
+"FCT",2023-02-01,"Lassa Fever",3
+"FCT",2023-03-01,"Malaria",20419
+"FCT",2023-03-01,"Cholera",20
+"FCT",2023-03-01,"Measles",619
+"FCT",2023-03-01,"Lassa Fever",1
+"FCT",2023-04-01,"Malaria",20153
+"FCT",2023-04-01,"Cholera",28
+"FCT",2023-04-01,"Measles",508
+"FCT",2023-04-01,"Lassa Fever",0
+"FCT",2023-05-01,"Malaria",12884
+"FCT",2023-05-01,"Cholera",27
+"FCT",2023-05-01,"Measles",375
+"FCT",2023-05-01,"Lassa Fever",0
+"FCT",2023-06-01,"Malaria",15659
+"FCT",2023-06-01,"Cholera",38
+"FCT",2023-06-01,"Measles",372
+"FCT",2023-06-01,"Lassa Fever",0
+"FCT",2023-07-01,"Malaria",26309
+"FCT",2023-07-01,"Cholera",120
+"FCT",2023-07-01,"Measles",312
+"FCT",2023-07-01,"Lassa Fever",0
+"FCT",2023-08-01,"Malaria",40467
+"FCT",2023-08-01,"Cholera",104
+"FCT",2023-08-01,"Measles",329
+"FCT",2023-08-01,"Lassa Fever",0
+"FCT",2023-09-01,"Malaria",42764
+"FCT",2023-09-01,"Cholera",91
+"FCT",2023-09-01,"Measles",300
+"FCT",2023-09-01,"Lassa Fever",0
+"FCT",2023-10-01,"Malaria",32478
+"FCT",2023-10-01,"Cholera",55
+"FCT",2023-10-01,"Measles",353
+"FCT",2023-10-01,"Lassa Fever",0
+"FCT",2023-11-01,"Malaria",21267
+"FCT",2023-11-01,"Cholera",27
+"FCT",2023-11-01,"Measles",386
+"FCT",2023-11-01,"Lassa Fever",1
+"FCT",2023-12-01,"Malaria",20039
+"FCT",2023-12-01,"Cholera",21
+"FCT",2023-12-01,"Measles",302
+"FCT",2023-12-01,"Lassa Fever",1
+"FCT",2024-01-01,"Malaria",22119
+"FCT",2024-01-01,"Cholera",33
+"FCT",2024-01-01,"Measles",483
+"FCT",2024-01-01,"Lassa Fever",5
+"FCT",2024-02-01,"Malaria",17593
+"FCT",2024-02-01,"Cholera",19
+"FCT",2024-02-01,"Measles",666
+"FCT",2024-02-01,"Lassa Fever",3
+"FCT",2024-03-01,"Malaria",17897
+"FCT",2024-03-01,"Cholera",33
+"FCT",2024-03-01,"Measles",612
+"FCT",2024-03-01,"Lassa Fever",4
+"FCT",2024-04-01,"Malaria",18196
+"FCT",2024-04-01,"Cholera",24
+"FCT",2024-04-01,"Measles",474
+"FCT",2024-04-01,"Lassa Fever",0
+"FCT",2024-05-01,"Malaria",17399
+"FCT",2024-05-01,"Cholera",36
+"FCT",2024-05-01,"Measles",354
+"FCT",2024-05-01,"Lassa Fever",0
+"FCT",2024-06-01,"Malaria",19117
+"FCT",2024-06-01,"Cholera",60
+"FCT",2024-06-01,"Measles",438
+"FCT",2024-06-01,"Lassa Fever",0
+"FCT",2024-07-01,"Malaria",26594
+"FCT",2024-07-01,"Cholera",102
+"FCT",2024-07-01,"Measles",441
+"FCT",2024-07-01,"Lassa Fever",0
+"FCT",2024-08-01,"Malaria",35867
+"FCT",2024-08-01,"Cholera",114
+"FCT",2024-08-01,"Measles",393
+"FCT",2024-08-01,"Lassa Fever",1
+"FCT",2024-09-01,"Malaria",35566
+"FCT",2024-09-01,"Cholera",155
+"FCT",2024-09-01,"Measles",373
+"FCT",2024-09-01,"Lassa Fever",0
+"FCT",2024-10-01,"Malaria",36939
+"FCT",2024-10-01,"Cholera",45
+"FCT",2024-10-01,"Measles",395
+"FCT",2024-10-01,"Lassa Fever",1
+"FCT",2024-11-01,"Malaria",28416
+"FCT",2024-11-01,"Cholera",21
+"FCT",2024-11-01,"Measles",500
+"FCT",2024-11-01,"Lassa Fever",0
+"FCT",2024-12-01,"Malaria",20678
+"FCT",2024-12-01,"Cholera",27
+"FCT",2024-12-01,"Measles",450
+"FCT",2024-12-01,"Lassa Fever",1
+"Benue",2019-01-01,"Malaria",32664
+"Benue",2019-01-01,"Cholera",30
+"Benue",2019-01-01,"Measles",1288
+"Benue",2019-01-01,"Lassa Fever",30
+"Benue",2019-02-01,"Malaria",31861
+"Benue",2019-02-01,"Cholera",28
+"Benue",2019-02-01,"Measles",1541
+"Benue",2019-02-01,"Lassa Fever",22
+"Benue",2019-03-01,"Malaria",22987
+"Benue",2019-03-01,"Cholera",24
+"Benue",2019-03-01,"Measles",1996
+"Benue",2019-03-01,"Lassa Fever",14
+"Benue",2019-04-01,"Malaria",34895
+"Benue",2019-04-01,"Cholera",37
+"Benue",2019-04-01,"Measles",1621
+"Benue",2019-04-01,"Lassa Fever",8
+"Benue",2019-05-01,"Malaria",34896
+"Benue",2019-05-01,"Cholera",58
+"Benue",2019-05-01,"Measles",990
+"Benue",2019-05-01,"Lassa Fever",6
+"Benue",2019-06-01,"Malaria",30617
+"Benue",2019-06-01,"Cholera",84
+"Benue",2019-06-01,"Measles",1014
+"Benue",2019-06-01,"Lassa Fever",3
+"Benue",2019-07-01,"Malaria",52639
+"Benue",2019-07-01,"Cholera",167
+"Benue",2019-07-01,"Measles",928
+"Benue",2019-07-01,"Lassa Fever",2
+"Benue",2019-08-01,"Malaria",66398
+"Benue",2019-08-01,"Cholera",189
+"Benue",2019-08-01,"Measles",751
+"Benue",2019-08-01,"Lassa Fever",6
+"Benue",2019-09-01,"Malaria",70170
+"Benue",2019-09-01,"Cholera",108
+"Benue",2019-09-01,"Measles",987
+"Benue",2019-09-01,"Lassa Fever",3
+"Benue",2019-10-01,"Malaria",59381
+"Benue",2019-10-01,"Cholera",72
+"Benue",2019-10-01,"Measles",865
+"Benue",2019-10-01,"Lassa Fever",3
+"Benue",2019-11-01,"Malaria",37602
+"Benue",2019-11-01,"Cholera",42
+"Benue",2019-11-01,"Measles",719
+"Benue",2019-11-01,"Lassa Fever",15
+"Benue",2019-12-01,"Malaria",37099
+"Benue",2019-12-01,"Cholera",18
+"Benue",2019-12-01,"Measles",1056
+"Benue",2019-12-01,"Lassa Fever",21
+"Benue",2020-01-01,"Malaria",38759
+"Benue",2020-01-01,"Cholera",40
+"Benue",2020-01-01,"Measles",1481
+"Benue",2020-01-01,"Lassa Fever",38
+"Benue",2020-02-01,"Malaria",26346
+"Benue",2020-02-01,"Cholera",24
+"Benue",2020-02-01,"Measles",1727
+"Benue",2020-02-01,"Lassa Fever",40
+"Benue",2020-03-01,"Malaria",40003
+"Benue",2020-03-01,"Cholera",33
+"Benue",2020-03-01,"Measles",1880
+"Benue",2020-03-01,"Lassa Fever",19
+"Benue",2020-04-01,"Malaria",26083
+"Benue",2020-04-01,"Cholera",27
+"Benue",2020-04-01,"Measles",1248
+"Benue",2020-04-01,"Lassa Fever",2
+"Benue",2020-05-01,"Malaria",25608
+"Benue",2020-05-01,"Cholera",44
+"Benue",2020-05-01,"Measles",893
+"Benue",2020-05-01,"Lassa Fever",2
+"Benue",2020-06-01,"Malaria",26308
+"Benue",2020-06-01,"Cholera",44
+"Benue",2020-06-01,"Measles",973
+"Benue",2020-06-01,"Lassa Fever",4
+"Benue",2020-07-01,"Malaria",38988
+"Benue",2020-07-01,"Cholera",1237
+"Benue",2020-07-01,"Measles",1160
+"Benue",2020-07-01,"Lassa Fever",2
+"Benue",2020-08-01,"Malaria",57290
+"Benue",2020-08-01,"Cholera",1201
+"Benue",2020-08-01,"Measles",935
+"Benue",2020-08-01,"Lassa Fever",4
+"Benue",2020-09-01,"Malaria",75740
+"Benue",2020-09-01,"Cholera",980
+"Benue",2020-09-01,"Measles",1213
+"Benue",2020-09-01,"Lassa Fever",3
+"Benue",2020-10-01,"Malaria",64589
+"Benue",2020-10-01,"Cholera",464
+"Benue",2020-10-01,"Measles",1101
+"Benue",2020-10-01,"Lassa Fever",6
+"Benue",2020-11-01,"Malaria",39219
+"Benue",2020-11-01,"Cholera",43
+"Benue",2020-11-01,"Measles",1235
+"Benue",2020-11-01,"Lassa Fever",8
+"Benue",2020-12-01,"Malaria",37784
+"Benue",2020-12-01,"Cholera",38
+"Benue",2020-12-01,"Measles",1145
+"Benue",2020-12-01,"Lassa Fever",21
+"Benue",2021-01-01,"Malaria",31637
+"Benue",2021-01-01,"Cholera",26
+"Benue",2021-01-01,"Measles",1679
+"Benue",2021-01-01,"Lassa Fever",38
+"Benue",2021-02-01,"Malaria",28510
+"Benue",2021-02-01,"Cholera",38
+"Benue",2021-02-01,"Measles",1717
+"Benue",2021-02-01,"Lassa Fever",40
+"Benue",2021-03-01,"Malaria",29153
+"Benue",2021-03-01,"Cholera",40
+"Benue",2021-03-01,"Measles",2029
+"Benue",2021-03-01,"Lassa Fever",20
+"Benue",2021-04-01,"Malaria",30709
+"Benue",2021-04-01,"Cholera",38
+"Benue",2021-04-01,"Measles",1167
+"Benue",2021-04-01,"Lassa Fever",9
+"Benue",2021-05-01,"Malaria",28933
+"Benue",2021-05-01,"Cholera",61
+"Benue",2021-05-01,"Measles",917
+"Benue",2021-05-01,"Lassa Fever",3
+"Benue",2021-06-01,"Malaria",31649
+"Benue",2021-06-01,"Cholera",111
+"Benue",2021-06-01,"Measles",953
+"Benue",2021-06-01,"Lassa Fever",5
+"Benue",2021-07-01,"Malaria",48262
+"Benue",2021-07-01,"Cholera",170
+"Benue",2021-07-01,"Measles",1005
+"Benue",2021-07-01,"Lassa Fever",5
+"Benue",2021-08-01,"Malaria",60397
+"Benue",2021-08-01,"Cholera",128
+"Benue",2021-08-01,"Measles",697
+"Benue",2021-08-01,"Lassa Fever",5
+"Benue",2021-09-01,"Malaria",77756
+"Benue",2021-09-01,"Cholera",138
+"Benue",2021-09-01,"Measles",937
+"Benue",2021-09-01,"Lassa Fever",2
+"Benue",2021-10-01,"Malaria",59964
+"Benue",2021-10-01,"Cholera",90
+"Benue",2021-10-01,"Measles",955
+"Benue",2021-10-01,"Lassa Fever",4
+"Benue",2021-11-01,"Malaria",42839
+"Benue",2021-11-01,"Cholera",48
+"Benue",2021-11-01,"Measles",952
+"Benue",2021-11-01,"Lassa Fever",7
+"Benue",2021-12-01,"Malaria",33027
+"Benue",2021-12-01,"Cholera",27
+"Benue",2021-12-01,"Measles",954
+"Benue",2021-12-01,"Lassa Fever",35
+"Benue",2022-01-01,"Malaria",28975
+"Benue",2022-01-01,"Cholera",32
+"Benue",2022-01-01,"Measles",1430
+"Benue",2022-01-01,"Lassa Fever",46
+"Benue",2022-02-01,"Malaria",33305
+"Benue",2022-02-01,"Cholera",29
+"Benue",2022-02-01,"Measles",1701
+"Benue",2022-02-01,"Lassa Fever",41
+"Benue",2022-03-01,"Malaria",26655
+"Benue",2022-03-01,"Cholera",34
+"Benue",2022-03-01,"Measles",1576
+"Benue",2022-03-01,"Lassa Fever",20
+"Benue",2022-04-01,"Malaria",35349
+"Benue",2022-04-01,"Cholera",35
+"Benue",2022-04-01,"Measles",1269
+"Benue",2022-04-01,"Lassa Fever",7
+"Benue",2022-05-01,"Malaria",32379
+"Benue",2022-05-01,"Cholera",31
+"Benue",2022-05-01,"Measles",1257
+"Benue",2022-05-01,"Lassa Fever",4
+"Benue",2022-06-01,"Malaria",31374
+"Benue",2022-06-01,"Cholera",106
+"Benue",2022-06-01,"Measles",895
+"Benue",2022-06-01,"Lassa Fever",3
+"Benue",2022-07-01,"Malaria",47188
+"Benue",2022-07-01,"Cholera",162
+"Benue",2022-07-01,"Measles",1025
+"Benue",2022-07-01,"Lassa Fever",6
+"Benue",2022-08-01,"Malaria",58941
+"Benue",2022-08-01,"Cholera",129
+"Benue",2022-08-01,"Measles",974
+"Benue",2022-08-01,"Lassa Fever",8
+"Benue",2022-09-01,"Malaria",71842
+"Benue",2022-09-01,"Cholera",164
+"Benue",2022-09-01,"Measles",889
+"Benue",2022-09-01,"Lassa Fever",4
+"Benue",2022-10-01,"Malaria",50154
+"Benue",2022-10-01,"Cholera",91
+"Benue",2022-10-01,"Measles",960
+"Benue",2022-10-01,"Lassa Fever",8
+"Benue",2022-11-01,"Malaria",47228
+"Benue",2022-11-01,"Cholera",40
+"Benue",2022-11-01,"Measles",1120
+"Benue",2022-11-01,"Lassa Fever",12
+"Benue",2022-12-01,"Malaria",34092
+"Benue",2022-12-01,"Cholera",47
+"Benue",2022-12-01,"Measles",1040
+"Benue",2022-12-01,"Lassa Fever",18
+"Benue",2023-01-01,"Malaria",32023
+"Benue",2023-01-01,"Cholera",30
+"Benue",2023-01-01,"Measles",1630
+"Benue",2023-01-01,"Lassa Fever",22
+"Benue",2023-02-01,"Malaria",26453
+"Benue",2023-02-01,"Cholera",18
+"Benue",2023-02-01,"Measles",1971
+"Benue",2023-02-01,"Lassa Fever",30
+"Benue",2023-03-01,"Malaria",33609
+"Benue",2023-03-01,"Cholera",31
+"Benue",2023-03-01,"Measles",1805
+"Benue",2023-03-01,"Lassa Fever",22
+"Benue",2023-04-01,"Malaria",33127
+"Benue",2023-04-01,"Cholera",48
+"Benue",2023-04-01,"Measles",1450
+"Benue",2023-04-01,"Lassa Fever",11
+"Benue",2023-05-01,"Malaria",30319
+"Benue",2023-05-01,"Cholera",29
+"Benue",2023-05-01,"Measles",1218
+"Benue",2023-05-01,"Lassa Fever",4
+"Benue",2023-06-01,"Malaria",32452
+"Benue",2023-06-01,"Cholera",70
+"Benue",2023-06-01,"Measles",1154
+"Benue",2023-06-01,"Lassa Fever",0
+"Benue",2023-07-01,"Malaria",38741
+"Benue",2023-07-01,"Cholera",126
+"Benue",2023-07-01,"Measles",1257
+"Benue",2023-07-01,"Lassa Fever",3
+"Benue",2023-08-01,"Malaria",66425
+"Benue",2023-08-01,"Cholera",164
+"Benue",2023-08-01,"Measles",964
+"Benue",2023-08-01,"Lassa Fever",4
+"Benue",2023-09-01,"Malaria",70187
+"Benue",2023-09-01,"Cholera",156
+"Benue",2023-09-01,"Measles",1101
+"Benue",2023-09-01,"Lassa Fever",3
+"Benue",2023-10-01,"Malaria",65606
+"Benue",2023-10-01,"Cholera",106
+"Benue",2023-10-01,"Measles",983
+"Benue",2023-10-01,"Lassa Fever",4
+"Benue",2023-11-01,"Malaria",37046
+"Benue",2023-11-01,"Cholera",40
+"Benue",2023-11-01,"Measles",1066
+"Benue",2023-11-01,"Lassa Fever",9
+"Benue",2023-12-01,"Malaria",34030
+"Benue",2023-12-01,"Cholera",34
+"Benue",2023-12-01,"Measles",1121
+"Benue",2023-12-01,"Lassa Fever",27
+"Benue",2024-01-01,"Malaria",27057
+"Benue",2024-01-01,"Cholera",33
+"Benue",2024-01-01,"Measles",1434
+"Benue",2024-01-01,"Lassa Fever",30
+"Benue",2024-02-01,"Malaria",32014
+"Benue",2024-02-01,"Cholera",46
+"Benue",2024-02-01,"Measles",1599
+"Benue",2024-02-01,"Lassa Fever",37
+"Benue",2024-03-01,"Malaria",27236
+"Benue",2024-03-01,"Cholera",22
+"Benue",2024-03-01,"Measles",1811
+"Benue",2024-03-01,"Lassa Fever",30
+"Benue",2024-04-01,"Malaria",27248
+"Benue",2024-04-01,"Cholera",27
+"Benue",2024-04-01,"Measles",1146
+"Benue",2024-04-01,"Lassa Fever",7
+"Benue",2024-05-01,"Malaria",28069
+"Benue",2024-05-01,"Cholera",59
+"Benue",2024-05-01,"Measles",1003
+"Benue",2024-05-01,"Lassa Fever",3
+"Benue",2024-06-01,"Malaria",36299
+"Benue",2024-06-01,"Cholera",75
+"Benue",2024-06-01,"Measles",877
+"Benue",2024-06-01,"Lassa Fever",3
+"Benue",2024-07-01,"Malaria",30696
+"Benue",2024-07-01,"Cholera",143
+"Benue",2024-07-01,"Measles",991
+"Benue",2024-07-01,"Lassa Fever",4
+"Benue",2024-08-01,"Malaria",65298
+"Benue",2024-08-01,"Cholera",304
+"Benue",2024-08-01,"Measles",954
+"Benue",2024-08-01,"Lassa Fever",5
+"Benue",2024-09-01,"Malaria",64758
+"Benue",2024-09-01,"Cholera",165
+"Benue",2024-09-01,"Measles",833
+"Benue",2024-09-01,"Lassa Fever",2
+"Benue",2024-10-01,"Malaria",50336
+"Benue",2024-10-01,"Cholera",73
+"Benue",2024-10-01,"Measles",1351
+"Benue",2024-10-01,"Lassa Fever",3
+"Benue",2024-11-01,"Malaria",36549
+"Benue",2024-11-01,"Cholera",64
+"Benue",2024-11-01,"Measles",1027
+"Benue",2024-11-01,"Lassa Fever",7
+"Benue",2024-12-01,"Malaria",40886
+"Benue",2024-12-01,"Cholera",37
+"Benue",2024-12-01,"Measles",1085
+"Benue",2024-12-01,"Lassa Fever",17
+"Kaduna",2019-01-01,"Malaria",54194
+"Kaduna",2019-01-01,"Cholera",38
+"Kaduna",2019-01-01,"Measles",2207
+"Kaduna",2019-01-01,"Lassa Fever",10
+"Kaduna",2019-02-01,"Malaria",55546
+"Kaduna",2019-02-01,"Cholera",35
+"Kaduna",2019-02-01,"Measles",2525
+"Kaduna",2019-02-01,"Lassa Fever",4
+"Kaduna",2019-03-01,"Malaria",59669
+"Kaduna",2019-03-01,"Cholera",40
+"Kaduna",2019-03-01,"Measles",3067
+"Kaduna",2019-03-01,"Lassa Fever",4
+"Kaduna",2019-04-01,"Malaria",55973
+"Kaduna",2019-04-01,"Cholera",37
+"Kaduna",2019-04-01,"Measles",2556
+"Kaduna",2019-04-01,"Lassa Fever",2
+"Kaduna",2019-05-01,"Malaria",54740
+"Kaduna",2019-05-01,"Cholera",33
+"Kaduna",2019-05-01,"Measles",1715
+"Kaduna",2019-05-01,"Lassa Fever",0
+"Kaduna",2019-06-01,"Malaria",60886
+"Kaduna",2019-06-01,"Cholera",68
+"Kaduna",2019-06-01,"Measles",1664
+"Kaduna",2019-06-01,"Lassa Fever",0
+"Kaduna",2019-07-01,"Malaria",69227
+"Kaduna",2019-07-01,"Cholera",145
+"Kaduna",2019-07-01,"Measles",1238
+"Kaduna",2019-07-01,"Lassa Fever",0
+"Kaduna",2019-08-01,"Malaria",109556
+"Kaduna",2019-08-01,"Cholera",199
+"Kaduna",2019-08-01,"Measles",1395
+"Kaduna",2019-08-01,"Lassa Fever",1
+"Kaduna",2019-09-01,"Malaria",105802
+"Kaduna",2019-09-01,"Cholera",219
+"Kaduna",2019-09-01,"Measles",1735
+"Kaduna",2019-09-01,"Lassa Fever",0
+"Kaduna",2019-10-01,"Malaria",92173
+"Kaduna",2019-10-01,"Cholera",95
+"Kaduna",2019-10-01,"Measles",1512
+"Kaduna",2019-10-01,"Lassa Fever",1
+"Kaduna",2019-11-01,"Malaria",69412
+"Kaduna",2019-11-01,"Cholera",49
+"Kaduna",2019-11-01,"Measles",1552
+"Kaduna",2019-11-01,"Lassa Fever",1
+"Kaduna",2019-12-01,"Malaria",78223
+"Kaduna",2019-12-01,"Cholera",48
+"Kaduna",2019-12-01,"Measles",1408
+"Kaduna",2019-12-01,"Lassa Fever",5
+"Kaduna",2020-01-01,"Malaria",57810
+"Kaduna",2020-01-01,"Cholera",37
+"Kaduna",2020-01-01,"Measles",2538
+"Kaduna",2020-01-01,"Lassa Fever",5
+"Kaduna",2020-02-01,"Malaria",54490
+"Kaduna",2020-02-01,"Cholera",50
+"Kaduna",2020-02-01,"Measles",2949
+"Kaduna",2020-02-01,"Lassa Fever",6
+"Kaduna",2020-03-01,"Malaria",47854
+"Kaduna",2020-03-01,"Cholera",41
+"Kaduna",2020-03-01,"Measles",3230
+"Kaduna",2020-03-01,"Lassa Fever",2
+"Kaduna",2020-04-01,"Malaria",32575
+"Kaduna",2020-04-01,"Cholera",41
+"Kaduna",2020-04-01,"Measles",1975
+"Kaduna",2020-04-01,"Lassa Fever",1
+"Kaduna",2020-05-01,"Malaria",41673
+"Kaduna",2020-05-01,"Cholera",27
+"Kaduna",2020-05-01,"Measles",1462
+"Kaduna",2020-05-01,"Lassa Fever",0
+"Kaduna",2020-06-01,"Malaria",46897
+"Kaduna",2020-06-01,"Cholera",46
+"Kaduna",2020-06-01,"Measles",1354
+"Kaduna",2020-06-01,"Lassa Fever",0
+"Kaduna",2020-07-01,"Malaria",58520
+"Kaduna",2020-07-01,"Cholera",206
+"Kaduna",2020-07-01,"Measles",2131
+"Kaduna",2020-07-01,"Lassa Fever",1
+"Kaduna",2020-08-01,"Malaria",90300
+"Kaduna",2020-08-01,"Cholera",266
+"Kaduna",2020-08-01,"Measles",1469
+"Kaduna",2020-08-01,"Lassa Fever",1
+"Kaduna",2020-09-01,"Malaria",101350
+"Kaduna",2020-09-01,"Cholera",142
+"Kaduna",2020-09-01,"Measles",1663
+"Kaduna",2020-09-01,"Lassa Fever",2
+"Kaduna",2020-10-01,"Malaria",98770
+"Kaduna",2020-10-01,"Cholera",75
+"Kaduna",2020-10-01,"Measles",1839
+"Kaduna",2020-10-01,"Lassa Fever",1
+"Kaduna",2020-11-01,"Malaria",98278
+"Kaduna",2020-11-01,"Cholera",30
+"Kaduna",2020-11-01,"Measles",1594
+"Kaduna",2020-11-01,"Lassa Fever",0
+"Kaduna",2020-12-01,"Malaria",41889
+"Kaduna",2020-12-01,"Cholera",21
+"Kaduna",2020-12-01,"Measles",2128
+"Kaduna",2020-12-01,"Lassa Fever",0
+"Kaduna",2021-01-01,"Malaria",56139
+"Kaduna",2021-01-01,"Cholera",36
+"Kaduna",2021-01-01,"Measles",1958
+"Kaduna",2021-01-01,"Lassa Fever",7
+"Kaduna",2021-02-01,"Malaria",72461
+"Kaduna",2021-02-01,"Cholera",50
+"Kaduna",2021-02-01,"Measles",2985
+"Kaduna",2021-02-01,"Lassa Fever",5
+"Kaduna",2021-03-01,"Malaria",49050
+"Kaduna",2021-03-01,"Cholera",35
+"Kaduna",2021-03-01,"Measles",3283
+"Kaduna",2021-03-01,"Lassa Fever",1
+"Kaduna",2021-04-01,"Malaria",52838
+"Kaduna",2021-04-01,"Cholera",42
+"Kaduna",2021-04-01,"Measles",2546
+"Kaduna",2021-04-01,"Lassa Fever",0
+"Kaduna",2021-05-01,"Malaria",53599
+"Kaduna",2021-05-01,"Cholera",54
+"Kaduna",2021-05-01,"Measles",1718
+"Kaduna",2021-05-01,"Lassa Fever",0
+"Kaduna",2021-06-01,"Malaria",65519
+"Kaduna",2021-06-01,"Cholera",67
+"Kaduna",2021-06-01,"Measles",1837
+"Kaduna",2021-06-01,"Lassa Fever",0
+"Kaduna",2021-07-01,"Malaria",60727
+"Kaduna",2021-07-01,"Cholera",161
+"Kaduna",2021-07-01,"Measles",1375
+"Kaduna",2021-07-01,"Lassa Fever",0
+"Kaduna",2021-08-01,"Malaria",104393
+"Kaduna",2021-08-01,"Cholera",203
+"Kaduna",2021-08-01,"Measles",1617
+"Kaduna",2021-08-01,"Lassa Fever",0
+"Kaduna",2021-09-01,"Malaria",154041
+"Kaduna",2021-09-01,"Cholera",175
+"Kaduna",2021-09-01,"Measles",1881
+"Kaduna",2021-09-01,"Lassa Fever",1
+"Kaduna",2021-10-01,"Malaria",99765
+"Kaduna",2021-10-01,"Cholera",61
+"Kaduna",2021-10-01,"Measles",1705
+"Kaduna",2021-10-01,"Lassa Fever",2
+"Kaduna",2021-11-01,"Malaria",70350
+"Kaduna",2021-11-01,"Cholera",59
+"Kaduna",2021-11-01,"Measles",1687
+"Kaduna",2021-11-01,"Lassa Fever",1
+"Kaduna",2021-12-01,"Malaria",51457
+"Kaduna",2021-12-01,"Cholera",42
+"Kaduna",2021-12-01,"Measles",2250
+"Kaduna",2021-12-01,"Lassa Fever",6
+"Kaduna",2022-01-01,"Malaria",44260
+"Kaduna",2022-01-01,"Cholera",38
+"Kaduna",2022-01-01,"Measles",2379
+"Kaduna",2022-01-01,"Lassa Fever",7
+"Kaduna",2022-02-01,"Malaria",54400
+"Kaduna",2022-02-01,"Cholera",48
+"Kaduna",2022-02-01,"Measles",3323
+"Kaduna",2022-02-01,"Lassa Fever",2
+"Kaduna",2022-03-01,"Malaria",57628
+"Kaduna",2022-03-01,"Cholera",46
+"Kaduna",2022-03-01,"Measles",3081
+"Kaduna",2022-03-01,"Lassa Fever",3
+"Kaduna",2022-04-01,"Malaria",55939
+"Kaduna",2022-04-01,"Cholera",49
+"Kaduna",2022-04-01,"Measles",2553
+"Kaduna",2022-04-01,"Lassa Fever",3
+"Kaduna",2022-05-01,"Malaria",51960
+"Kaduna",2022-05-01,"Cholera",32
+"Kaduna",2022-05-01,"Measles",1707
+"Kaduna",2022-05-01,"Lassa Fever",0
+"Kaduna",2022-06-01,"Malaria",55265
+"Kaduna",2022-06-01,"Cholera",60
+"Kaduna",2022-06-01,"Measles",1376
+"Kaduna",2022-06-01,"Lassa Fever",1
+"Kaduna",2022-07-01,"Malaria",48753
+"Kaduna",2022-07-01,"Cholera",178
+"Kaduna",2022-07-01,"Measles",1459
+"Kaduna",2022-07-01,"Lassa Fever",1
+"Kaduna",2022-08-01,"Malaria",88504
+"Kaduna",2022-08-01,"Cholera",233
+"Kaduna",2022-08-01,"Measles",1352
+"Kaduna",2022-08-01,"Lassa Fever",0
+"Kaduna",2022-09-01,"Malaria",102465
+"Kaduna",2022-09-01,"Cholera",215
+"Kaduna",2022-09-01,"Measles",1476
+"Kaduna",2022-09-01,"Lassa Fever",0
+"Kaduna",2022-10-01,"Malaria",81873
+"Kaduna",2022-10-01,"Cholera",64
+"Kaduna",2022-10-01,"Measles",1608
+"Kaduna",2022-10-01,"Lassa Fever",0
+"Kaduna",2022-11-01,"Malaria",62489
+"Kaduna",2022-11-01,"Cholera",50
+"Kaduna",2022-11-01,"Measles",1675
+"Kaduna",2022-11-01,"Lassa Fever",1
+"Kaduna",2022-12-01,"Malaria",51546
+"Kaduna",2022-12-01,"Cholera",45
+"Kaduna",2022-12-01,"Measles",1520
+"Kaduna",2022-12-01,"Lassa Fever",3
+"Kaduna",2023-01-01,"Malaria",59830
+"Kaduna",2023-01-01,"Cholera",46
+"Kaduna",2023-01-01,"Measles",2296
+"Kaduna",2023-01-01,"Lassa Fever",0
+"Kaduna",2023-02-01,"Malaria",46258
+"Kaduna",2023-02-01,"Cholera",45
+"Kaduna",2023-02-01,"Measles",2701
+"Kaduna",2023-02-01,"Lassa Fever",4
+"Kaduna",2023-03-01,"Malaria",57039
+"Kaduna",2023-03-01,"Cholera",46
+"Kaduna",2023-03-01,"Measles",3102
+"Kaduna",2023-03-01,"Lassa Fever",5
+"Kaduna",2023-04-01,"Malaria",61240
+"Kaduna",2023-04-01,"Cholera",49
+"Kaduna",2023-04-01,"Measles",2173
+"Kaduna",2023-04-01,"Lassa Fever",2
+"Kaduna",2023-05-01,"Malaria",46974
+"Kaduna",2023-05-01,"Cholera",46
+"Kaduna",2023-05-01,"Measles",1843
+"Kaduna",2023-05-01,"Lassa Fever",0
+"Kaduna",2023-06-01,"Malaria",55843
+"Kaduna",2023-06-01,"Cholera",95
+"Kaduna",2023-06-01,"Measles",2077
+"Kaduna",2023-06-01,"Lassa Fever",1
+"Kaduna",2023-07-01,"Malaria",61634
+"Kaduna",2023-07-01,"Cholera",232
+"Kaduna",2023-07-01,"Measles",1861
+"Kaduna",2023-07-01,"Lassa Fever",0
+"Kaduna",2023-08-01,"Malaria",117948
+"Kaduna",2023-08-01,"Cholera",206
+"Kaduna",2023-08-01,"Measles",1544
+"Kaduna",2023-08-01,"Lassa Fever",1
+"Kaduna",2023-09-01,"Malaria",122319
+"Kaduna",2023-09-01,"Cholera",159
+"Kaduna",2023-09-01,"Measles",1512
+"Kaduna",2023-09-01,"Lassa Fever",0
+"Kaduna",2023-10-01,"Malaria",96692
+"Kaduna",2023-10-01,"Cholera",110
+"Kaduna",2023-10-01,"Measles",1881
+"Kaduna",2023-10-01,"Lassa Fever",0
+"Kaduna",2023-11-01,"Malaria",58901
+"Kaduna",2023-11-01,"Cholera",53
+"Kaduna",2023-11-01,"Measles",1464
+"Kaduna",2023-11-01,"Lassa Fever",0
+"Kaduna",2023-12-01,"Malaria",59274
+"Kaduna",2023-12-01,"Cholera",52
+"Kaduna",2023-12-01,"Measles",1554
+"Kaduna",2023-12-01,"Lassa Fever",4
+"Kaduna",2024-01-01,"Malaria",46661
+"Kaduna",2024-01-01,"Cholera",37
+"Kaduna",2024-01-01,"Measles",2058
+"Kaduna",2024-01-01,"Lassa Fever",9
+"Kaduna",2024-02-01,"Malaria",55256
+"Kaduna",2024-02-01,"Cholera",39
+"Kaduna",2024-02-01,"Measles",3499
+"Kaduna",2024-02-01,"Lassa Fever",11
+"Kaduna",2024-03-01,"Malaria",46360
+"Kaduna",2024-03-01,"Cholera",39
+"Kaduna",2024-03-01,"Measles",2486
+"Kaduna",2024-03-01,"Lassa Fever",5
+"Kaduna",2024-04-01,"Malaria",55339
+"Kaduna",2024-04-01,"Cholera",41
+"Kaduna",2024-04-01,"Measles",2393
+"Kaduna",2024-04-01,"Lassa Fever",1
+"Kaduna",2024-05-01,"Malaria",44883
+"Kaduna",2024-05-01,"Cholera",46
+"Kaduna",2024-05-01,"Measles",1451
+"Kaduna",2024-05-01,"Lassa Fever",0
+"Kaduna",2024-06-01,"Malaria",80093
+"Kaduna",2024-06-01,"Cholera",121
+"Kaduna",2024-06-01,"Measles",1593
+"Kaduna",2024-06-01,"Lassa Fever",0
+"Kaduna",2024-07-01,"Malaria",72625
+"Kaduna",2024-07-01,"Cholera",2343
+"Kaduna",2024-07-01,"Measles",1917
+"Kaduna",2024-07-01,"Lassa Fever",1
+"Kaduna",2024-08-01,"Malaria",116327
+"Kaduna",2024-08-01,"Cholera",2393
+"Kaduna",2024-08-01,"Measles",1635
+"Kaduna",2024-08-01,"Lassa Fever",0
+"Kaduna",2024-09-01,"Malaria",101734
+"Kaduna",2024-09-01,"Cholera",1963
+"Kaduna",2024-09-01,"Measles",1870
+"Kaduna",2024-09-01,"Lassa Fever",0
+"Kaduna",2024-10-01,"Malaria",97056
+"Kaduna",2024-10-01,"Cholera",481
+"Kaduna",2024-10-01,"Measles",1832
+"Kaduna",2024-10-01,"Lassa Fever",1
+"Kaduna",2024-11-01,"Malaria",69099
+"Kaduna",2024-11-01,"Cholera",49
+"Kaduna",2024-11-01,"Measles",1751
+"Kaduna",2024-11-01,"Lassa Fever",0
+"Kaduna",2024-12-01,"Malaria",58894
+"Kaduna",2024-12-01,"Cholera",28
+"Kaduna",2024-12-01,"Measles",1790
+"Kaduna",2024-12-01,"Lassa Fever",2
+"Kano",2019-01-01,"Malaria",88293
+"Kano",2019-01-01,"Cholera",84
+"Kano",2019-01-01,"Measles",4918
+"Kano",2019-01-01,"Lassa Fever",9
+"Kano",2019-02-01,"Malaria",99113
+"Kano",2019-02-01,"Cholera",77
+"Kano",2019-02-01,"Measles",5404
+"Kano",2019-02-01,"Lassa Fever",8
+"Kano",2019-03-01,"Malaria",85041
+"Kano",2019-03-01,"Cholera",64
+"Kano",2019-03-01,"Measles",4637
+"Kano",2019-03-01,"Lassa Fever",3
+"Kano",2019-04-01,"Malaria",101633
+"Kano",2019-04-01,"Cholera",75
+"Kano",2019-04-01,"Measles",5062
+"Kano",2019-04-01,"Lassa Fever",2
+"Kano",2019-05-01,"Malaria",89463
+"Kano",2019-05-01,"Cholera",87
+"Kano",2019-05-01,"Measles",4017
+"Kano",2019-05-01,"Lassa Fever",1
+"Kano",2019-06-01,"Malaria",90072
+"Kano",2019-06-01,"Cholera",110
+"Kano",2019-06-01,"Measles",3408
+"Kano",2019-06-01,"Lassa Fever",0
+"Kano",2019-07-01,"Malaria",133621
+"Kano",2019-07-01,"Cholera",232
+"Kano",2019-07-01,"Measles",2453
+"Kano",2019-07-01,"Lassa Fever",0
+"Kano",2019-08-01,"Malaria",171166
+"Kano",2019-08-01,"Cholera",336
+"Kano",2019-08-01,"Measles",2461
+"Kano",2019-08-01,"Lassa Fever",0
+"Kano",2019-09-01,"Malaria",191957
+"Kano",2019-09-01,"Cholera",257
+"Kano",2019-09-01,"Measles",3282
+"Kano",2019-09-01,"Lassa Fever",0
+"Kano",2019-10-01,"Malaria",204927
+"Kano",2019-10-01,"Cholera",109
+"Kano",2019-10-01,"Measles",3628
+"Kano",2019-10-01,"Lassa Fever",1
+"Kano",2019-11-01,"Malaria",123757
+"Kano",2019-11-01,"Cholera",63
+"Kano",2019-11-01,"Measles",3211
+"Kano",2019-11-01,"Lassa Fever",3
+"Kano",2019-12-01,"Malaria",91521
+"Kano",2019-12-01,"Cholera",77
+"Kano",2019-12-01,"Measles",2825
+"Kano",2019-12-01,"Lassa Fever",5
+"Kano",2020-01-01,"Malaria",94943
+"Kano",2020-01-01,"Cholera",51
+"Kano",2020-01-01,"Measles",5551
+"Kano",2020-01-01,"Lassa Fever",10
+"Kano",2020-02-01,"Malaria",85886
+"Kano",2020-02-01,"Cholera",90
+"Kano",2020-02-01,"Measles",4996
+"Kano",2020-02-01,"Lassa Fever",11
+"Kano",2020-03-01,"Malaria",89005
+"Kano",2020-03-01,"Cholera",94
+"Kano",2020-03-01,"Measles",5541
+"Kano",2020-03-01,"Lassa Fever",10
+"Kano",2020-04-01,"Malaria",75052
+"Kano",2020-04-01,"Cholera",53
+"Kano",2020-04-01,"Measles",3117
+"Kano",2020-04-01,"Lassa Fever",4
+"Kano",2020-05-01,"Malaria",73787
+"Kano",2020-05-01,"Cholera",59
+"Kano",2020-05-01,"Measles",2696
+"Kano",2020-05-01,"Lassa Fever",2
+"Kano",2020-06-01,"Malaria",68960
+"Kano",2020-06-01,"Cholera",79
+"Kano",2020-06-01,"Measles",2967
+"Kano",2020-06-01,"Lassa Fever",0
+"Kano",2020-07-01,"Malaria",128145
+"Kano",2020-07-01,"Cholera",238
+"Kano",2020-07-01,"Measles",3264
+"Kano",2020-07-01,"Lassa Fever",4
+"Kano",2020-08-01,"Malaria",137195
+"Kano",2020-08-01,"Cholera",445
+"Kano",2020-08-01,"Measles",3390
+"Kano",2020-08-01,"Lassa Fever",1
+"Kano",2020-09-01,"Malaria",200519
+"Kano",2020-09-01,"Cholera",268
+"Kano",2020-09-01,"Measles",3046
+"Kano",2020-09-01,"Lassa Fever",3
+"Kano",2020-10-01,"Malaria",206167
+"Kano",2020-10-01,"Cholera",144
+"Kano",2020-10-01,"Measles",3480
+"Kano",2020-10-01,"Lassa Fever",0
+"Kano",2020-11-01,"Malaria",98806
+"Kano",2020-11-01,"Cholera",67
+"Kano",2020-11-01,"Measles",3845
+"Kano",2020-11-01,"Lassa Fever",5
+"Kano",2020-12-01,"Malaria",97249
+"Kano",2020-12-01,"Cholera",64
+"Kano",2020-12-01,"Measles",2782
+"Kano",2020-12-01,"Lassa Fever",6
+"Kano",2021-01-01,"Malaria",93227
+"Kano",2021-01-01,"Cholera",90
+"Kano",2021-01-01,"Measles",4372
+"Kano",2021-01-01,"Lassa Fever",11
+"Kano",2021-02-01,"Malaria",80455
+"Kano",2021-02-01,"Cholera",71
+"Kano",2021-02-01,"Measles",5827
+"Kano",2021-02-01,"Lassa Fever",9
+"Kano",2021-03-01,"Malaria",86103
+"Kano",2021-03-01,"Cholera",75
+"Kano",2021-03-01,"Measles",4924
+"Kano",2021-03-01,"Lassa Fever",6
+"Kano",2021-04-01,"Malaria",100588
+"Kano",2021-04-01,"Cholera",64
+"Kano",2021-04-01,"Measles",3929
+"Kano",2021-04-01,"Lassa Fever",0
+"Kano",2021-05-01,"Malaria",96582
+"Kano",2021-05-01,"Cholera",66
+"Kano",2021-05-01,"Measles",3348
+"Kano",2021-05-01,"Lassa Fever",1
+"Kano",2021-06-01,"Malaria",105150
+"Kano",2021-06-01,"Cholera",147
+"Kano",2021-06-01,"Measles",2864
+"Kano",2021-06-01,"Lassa Fever",0
+"Kano",2021-07-01,"Malaria",124430
+"Kano",2021-07-01,"Cholera",2619
+"Kano",2021-07-01,"Measles",2495
+"Kano",2021-07-01,"Lassa Fever",2
+"Kano",2021-08-01,"Malaria",186604
+"Kano",2021-08-01,"Cholera",4971
+"Kano",2021-08-01,"Measles",3968
+"Kano",2021-08-01,"Lassa Fever",1
+"Kano",2021-09-01,"Malaria",232039
+"Kano",2021-09-01,"Cholera",2602
+"Kano",2021-09-01,"Measles",3217
+"Kano",2021-09-01,"Lassa Fever",0
+"Kano",2021-10-01,"Malaria",152437
+"Kano",2021-10-01,"Cholera",1586
+"Kano",2021-10-01,"Measles",2663
+"Kano",2021-10-01,"Lassa Fever",0
+"Kano",2021-11-01,"Malaria",107841
+"Kano",2021-11-01,"Cholera",59
+"Kano",2021-11-01,"Measles",3238
+"Kano",2021-11-01,"Lassa Fever",1
+"Kano",2021-12-01,"Malaria",97089
+"Kano",2021-12-01,"Cholera",61
+"Kano",2021-12-01,"Measles",2991
+"Kano",2021-12-01,"Lassa Fever",6
+"Kano",2022-01-01,"Malaria",85226
+"Kano",2022-01-01,"Cholera",65
+"Kano",2022-01-01,"Measles",5387
+"Kano",2022-01-01,"Lassa Fever",12
+"Kano",2022-02-01,"Malaria",108975
+"Kano",2022-02-01,"Cholera",77
+"Kano",2022-02-01,"Measles",5629
+"Kano",2022-02-01,"Lassa Fever",10
+"Kano",2022-03-01,"Malaria",97086
+"Kano",2022-03-01,"Cholera",81
+"Kano",2022-03-01,"Measles",5728
+"Kano",2022-03-01,"Lassa Fever",5
+"Kano",2022-04-01,"Malaria",88571
+"Kano",2022-04-01,"Cholera",82
+"Kano",2022-04-01,"Measles",4202
+"Kano",2022-04-01,"Lassa Fever",4
+"Kano",2022-05-01,"Malaria",88794
+"Kano",2022-05-01,"Cholera",73
+"Kano",2022-05-01,"Measles",3220
+"Kano",2022-05-01,"Lassa Fever",0
+"Kano",2022-06-01,"Malaria",79135
+"Kano",2022-06-01,"Cholera",109
+"Kano",2022-06-01,"Measles",3172
+"Kano",2022-06-01,"Lassa Fever",0
+"Kano",2022-07-01,"Malaria",108803
+"Kano",2022-07-01,"Cholera",451
+"Kano",2022-07-01,"Measles",3472
+"Kano",2022-07-01,"Lassa Fever",2
+"Kano",2022-08-01,"Malaria",207544
+"Kano",2022-08-01,"Cholera",486
+"Kano",2022-08-01,"Measles",3171
+"Kano",2022-08-01,"Lassa Fever",0
+"Kano",2022-09-01,"Malaria",257447
+"Kano",2022-09-01,"Cholera",438
+"Kano",2022-09-01,"Measles",3051
+"Kano",2022-09-01,"Lassa Fever",1
+"Kano",2022-10-01,"Malaria",193744
+"Kano",2022-10-01,"Cholera",136
+"Kano",2022-10-01,"Measles",2924
+"Kano",2022-10-01,"Lassa Fever",2
+"Kano",2022-11-01,"Malaria",120856
+"Kano",2022-11-01,"Cholera",72
+"Kano",2022-11-01,"Measles",3390
+"Kano",2022-11-01,"Lassa Fever",2
+"Kano",2022-12-01,"Malaria",99363
+"Kano",2022-12-01,"Cholera",82
+"Kano",2022-12-01,"Measles",3256
+"Kano",2022-12-01,"Lassa Fever",4
+"Kano",2023-01-01,"Malaria",89226
+"Kano",2023-01-01,"Cholera",65
+"Kano",2023-01-01,"Measles",4855
+"Kano",2023-01-01,"Lassa Fever",9
+"Kano",2023-02-01,"Malaria",82942
+"Kano",2023-02-01,"Cholera",78
+"Kano",2023-02-01,"Measles",4671
+"Kano",2023-02-01,"Lassa Fever",7
+"Kano",2023-03-01,"Malaria",66804
+"Kano",2023-03-01,"Cholera",81
+"Kano",2023-03-01,"Measles",5448
+"Kano",2023-03-01,"Lassa Fever",2
+"Kano",2023-04-01,"Malaria",109533
+"Kano",2023-04-01,"Cholera",89
+"Kano",2023-04-01,"Measles",3549
+"Kano",2023-04-01,"Lassa Fever",1
+"Kano",2023-05-01,"Malaria",97824
+"Kano",2023-05-01,"Cholera",87
+"Kano",2023-05-01,"Measles",4108
+"Kano",2023-05-01,"Lassa Fever",2
+"Kano",2023-06-01,"Malaria",90419
+"Kano",2023-06-01,"Cholera",116
+"Kano",2023-06-01,"Measles",3219
+"Kano",2023-06-01,"Lassa Fever",1
+"Kano",2023-07-01,"Malaria",114456
+"Kano",2023-07-01,"Cholera",516
+"Kano",2023-07-01,"Measles",2735
+"Kano",2023-07-01,"Lassa Fever",0
+"Kano",2023-08-01,"Malaria",190329
+"Kano",2023-08-01,"Cholera",274
+"Kano",2023-08-01,"Measles",3121
+"Kano",2023-08-01,"Lassa Fever",1
+"Kano",2023-09-01,"Malaria",259146
+"Kano",2023-09-01,"Cholera",187
+"Kano",2023-09-01,"Measles",3735
+"Kano",2023-09-01,"Lassa Fever",0
+"Kano",2023-10-01,"Malaria",132334
+"Kano",2023-10-01,"Cholera",136
+"Kano",2023-10-01,"Measles",3260
+"Kano",2023-10-01,"Lassa Fever",2
+"Kano",2023-11-01,"Malaria",108759
+"Kano",2023-11-01,"Cholera",97
+"Kano",2023-11-01,"Measles",2794
+"Kano",2023-11-01,"Lassa Fever",1
+"Kano",2023-12-01,"Malaria",99141
+"Kano",2023-12-01,"Cholera",69
+"Kano",2023-12-01,"Measles",3241
+"Kano",2023-12-01,"Lassa Fever",4
+"Kano",2024-01-01,"Malaria",71196
+"Kano",2024-01-01,"Cholera",81
+"Kano",2024-01-01,"Measles",3695
+"Kano",2024-01-01,"Lassa Fever",11
+"Kano",2024-02-01,"Malaria",77925
+"Kano",2024-02-01,"Cholera",72
+"Kano",2024-02-01,"Measles",5008
+"Kano",2024-02-01,"Lassa Fever",8
+"Kano",2024-03-01,"Malaria",85469
+"Kano",2024-03-01,"Cholera",90
+"Kano",2024-03-01,"Measles",6301
+"Kano",2024-03-01,"Lassa Fever",8
+"Kano",2024-04-01,"Malaria",86634
+"Kano",2024-04-01,"Cholera",63
+"Kano",2024-04-01,"Measles",3613
+"Kano",2024-04-01,"Lassa Fever",4
+"Kano",2024-05-01,"Malaria",87899
+"Kano",2024-05-01,"Cholera",108
+"Kano",2024-05-01,"Measles",3366
+"Kano",2024-05-01,"Lassa Fever",2
+"Kano",2024-06-01,"Malaria",85212
+"Kano",2024-06-01,"Cholera",123
+"Kano",2024-06-01,"Measles",2902
+"Kano",2024-06-01,"Lassa Fever",1
+"Kano",2024-07-01,"Malaria",131006
+"Kano",2024-07-01,"Cholera",391
+"Kano",2024-07-01,"Measles",2861
+"Kano",2024-07-01,"Lassa Fever",1
+"Kano",2024-08-01,"Malaria",159510
+"Kano",2024-08-01,"Cholera",527
+"Kano",2024-08-01,"Measles",2998
+"Kano",2024-08-01,"Lassa Fever",0
+"Kano",2024-09-01,"Malaria",201794
+"Kano",2024-09-01,"Cholera",435
+"Kano",2024-09-01,"Measles",2941
+"Kano",2024-09-01,"Lassa Fever",0
+"Kano",2024-10-01,"Malaria",194549
+"Kano",2024-10-01,"Cholera",175
+"Kano",2024-10-01,"Measles",2422
+"Kano",2024-10-01,"Lassa Fever",1
+"Kano",2024-11-01,"Malaria",111500
+"Kano",2024-11-01,"Cholera",90
+"Kano",2024-11-01,"Measles",2934
+"Kano",2024-11-01,"Lassa Fever",3
+"Kano",2024-12-01,"Malaria",112595
+"Kano",2024-12-01,"Cholera",77
+"Kano",2024-12-01,"Measles",2977
+"Kano",2024-12-01,"Lassa Fever",4
+"Bauchi",2019-01-01,"Malaria",46287
+"Bauchi",2019-01-01,"Cholera",39
+"Bauchi",2019-01-01,"Measles",1880
+"Bauchi",2019-01-01,"Lassa Fever",156
+"Bauchi",2019-02-01,"Malaria",40835
+"Bauchi",2019-02-01,"Cholera",22
+"Bauchi",2019-02-01,"Measles",2321
+"Bauchi",2019-02-01,"Lassa Fever",165
+"Bauchi",2019-03-01,"Malaria",49409
+"Bauchi",2019-03-01,"Cholera",33
+"Bauchi",2019-03-01,"Measles",3032
+"Bauchi",2019-03-01,"Lassa Fever",82
+"Bauchi",2019-04-01,"Malaria",39466
+"Bauchi",2019-04-01,"Cholera",24
+"Bauchi",2019-04-01,"Measles",2269
+"Bauchi",2019-04-01,"Lassa Fever",31
+"Bauchi",2019-05-01,"Malaria",43875
+"Bauchi",2019-05-01,"Cholera",43
+"Bauchi",2019-05-01,"Measles",1750
+"Bauchi",2019-05-01,"Lassa Fever",13
+"Bauchi",2019-06-01,"Malaria",44919
+"Bauchi",2019-06-01,"Cholera",86
+"Bauchi",2019-06-01,"Measles",1513
+"Bauchi",2019-06-01,"Lassa Fever",10
+"Bauchi",2019-07-01,"Malaria",47568
+"Bauchi",2019-07-01,"Cholera",224
+"Bauchi",2019-07-01,"Measles",1070
+"Bauchi",2019-07-01,"Lassa Fever",13
+"Bauchi",2019-08-01,"Malaria",73679
+"Bauchi",2019-08-01,"Cholera",271
+"Bauchi",2019-08-01,"Measles",1344
+"Bauchi",2019-08-01,"Lassa Fever",12
+"Bauchi",2019-09-01,"Malaria",86736
+"Bauchi",2019-09-01,"Cholera",117
+"Bauchi",2019-09-01,"Measles",1261
+"Bauchi",2019-09-01,"Lassa Fever",11
+"Bauchi",2019-10-01,"Malaria",84990
+"Bauchi",2019-10-01,"Cholera",80
+"Bauchi",2019-10-01,"Measles",1365
+"Bauchi",2019-10-01,"Lassa Fever",20
+"Bauchi",2019-11-01,"Malaria",46837
+"Bauchi",2019-11-01,"Cholera",29
+"Bauchi",2019-11-01,"Measles",1182
+"Bauchi",2019-11-01,"Lassa Fever",28
+"Bauchi",2019-12-01,"Malaria",47856
+"Bauchi",2019-12-01,"Cholera",32
+"Bauchi",2019-12-01,"Measles",1464
+"Bauchi",2019-12-01,"Lassa Fever",57
+"Bauchi",2020-01-01,"Malaria",47721
+"Bauchi",2020-01-01,"Cholera",37
+"Bauchi",2020-01-01,"Measles",1912
+"Bauchi",2020-01-01,"Lassa Fever",126
+"Bauchi",2020-02-01,"Malaria",35540
+"Bauchi",2020-02-01,"Cholera",30
+"Bauchi",2020-02-01,"Measles",3135
+"Bauchi",2020-02-01,"Lassa Fever",168
+"Bauchi",2020-03-01,"Malaria",43169
+"Bauchi",2020-03-01,"Cholera",28
+"Bauchi",2020-03-01,"Measles",2445
+"Bauchi",2020-03-01,"Lassa Fever",82
+"Bauchi",2020-04-01,"Malaria",34297
+"Bauchi",2020-04-01,"Cholera",33
+"Bauchi",2020-04-01,"Measles",1857
+"Bauchi",2020-04-01,"Lassa Fever",19
+"Bauchi",2020-05-01,"Malaria",35705
+"Bauchi",2020-05-01,"Cholera",21
+"Bauchi",2020-05-01,"Measles",1527
+"Bauchi",2020-05-01,"Lassa Fever",18
+"Bauchi",2020-06-01,"Malaria",32524
+"Bauchi",2020-06-01,"Cholera",39
+"Bauchi",2020-06-01,"Measles",1437
+"Bauchi",2020-06-01,"Lassa Fever",11
+"Bauchi",2020-07-01,"Malaria",57141
+"Bauchi",2020-07-01,"Cholera",170
+"Bauchi",2020-07-01,"Measles",1549
+"Bauchi",2020-07-01,"Lassa Fever",12
+"Bauchi",2020-08-01,"Malaria",82874
+"Bauchi",2020-08-01,"Cholera",230
+"Bauchi",2020-08-01,"Measles",1561
+"Bauchi",2020-08-01,"Lassa Fever",5
+"Bauchi",2020-09-01,"Malaria",102016
+"Bauchi",2020-09-01,"Cholera",123
+"Bauchi",2020-09-01,"Measles",1347
+"Bauchi",2020-09-01,"Lassa Fever",13
+"Bauchi",2020-10-01,"Malaria",84018
+"Bauchi",2020-10-01,"Cholera",87
+"Bauchi",2020-10-01,"Measles",1259
+"Bauchi",2020-10-01,"Lassa Fever",16
+"Bauchi",2020-11-01,"Malaria",51049
+"Bauchi",2020-11-01,"Cholera",35
+"Bauchi",2020-11-01,"Measles",1373
+"Bauchi",2020-11-01,"Lassa Fever",22
+"Bauchi",2020-12-01,"Malaria",35287
+"Bauchi",2020-12-01,"Cholera",29
+"Bauchi",2020-12-01,"Measles",1323
+"Bauchi",2020-12-01,"Lassa Fever",62
+"Bauchi",2021-01-01,"Malaria",41479
+"Bauchi",2021-01-01,"Cholera",29
+"Bauchi",2021-01-01,"Measles",1761
+"Bauchi",2021-01-01,"Lassa Fever",159
+"Bauchi",2021-02-01,"Malaria",46267
+"Bauchi",2021-02-01,"Cholera",29
+"Bauchi",2021-02-01,"Measles",2637
+"Bauchi",2021-02-01,"Lassa Fever",189
+"Bauchi",2021-03-01,"Malaria",44414
+"Bauchi",2021-03-01,"Cholera",45
+"Bauchi",2021-03-01,"Measles",2436
+"Bauchi",2021-03-01,"Lassa Fever",88
+"Bauchi",2021-04-01,"Malaria",40069
+"Bauchi",2021-04-01,"Cholera",31
+"Bauchi",2021-04-01,"Measles",2123
+"Bauchi",2021-04-01,"Lassa Fever",48
+"Bauchi",2021-05-01,"Malaria",45531
+"Bauchi",2021-05-01,"Cholera",29
+"Bauchi",2021-05-01,"Measles",1784
+"Bauchi",2021-05-01,"Lassa Fever",18
+"Bauchi",2021-06-01,"Malaria",43601
+"Bauchi",2021-06-01,"Cholera",51
+"Bauchi",2021-06-01,"Measles",1437
+"Bauchi",2021-06-01,"Lassa Fever",14
+"Bauchi",2021-07-01,"Malaria",48249
+"Bauchi",2021-07-01,"Cholera",201
+"Bauchi",2021-07-01,"Measles",1267
+"Bauchi",2021-07-01,"Lassa Fever",4
+"Bauchi",2021-08-01,"Malaria",74248
+"Bauchi",2021-08-01,"Cholera",117
+"Bauchi",2021-08-01,"Measles",1372
+"Bauchi",2021-08-01,"Lassa Fever",16
+"Bauchi",2021-09-01,"Malaria",122425
+"Bauchi",2021-09-01,"Cholera",192
+"Bauchi",2021-09-01,"Measles",1542
+"Bauchi",2021-09-01,"Lassa Fever",10
+"Bauchi",2021-10-01,"Malaria",87037
+"Bauchi",2021-10-01,"Cholera",53
+"Bauchi",2021-10-01,"Measles",1261
+"Bauchi",2021-10-01,"Lassa Fever",18
+"Bauchi",2021-11-01,"Malaria",65600
+"Bauchi",2021-11-01,"Cholera",44
+"Bauchi",2021-11-01,"Measles",1378
+"Bauchi",2021-11-01,"Lassa Fever",37
+"Bauchi",2021-12-01,"Malaria",45934
+"Bauchi",2021-12-01,"Cholera",44
+"Bauchi",2021-12-01,"Measles",1296
+"Bauchi",2021-12-01,"Lassa Fever",65
+"Bauchi",2022-01-01,"Malaria",49693
+"Bauchi",2022-01-01,"Cholera",36
+"Bauchi",2022-01-01,"Measles",2129
+"Bauchi",2022-01-01,"Lassa Fever",144
+"Bauchi",2022-02-01,"Malaria",41979
+"Bauchi",2022-02-01,"Cholera",39
+"Bauchi",2022-02-01,"Measles",2806
+"Bauchi",2022-02-01,"Lassa Fever",119
+"Bauchi",2022-03-01,"Malaria",50737
+"Bauchi",2022-03-01,"Cholera",32
+"Bauchi",2022-03-01,"Measles",2861
+"Bauchi",2022-03-01,"Lassa Fever",94
+"Bauchi",2022-04-01,"Malaria",32978
+"Bauchi",2022-04-01,"Cholera",44
+"Bauchi",2022-04-01,"Measles",1588
+"Bauchi",2022-04-01,"Lassa Fever",41
+"Bauchi",2022-05-01,"Malaria",35903
+"Bauchi",2022-05-01,"Cholera",39
+"Bauchi",2022-05-01,"Measles",1462
+"Bauchi",2022-05-01,"Lassa Fever",12
+"Bauchi",2022-06-01,"Malaria",43535
+"Bauchi",2022-06-01,"Cholera",72
+"Bauchi",2022-06-01,"Measles",1453
+"Bauchi",2022-06-01,"Lassa Fever",18
+"Bauchi",2022-07-01,"Malaria",52494
+"Bauchi",2022-07-01,"Cholera",1436
+"Bauchi",2022-07-01,"Measles",1123
+"Bauchi",2022-07-01,"Lassa Fever",10
+"Bauchi",2022-08-01,"Malaria",64804
+"Bauchi",2022-08-01,"Cholera",2131
+"Bauchi",2022-08-01,"Measles",1515
+"Bauchi",2022-08-01,"Lassa Fever",11
+"Bauchi",2022-09-01,"Malaria",99187
+"Bauchi",2022-09-01,"Cholera",1039
+"Bauchi",2022-09-01,"Measles",1379
+"Bauchi",2022-09-01,"Lassa Fever",14
+"Bauchi",2022-10-01,"Malaria",83210
+"Bauchi",2022-10-01,"Cholera",665
+"Bauchi",2022-10-01,"Measles",1309
+"Bauchi",2022-10-01,"Lassa Fever",16
+"Bauchi",2022-11-01,"Malaria",62674
+"Bauchi",2022-11-01,"Cholera",45
+"Bauchi",2022-11-01,"Measles",1347
+"Bauchi",2022-11-01,"Lassa Fever",38
+"Bauchi",2022-12-01,"Malaria",45749
+"Bauchi",2022-12-01,"Cholera",51
+"Bauchi",2022-12-01,"Measles",1531
+"Bauchi",2022-12-01,"Lassa Fever",63
+"Bauchi",2023-01-01,"Malaria",47366
+"Bauchi",2023-01-01,"Cholera",29
+"Bauchi",2023-01-01,"Measles",1958
+"Bauchi",2023-01-01,"Lassa Fever",156
+"Bauchi",2023-02-01,"Malaria",32798
+"Bauchi",2023-02-01,"Cholera",48
+"Bauchi",2023-02-01,"Measles",3063
+"Bauchi",2023-02-01,"Lassa Fever",186
+"Bauchi",2023-03-01,"Malaria",36239
+"Bauchi",2023-03-01,"Cholera",27
+"Bauchi",2023-03-01,"Measles",3193
+"Bauchi",2023-03-01,"Lassa Fever",92
+"Bauchi",2023-04-01,"Malaria",38209
+"Bauchi",2023-04-01,"Cholera",41
+"Bauchi",2023-04-01,"Measles",2419
+"Bauchi",2023-04-01,"Lassa Fever",22
+"Bauchi",2023-05-01,"Malaria",43896
+"Bauchi",2023-05-01,"Cholera",28
+"Bauchi",2023-05-01,"Measles",1789
+"Bauchi",2023-05-01,"Lassa Fever",17
+"Bauchi",2023-06-01,"Malaria",44291
+"Bauchi",2023-06-01,"Cholera",50
+"Bauchi",2023-06-01,"Measles",1582
+"Bauchi",2023-06-01,"Lassa Fever",17
+"Bauchi",2023-07-01,"Malaria",55684
+"Bauchi",2023-07-01,"Cholera",186
+"Bauchi",2023-07-01,"Measles",1568
+"Bauchi",2023-07-01,"Lassa Fever",20
+"Bauchi",2023-08-01,"Malaria",74150
+"Bauchi",2023-08-01,"Cholera",177
+"Bauchi",2023-08-01,"Measles",1307
+"Bauchi",2023-08-01,"Lassa Fever",11
+"Bauchi",2023-09-01,"Malaria",110785
+"Bauchi",2023-09-01,"Cholera",145
+"Bauchi",2023-09-01,"Measles",1564
+"Bauchi",2023-09-01,"Lassa Fever",16
+"Bauchi",2023-10-01,"Malaria",69522
+"Bauchi",2023-10-01,"Cholera",61
+"Bauchi",2023-10-01,"Measles",1693
+"Bauchi",2023-10-01,"Lassa Fever",23
+"Bauchi",2023-11-01,"Malaria",53089
+"Bauchi",2023-11-01,"Cholera",40
+"Bauchi",2023-11-01,"Measles",1073
+"Bauchi",2023-11-01,"Lassa Fever",38
+"Bauchi",2023-12-01,"Malaria",36897
+"Bauchi",2023-12-01,"Cholera",29
+"Bauchi",2023-12-01,"Measles",1552
+"Bauchi",2023-12-01,"Lassa Fever",90
+"Bauchi",2024-01-01,"Malaria",37518
+"Bauchi",2024-01-01,"Cholera",46
+"Bauchi",2024-01-01,"Measles",2156
+"Bauchi",2024-01-01,"Lassa Fever",172
+"Bauchi",2024-02-01,"Malaria",38639
+"Bauchi",2024-02-01,"Cholera",43
+"Bauchi",2024-02-01,"Measles",2681
+"Bauchi",2024-02-01,"Lassa Fever",127
+"Bauchi",2024-03-01,"Malaria",43273
+"Bauchi",2024-03-01,"Cholera",33
+"Bauchi",2024-03-01,"Measles",2835
+"Bauchi",2024-03-01,"Lassa Fever",91
+"Bauchi",2024-04-01,"Malaria",38663
+"Bauchi",2024-04-01,"Cholera",36
+"Bauchi",2024-04-01,"Measles",2279
+"Bauchi",2024-04-01,"Lassa Fever",35
+"Bauchi",2024-05-01,"Malaria",51915
+"Bauchi",2024-05-01,"Cholera",50
+"Bauchi",2024-05-01,"Measles",2081
+"Bauchi",2024-05-01,"Lassa Fever",18
+"Bauchi",2024-06-01,"Malaria",44286
+"Bauchi",2024-06-01,"Cholera",76
+"Bauchi",2024-06-01,"Measles",1388
+"Bauchi",2024-06-01,"Lassa Fever",15
+"Bauchi",2024-07-01,"Malaria",45009
+"Bauchi",2024-07-01,"Cholera",159
+"Bauchi",2024-07-01,"Measles",1473
+"Bauchi",2024-07-01,"Lassa Fever",8
+"Bauchi",2024-08-01,"Malaria",69528
+"Bauchi",2024-08-01,"Cholera",273
+"Bauchi",2024-08-01,"Measles",1771
+"Bauchi",2024-08-01,"Lassa Fever",16
+"Bauchi",2024-09-01,"Malaria",85852
+"Bauchi",2024-09-01,"Cholera",193
+"Bauchi",2024-09-01,"Measles",1461
+"Bauchi",2024-09-01,"Lassa Fever",17
+"Bauchi",2024-10-01,"Malaria",80309
+"Bauchi",2024-10-01,"Cholera",62
+"Bauchi",2024-10-01,"Measles",1547
+"Bauchi",2024-10-01,"Lassa Fever",16
+"Bauchi",2024-11-01,"Malaria",53586
+"Bauchi",2024-11-01,"Cholera",39
+"Bauchi",2024-11-01,"Measles",1552
+"Bauchi",2024-11-01,"Lassa Fever",33
+"Bauchi",2024-12-01,"Malaria",49188
+"Bauchi",2024-12-01,"Cholera",38
+"Bauchi",2024-12-01,"Measles",1472
+"Bauchi",2024-12-01,"Lassa Fever",72
+"Borno",2019-01-01,"Malaria",32950
+"Borno",2019-01-01,"Cholera",28
+"Borno",2019-01-01,"Measles",2379
+"Borno",2019-01-01,"Lassa Fever",4
+"Borno",2019-02-01,"Malaria",34267
+"Borno",2019-02-01,"Cholera",30
+"Borno",2019-02-01,"Measles",2034
+"Borno",2019-02-01,"Lassa Fever",2
+"Borno",2019-03-01,"Malaria",30665
+"Borno",2019-03-01,"Cholera",40
+"Borno",2019-03-01,"Measles",2175
+"Borno",2019-03-01,"Lassa Fever",1
+"Borno",2019-04-01,"Malaria",32250
+"Borno",2019-04-01,"Cholera",29
+"Borno",2019-04-01,"Measles",2128
+"Borno",2019-04-01,"Lassa Fever",2
+"Borno",2019-05-01,"Malaria",40288
+"Borno",2019-05-01,"Cholera",42
+"Borno",2019-05-01,"Measles",1463
+"Borno",2019-05-01,"Lassa Fever",1
+"Borno",2019-06-01,"Malaria",35977
+"Borno",2019-06-01,"Cholera",68
+"Borno",2019-06-01,"Measles",1274
+"Borno",2019-06-01,"Lassa Fever",1
+"Borno",2019-07-01,"Malaria",41733
+"Borno",2019-07-01,"Cholera",126
+"Borno",2019-07-01,"Measles",1275
+"Borno",2019-07-01,"Lassa Fever",0
+"Borno",2019-08-01,"Malaria",69090
+"Borno",2019-08-01,"Cholera",166
+"Borno",2019-08-01,"Measles",1361
+"Borno",2019-08-01,"Lassa Fever",0
+"Borno",2019-09-01,"Malaria",76241
+"Borno",2019-09-01,"Cholera",98
+"Borno",2019-09-01,"Measles",1122
+"Borno",2019-09-01,"Lassa Fever",0
+"Borno",2019-10-01,"Malaria",62648
+"Borno",2019-10-01,"Cholera",41
+"Borno",2019-10-01,"Measles",1218
+"Borno",2019-10-01,"Lassa Fever",1
+"Borno",2019-11-01,"Malaria",40634
+"Borno",2019-11-01,"Cholera",30
+"Borno",2019-11-01,"Measles",1138
+"Borno",2019-11-01,"Lassa Fever",2
+"Borno",2019-12-01,"Malaria",40377
+"Borno",2019-12-01,"Cholera",27
+"Borno",2019-12-01,"Measles",1035
+"Borno",2019-12-01,"Lassa Fever",1
+"Borno",2020-01-01,"Malaria",36364
+"Borno",2020-01-01,"Cholera",37
+"Borno",2020-01-01,"Measles",1948
+"Borno",2020-01-01,"Lassa Fever",2
+"Borno",2020-02-01,"Malaria",36334
+"Borno",2020-02-01,"Cholera",39
+"Borno",2020-02-01,"Measles",2507
+"Borno",2020-02-01,"Lassa Fever",5
+"Borno",2020-03-01,"Malaria",38322
+"Borno",2020-03-01,"Cholera",23
+"Borno",2020-03-01,"Measles",3377
+"Borno",2020-03-01,"Lassa Fever",2
+"Borno",2020-04-01,"Malaria",35662
+"Borno",2020-04-01,"Cholera",21
+"Borno",2020-04-01,"Measles",2143
+"Borno",2020-04-01,"Lassa Fever",0
+"Borno",2020-05-01,"Malaria",33128
+"Borno",2020-05-01,"Cholera",22
+"Borno",2020-05-01,"Measles",1317
+"Borno",2020-05-01,"Lassa Fever",2
+"Borno",2020-06-01,"Malaria",31998
+"Borno",2020-06-01,"Cholera",45
+"Borno",2020-06-01,"Measles",1400
+"Borno",2020-06-01,"Lassa Fever",0
+"Borno",2020-07-01,"Malaria",49768
+"Borno",2020-07-01,"Cholera",98
+"Borno",2020-07-01,"Measles",1214
+"Borno",2020-07-01,"Lassa Fever",0
+"Borno",2020-08-01,"Malaria",72042
+"Borno",2020-08-01,"Cholera",248
+"Borno",2020-08-01,"Measles",1514
+"Borno",2020-08-01,"Lassa Fever",1
+"Borno",2020-09-01,"Malaria",63111
+"Borno",2020-09-01,"Cholera",98
+"Borno",2020-09-01,"Measles",1195
+"Borno",2020-09-01,"Lassa Fever",0
+"Borno",2020-10-01,"Malaria",71316
+"Borno",2020-10-01,"Cholera",42
+"Borno",2020-10-01,"Measles",1441
+"Borno",2020-10-01,"Lassa Fever",2
+"Borno",2020-11-01,"Malaria",39385
+"Borno",2020-11-01,"Cholera",38
+"Borno",2020-11-01,"Measles",1746
+"Borno",2020-11-01,"Lassa Fever",0
+"Borno",2020-12-01,"Malaria",34874
+"Borno",2020-12-01,"Cholera",25
+"Borno",2020-12-01,"Measles",1106
+"Borno",2020-12-01,"Lassa Fever",2
+"Borno",2021-01-01,"Malaria",40349
+"Borno",2021-01-01,"Cholera",22
+"Borno",2021-01-01,"Measles",1852
+"Borno",2021-01-01,"Lassa Fever",2
+"Borno",2021-02-01,"Malaria",30028
+"Borno",2021-02-01,"Cholera",28
+"Borno",2021-02-01,"Measles",2929
+"Borno",2021-02-01,"Lassa Fever",5
+"Borno",2021-03-01,"Malaria",38015
+"Borno",2021-03-01,"Cholera",34
+"Borno",2021-03-01,"Measles",2263
+"Borno",2021-03-01,"Lassa Fever",1
+"Borno",2021-04-01,"Malaria",34366
+"Borno",2021-04-01,"Cholera",22
+"Borno",2021-04-01,"Measles",1932
+"Borno",2021-04-01,"Lassa Fever",1
+"Borno",2021-05-01,"Malaria",35567
+"Borno",2021-05-01,"Cholera",27
+"Borno",2021-05-01,"Measles",1363
+"Borno",2021-05-01,"Lassa Fever",0
+"Borno",2021-06-01,"Malaria",39708
+"Borno",2021-06-01,"Cholera",37
+"Borno",2021-06-01,"Measles",1543
+"Borno",2021-06-01,"Lassa Fever",0
+"Borno",2021-07-01,"Malaria",44214
+"Borno",2021-07-01,"Cholera",929
+"Borno",2021-07-01,"Measles",1363
+"Borno",2021-07-01,"Lassa Fever",0
+"Borno",2021-08-01,"Malaria",53604
+"Borno",2021-08-01,"Cholera",1054
+"Borno",2021-08-01,"Measles",1219
+"Borno",2021-08-01,"Lassa Fever",0
+"Borno",2021-09-01,"Malaria",88603
+"Borno",2021-09-01,"Cholera",1124
+"Borno",2021-09-01,"Measles",1613
+"Borno",2021-09-01,"Lassa Fever",0
+"Borno",2021-10-01,"Malaria",57762
+"Borno",2021-10-01,"Cholera",325
+"Borno",2021-10-01,"Measles",1491
+"Borno",2021-10-01,"Lassa Fever",0
+"Borno",2021-11-01,"Malaria",32115
+"Borno",2021-11-01,"Cholera",32
+"Borno",2021-11-01,"Measles",1255
+"Borno",2021-11-01,"Lassa Fever",1
+"Borno",2021-12-01,"Malaria",38973
+"Borno",2021-12-01,"Cholera",33
+"Borno",2021-12-01,"Measles",1298
+"Borno",2021-12-01,"Lassa Fever",2
+"Borno",2022-01-01,"Malaria",36074
+"Borno",2022-01-01,"Cholera",26
+"Borno",2022-01-01,"Measles",1712
+"Borno",2022-01-01,"Lassa Fever",8
+"Borno",2022-02-01,"Malaria",31385
+"Borno",2022-02-01,"Cholera",18
+"Borno",2022-02-01,"Measles",2050
+"Borno",2022-02-01,"Lassa Fever",4
+"Borno",2022-03-01,"Malaria",40883
+"Borno",2022-03-01,"Cholera",30
+"Borno",2022-03-01,"Measles",2325
+"Borno",2022-03-01,"Lassa Fever",2
+"Borno",2022-04-01,"Malaria",39127
+"Borno",2022-04-01,"Cholera",33
+"Borno",2022-04-01,"Measles",2129
+"Borno",2022-04-01,"Lassa Fever",2
+"Borno",2022-05-01,"Malaria",29022
+"Borno",2022-05-01,"Cholera",42
+"Borno",2022-05-01,"Measles",1641
+"Borno",2022-05-01,"Lassa Fever",0
+"Borno",2022-06-01,"Malaria",41621
+"Borno",2022-06-01,"Cholera",50
+"Borno",2022-06-01,"Measles",1348
+"Borno",2022-06-01,"Lassa Fever",0
+"Borno",2022-07-01,"Malaria",40558
+"Borno",2022-07-01,"Cholera",106
+"Borno",2022-07-01,"Measles",1207
+"Borno",2022-07-01,"Lassa Fever",0
+"Borno",2022-08-01,"Malaria",65185
+"Borno",2022-08-01,"Cholera",176
+"Borno",2022-08-01,"Measles",1392
+"Borno",2022-08-01,"Lassa Fever",0
+"Borno",2022-09-01,"Malaria",72759
+"Borno",2022-09-01,"Cholera",156
+"Borno",2022-09-01,"Measles",1623
+"Borno",2022-09-01,"Lassa Fever",0
+"Borno",2022-10-01,"Malaria",71722
+"Borno",2022-10-01,"Cholera",52
+"Borno",2022-10-01,"Measles",1238
+"Borno",2022-10-01,"Lassa Fever",2
+"Borno",2022-11-01,"Malaria",39667
+"Borno",2022-11-01,"Cholera",31
+"Borno",2022-11-01,"Measles",1375
+"Borno",2022-11-01,"Lassa Fever",1
+"Borno",2022-12-01,"Malaria",34347
+"Borno",2022-12-01,"Cholera",35
+"Borno",2022-12-01,"Measles",1549
+"Borno",2022-12-01,"Lassa Fever",1
+"Borno",2023-01-01,"Malaria",38923
+"Borno",2023-01-01,"Cholera",29
+"Borno",2023-01-01,"Measles",2481
+"Borno",2023-01-01,"Lassa Fever",7
+"Borno",2023-02-01,"Malaria",32036
+"Borno",2023-02-01,"Cholera",30
+"Borno",2023-02-01,"Measles",2409
+"Borno",2023-02-01,"Lassa Fever",7
+"Borno",2023-03-01,"Malaria",34461
+"Borno",2023-03-01,"Cholera",26
+"Borno",2023-03-01,"Measles",2196
+"Borno",2023-03-01,"Lassa Fever",2
+"Borno",2023-04-01,"Malaria",45464
+"Borno",2023-04-01,"Cholera",20
+"Borno",2023-04-01,"Measles",2164
+"Borno",2023-04-01,"Lassa Fever",1
+"Borno",2023-05-01,"Malaria",39416
+"Borno",2023-05-01,"Cholera",29
+"Borno",2023-05-01,"Measles",1488
+"Borno",2023-05-01,"Lassa Fever",0
+"Borno",2023-06-01,"Malaria",35891
+"Borno",2023-06-01,"Cholera",61
+"Borno",2023-06-01,"Measles",1427
+"Borno",2023-06-01,"Lassa Fever",0
+"Borno",2023-07-01,"Malaria",38744
+"Borno",2023-07-01,"Cholera",173
+"Borno",2023-07-01,"Measles",1506
+"Borno",2023-07-01,"Lassa Fever",1
+"Borno",2023-08-01,"Malaria",59015
+"Borno",2023-08-01,"Cholera",169
+"Borno",2023-08-01,"Measles",1459
+"Borno",2023-08-01,"Lassa Fever",1
+"Borno",2023-09-01,"Malaria",84010
+"Borno",2023-09-01,"Cholera",103
+"Borno",2023-09-01,"Measles",1136
+"Borno",2023-09-01,"Lassa Fever",1
+"Borno",2023-10-01,"Malaria",74689
+"Borno",2023-10-01,"Cholera",79
+"Borno",2023-10-01,"Measles",1652
+"Borno",2023-10-01,"Lassa Fever",0
+"Borno",2023-11-01,"Malaria",45651
+"Borno",2023-11-01,"Cholera",45
+"Borno",2023-11-01,"Measles",1349
+"Borno",2023-11-01,"Lassa Fever",0
+"Borno",2023-12-01,"Malaria",35067
+"Borno",2023-12-01,"Cholera",20
+"Borno",2023-12-01,"Measles",1221
+"Borno",2023-12-01,"Lassa Fever",3
+"Borno",2024-01-01,"Malaria",36317
+"Borno",2024-01-01,"Cholera",25
+"Borno",2024-01-01,"Measles",2099
+"Borno",2024-01-01,"Lassa Fever",6
+"Borno",2024-02-01,"Malaria",38720
+"Borno",2024-02-01,"Cholera",37
+"Borno",2024-02-01,"Measles",2374
+"Borno",2024-02-01,"Lassa Fever",3
+"Borno",2024-03-01,"Malaria",39528
+"Borno",2024-03-01,"Cholera",33
+"Borno",2024-03-01,"Measles",2361
+"Borno",2024-03-01,"Lassa Fever",2
+"Borno",2024-04-01,"Malaria",32328
+"Borno",2024-04-01,"Cholera",36
+"Borno",2024-04-01,"Measles",1769
+"Borno",2024-04-01,"Lassa Fever",0
+"Borno",2024-05-01,"Malaria",34144
+"Borno",2024-05-01,"Cholera",30
+"Borno",2024-05-01,"Measles",1380
+"Borno",2024-05-01,"Lassa Fever",2
+"Borno",2024-06-01,"Malaria",35898
+"Borno",2024-06-01,"Cholera",65
+"Borno",2024-06-01,"Measles",1115
+"Borno",2024-06-01,"Lassa Fever",0
+"Borno",2024-07-01,"Malaria",54024
+"Borno",2024-07-01,"Cholera",147
+"Borno",2024-07-01,"Measles",1522
+"Borno",2024-07-01,"Lassa Fever",0
+"Borno",2024-08-01,"Malaria",52093
+"Borno",2024-08-01,"Cholera",134
+"Borno",2024-08-01,"Measles",1844
+"Borno",2024-08-01,"Lassa Fever",0
+"Borno",2024-09-01,"Malaria",81880
+"Borno",2024-09-01,"Cholera",96
+"Borno",2024-09-01,"Measles",1620
+"Borno",2024-09-01,"Lassa Fever",1
+"Borno",2024-10-01,"Malaria",56496
+"Borno",2024-10-01,"Cholera",58
+"Borno",2024-10-01,"Measles",1363
+"Borno",2024-10-01,"Lassa Fever",0
+"Borno",2024-11-01,"Malaria",42000
+"Borno",2024-11-01,"Cholera",28
+"Borno",2024-11-01,"Measles",1474
+"Borno",2024-11-01,"Lassa Fever",3
+"Borno",2024-12-01,"Malaria",32661
+"Borno",2024-12-01,"Cholera",40
+"Borno",2024-12-01,"Measles",1235
+"Borno",2024-12-01,"Lassa Fever",0

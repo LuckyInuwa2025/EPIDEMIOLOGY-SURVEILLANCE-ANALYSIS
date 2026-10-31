@@ -1,0 +1,289 @@
+"state","geopolitical_zone","disease","year","cases"
+"Bauchi","North East","Cholera",2019,1000
+"Bauchi","North East","Cholera",2020,862
+"Bauchi","North East","Cholera",2021,865
+"Bauchi","North East","Cholera",2022,5629
+"Bauchi","North East","Cholera",2023,861
+"Bauchi","North East","Cholera",2024,1048
+"Bauchi","North East","Lassa Fever",2019,598
+"Bauchi","North East","Lassa Fever",2020,554
+"Bauchi","North East","Lassa Fever",2021,666
+"Bauchi","North East","Lassa Fever",2022,580
+"Bauchi","North East","Lassa Fever",2023,688
+"Bauchi","North East","Lassa Fever",2024,620
+"Bauchi","North East","Malaria",2019,652457
+"Bauchi","North East","Malaria",2020,641341
+"Bauchi","North East","Malaria",2021,704854
+"Bauchi","North East","Malaria",2022,662943
+"Bauchi","North East","Malaria",2023,642926
+"Bauchi","North East","Malaria",2024,637766
+"Bauchi","North East","Measles",2019,20451
+"Bauchi","North East","Measles",2020,20725
+"Bauchi","North East","Measles",2021,20294
+"Bauchi","North East","Measles",2022,20503
+"Bauchi","North East","Measles",2023,22761
+"Bauchi","North East","Measles",2024,22696
+"Benue","North Central","Cholera",2019,857
+"Benue","North Central","Cholera",2020,4175
+"Benue","North Central","Cholera",2021,915
+"Benue","North Central","Cholera",2022,900
+"Benue","North Central","Cholera",2023,852
+"Benue","North Central","Cholera",2024,1048
+"Benue","North Central","Lassa Fever",2019,133
+"Benue","North Central","Lassa Fever",2020,149
+"Benue","North Central","Lassa Fever",2021,173
+"Benue","North Central","Lassa Fever",2022,177
+"Benue","North Central","Lassa Fever",2023,139
+"Benue","North Central","Lassa Fever",2024,148
+"Benue","North Central","Malaria",2019,511209
+"Benue","North Central","Malaria",2020,496717
+"Benue","North Central","Malaria",2021,502836
+"Benue","North Central","Malaria",2022,497482
+"Benue","North Central","Malaria",2023,500018
+"Benue","North Central","Malaria",2024,466446
+"Benue","North Central","Measles",2019,13756
+"Benue","North Central","Measles",2020,14991
+"Benue","North Central","Measles",2021,13962
+"Benue","North Central","Measles",2022,14136
+"Benue","North Central","Measles",2023,15720
+"Benue","North Central","Measles",2024,14111
+"Borno","North East","Cholera",2019,725
+"Borno","North East","Cholera",2020,736
+"Borno","North East","Cholera",2021,3667
+"Borno","North East","Cholera",2022,755
+"Borno","North East","Cholera",2023,784
+"Borno","North East","Cholera",2024,729
+"Borno","North East","Lassa Fever",2019,15
+"Borno","North East","Lassa Fever",2020,16
+"Borno","North East","Lassa Fever",2021,12
+"Borno","North East","Lassa Fever",2022,20
+"Borno","North East","Lassa Fever",2023,23
+"Borno","North East","Lassa Fever",2024,17
+"Borno","North East","Malaria",2019,537120
+"Borno","North East","Malaria",2020,542304
+"Borno","North East","Malaria",2021,533304
+"Borno","North East","Malaria",2022,542350
+"Borno","North East","Malaria",2023,563367
+"Borno","North East","Malaria",2024,536089
+"Borno","North East","Measles",2019,18602
+"Borno","North East","Measles",2020,20908
+"Borno","North East","Measles",2021,20121
+"Borno","North East","Measles",2022,19589
+"Borno","North East","Measles",2023,20488
+"Borno","North East","Measles",2024,20156
+"Edo","South South","Cholera",2019,1059
+"Edo","South South","Cholera",2020,1101
+"Edo","South South","Cholera",2021,1085
+"Edo","South South","Cholera",2022,1210
+"Edo","South South","Cholera",2023,1191
+"Edo","South South","Cholera",2024,1118
+"Edo","South South","Lassa Fever",2019,357
+"Edo","South South","Lassa Fever",2020,400
+"Edo","South South","Lassa Fever",2021,386
+"Edo","South South","Lassa Fever",2022,426
+"Edo","South South","Lassa Fever",2023,433
+"Edo","South South","Lassa Fever",2024,381
+"Edo","South South","Malaria",2019,469666
+"Edo","South South","Malaria",2020,443626
+"Edo","South South","Malaria",2021,461901
+"Edo","South South","Malaria",2022,495673
+"Edo","South South","Malaria",2023,453569
+"Edo","South South","Malaria",2024,485070
+"Edo","South South","Measles",2019,9461
+"Edo","South South","Measles",2020,8652
+"Edo","South South","Measles",2021,9518
+"Edo","South South","Measles",2022,9306
+"Edo","South South","Measles",2023,9411
+"Edo","South South","Measles",2024,9510
+"Enugu","South East","Cholera",2019,1078
+"Enugu","South East","Cholera",2020,1033
+"Enugu","South East","Cholera",2021,1231
+"Enugu","South East","Cholera",2022,1249
+"Enugu","South East","Cholera",2023,1330
+"Enugu","South East","Cholera",2024,5275
+"Enugu","South East","Lassa Fever",2019,19
+"Enugu","South East","Lassa Fever",2020,11
+"Enugu","South East","Lassa Fever",2021,8
+"Enugu","South East","Lassa Fever",2022,8
+"Enugu","South East","Lassa Fever",2023,15
+"Enugu","South East","Lassa Fever",2024,11
+"Enugu","South East","Malaria",2019,526117
+"Enugu","South East","Malaria",2020,475014
+"Enugu","South East","Malaria",2021,472509
+"Enugu","South East","Malaria",2022,495072
+"Enugu","South East","Malaria",2023,468718
+"Enugu","South East","Malaria",2024,476751
+"Enugu","South East","Measles",2019,7585
+"Enugu","South East","Measles",2020,8664
+"Enugu","South East","Measles",2021,7958
+"Enugu","South East","Measles",2022,7508
+"Enugu","South East","Measles",2023,7481
+"Enugu","South East","Measles",2024,8402
+"FCT","North Central","Cholera",2019,496
+"FCT","North Central","Cholera",2020,437
+"FCT","North Central","Cholera",2021,607
+"FCT","North Central","Cholera",2022,537
+"FCT","North Central","Cholera",2023,569
+"FCT","North Central","Cholera",2024,669
+"FCT","North Central","Lassa Fever",2019,10
+"FCT","North Central","Lassa Fever",2020,12
+"FCT","North Central","Lassa Fever",2021,5
+"FCT","North Central","Lassa Fever",2022,12
+"FCT","North Central","Lassa Fever",2023,10
+"FCT","North Central","Lassa Fever",2024,15
+"FCT","North Central","Malaria",2019,291235
+"FCT","North Central","Malaria",2020,288470
+"FCT","North Central","Malaria",2021,288474
+"FCT","North Central","Malaria",2022,306116
+"FCT","North Central","Malaria",2023,289834
+"FCT","North Central","Malaria",2024,296381
+"FCT","North Central","Measles",2019,5660
+"FCT","North Central","Measles",2020,5983
+"FCT","North Central","Measles",2021,5340
+"FCT","North Central","Measles",2022,5212
+"FCT","North Central","Measles",2023,4983
+"FCT","North Central","Measles",2024,5579
+"Kaduna","North West","Cholera",2019,1006
+"Kaduna","North West","Cholera",2020,982
+"Kaduna","North West","Cholera",2021,985
+"Kaduna","North West","Cholera",2022,1058
+"Kaduna","North West","Cholera",2023,1139
+"Kaduna","North West","Cholera",2024,7580
+"Kaduna","North West","Lassa Fever",2019,28
+"Kaduna","North West","Lassa Fever",2020,19
+"Kaduna","North West","Lassa Fever",2021,23
+"Kaduna","North West","Lassa Fever",2022,21
+"Kaduna","North West","Lassa Fever",2023,17
+"Kaduna","North West","Lassa Fever",2024,30
+"Kaduna","North West","Malaria",2019,865401
+"Kaduna","North West","Malaria",2020,770406
+"Kaduna","North West","Malaria",2021,890339
+"Kaduna","North West","Malaria",2022,755082
+"Kaduna","North West","Malaria",2023,843952
+"Kaduna","North West","Malaria",2024,844327
+"Kaduna","North West","Measles",2019,22574
+"Kaduna","North West","Measles",2020,24332
+"Kaduna","North West","Measles",2021,24842
+"Kaduna","North West","Measles",2022,23509
+"Kaduna","North West","Measles",2023,24008
+"Kaduna","North West","Measles",2024,24275
+"Kano","North West","Cholera",2019,1571
+"Kano","North West","Cholera",2020,1652
+"Kano","North West","Cholera",2021,12411
+"Kano","North West","Cholera",2022,2152
+"Kano","North West","Cholera",2023,1795
+"Kano","North West","Cholera",2024,2232
+"Kano","North West","Lassa Fever",2019,32
+"Kano","North West","Lassa Fever",2020,56
+"Kano","North West","Lassa Fever",2021,37
+"Kano","North West","Lassa Fever",2022,42
+"Kano","North West","Lassa Fever",2023,30
+"Kano","North West","Lassa Fever",2024,43
+"Kano","North West","Malaria",2019,1470564
+"Kano","North West","Malaria",2020,1355714
+"Kano","North West","Malaria",2021,1462545
+"Kano","North West","Malaria",2022,1535544
+"Kano","North West","Malaria",2023,1440913
+"Kano","North West","Malaria",2024,1405289
+"Kano","North West","Measles",2019,45306
+"Kano","North West","Measles",2020,44675
+"Kano","North West","Measles",2021,43836
+"Kano","North West","Measles",2022,46602
+"Kano","North West","Measles",2023,44736
+"Kano","North West","Measles",2024,42018
+"Lagos","South West","Cholera",2019,3361
+"Lagos","South West","Cholera",2020,3537
+"Lagos","South West","Cholera",2021,3333
+"Lagos","South West","Cholera",2022,11817
+"Lagos","South West","Cholera",2023,3204
+"Lagos","South West","Cholera",2024,3674
+"Lagos","South West","Lassa Fever",2019,28
+"Lagos","South West","Lassa Fever",2020,39
+"Lagos","South West","Lassa Fever",2021,41
+"Lagos","South West","Lassa Fever",2022,36
+"Lagos","South West","Lassa Fever",2023,35
+"Lagos","South West","Lassa Fever",2024,31
+"Lagos","South West","Malaria",2019,1502593
+"Lagos","South West","Malaria",2020,1473548
+"Lagos","South West","Malaria",2021,1459416
+"Lagos","South West","Malaria",2022,1437170
+"Lagos","South West","Malaria",2023,1430002
+"Lagos","South West","Malaria",2024,1493026
+"Lagos","South West","Measles",2019,19278
+"Lagos","South West","Measles",2020,22306
+"Lagos","South West","Measles",2021,19703
+"Lagos","South West","Measles",2022,19561
+"Lagos","South West","Measles",2023,19462
+"Lagos","South West","Measles",2024,19829
+"Ondo","South West","Cholera",2019,993
+"Ondo","South West","Cholera",2020,1042
+"Ondo","South West","Cholera",2021,1132
+"Ondo","South West","Cholera",2022,1224
+"Ondo","South West","Cholera",2023,1311
+"Ondo","South West","Cholera",2024,1245
+"Ondo","South West","Lassa Fever",2019,352
+"Ondo","South West","Lassa Fever",2020,372
+"Ondo","South West","Lassa Fever",2021,417
+"Ondo","South West","Lassa Fever",2022,397
+"Ondo","South West","Lassa Fever",2023,442
+"Ondo","South West","Lassa Fever",2024,517
+"Ondo","South West","Malaria",2019,501094
+"Ondo","South West","Malaria",2020,487601
+"Ondo","South West","Malaria",2021,506523
+"Ondo","South West","Malaria",2022,526428
+"Ondo","South West","Malaria",2023,504151
+"Ondo","South West","Malaria",2024,537277
+"Ondo","South West","Measles",2019,8932
+"Ondo","South West","Measles",2020,9544
+"Ondo","South West","Measles",2021,8700
+"Ondo","South West","Measles",2022,9431
+"Ondo","South West","Measles",2023,9476
+"Ondo","South West","Measles",2024,9185
+"Oyo","South West","Cholera",2019,1615
+"Oyo","South West","Cholera",2020,1711
+"Oyo","South West","Cholera",2021,1937
+"Oyo","South West","Cholera",2022,1962
+"Oyo","South West","Cholera",2023,2189
+"Oyo","South West","Cholera",2024,2259
+"Oyo","South West","Lassa Fever",2019,15
+"Oyo","South West","Lassa Fever",2020,21
+"Oyo","South West","Lassa Fever",2021,21
+"Oyo","South West","Lassa Fever",2022,20
+"Oyo","South West","Lassa Fever",2023,26
+"Oyo","South West","Lassa Fever",2024,27
+"Oyo","South West","Malaria",2019,838530
+"Oyo","South West","Malaria",2020,802828
+"Oyo","South West","Malaria",2021,864373
+"Oyo","South West","Malaria",2022,818403
+"Oyo","South West","Malaria",2023,882191
+"Oyo","South West","Malaria",2024,823754
+"Oyo","South West","Measles",2019,13077
+"Oyo","South West","Measles",2020,14262
+"Oyo","South West","Measles",2021,12799
+"Oyo","South West","Measles",2022,14327
+"Oyo","South West","Measles",2023,15604
+"Oyo","South West","Measles",2024,13540
+"Rivers","South South","Cholera",2019,1711
+"Rivers","South South","Cholera",2020,1635
+"Rivers","South South","Cholera",2021,1768
+"Rivers","South South","Cholera",2022,2046
+"Rivers","South South","Cholera",2023,9485
+"Rivers","South South","Cholera",2024,1990
+"Rivers","South South","Lassa Fever",2019,18
+"Rivers","South South","Lassa Fever",2020,13
+"Rivers","South South","Lassa Fever",2021,21
+"Rivers","South South","Lassa Fever",2022,15
+"Rivers","South South","Lassa Fever",2023,18
+"Rivers","South South","Lassa Fever",2024,22
+"Rivers","South South","Malaria",2019,819154
+"Rivers","South South","Malaria",2020,779311
+"Rivers","South South","Malaria",2021,817187
+"Rivers","South South","Malaria",2022,820853
+"Rivers","South South","Malaria",2023,802721
+"Rivers","South South","Malaria",2024,797601
+"Rivers","South South","Measles",2019,15655
+"Rivers","South South","Measles",2020,16665
+"Rivers","South South","Measles",2021,14799
+"Rivers","South South","Measles",2022,15571
+"Rivers","South South","Measles",2023,15675
+"Rivers","South South","Measles",2024,15886
