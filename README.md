@@ -32,8 +32,11 @@ Analysis of monthly disease surveillance data for 12 Nigerian states
 - Reporting dipped in April–June 2020
 
 ## Selected outputs
-![Epi curves](Outputs/Plots/04_epi_curves.png)
-![Seasonal loop](Outputs/Plots/06_seasonal_loop_rainfall_malaria.png)
+<img width="381" height="246" alt="04_epi_curves" src="https://github.com/user-attachments/assets/3d696079-e08e-4ee2-9750-a72468f117c6" />
+
+
+<img width="381" height="246" alt="06_seasonal_loop_rainfall_malaria" src="https://github.com/user-attachments/assets/d4a6b69b-fa84-4ef2-aacb-d894753fbd0d" />
+
 
 ## How to reproduce
 1. Clone: `git clone https://github.com/YOUR-USERNAME/epi-surveillance-analysis.git`
